@@ -1,73 +1,68 @@
----
+# Site Settings
+title: Bulma Clean Theme
+tagline: Bulma Clean Theme
+theme: bulma-clean-theme
+email: your-email@domain.com
+description: >
+  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+baseurl: "/openMR"
+url: ""
+permalink: pretty
 
-port: 4000
-host: 0.0.0.0
-safe: false
+paginate: 5
+paginate_path: "/blog/page:num"
 
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown
+  - rouge
 
-### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore,archive]
-permalink: /:title ## disables post output
-timezone: null
-lsi: false
+exclude: 
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/ 
+
+livereload: true
+
+sass:
+  style: compressed
+  source_dir: _sass
+
+#google_analytics: UA-code-here
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "C.S. Rhymes"
+      layout: post
+      image: https://via.placeholder.com/1200x800
+      show_sidebar: false
+
 markdown: kramdown
 highlighter: rouge
 
+footer_menu: example_footer_menu
 
-### content configuration ###
-title: OpenMR Benelux 2019
-keywords: open science, leiden, magnetic resonance imaging, MRI, fMRI, machine learning, open access publishing
-description:
-#source_link:
-#favicon: favicon.png?
-url: https://openmrbenelux.github.io
-#touch_icon:
-#google_analytics_key: UA-104097157-1
-twitter_description: OpenMR Benelux 2019
-#
-
-countdown:
-  launch_date: 2019-01-16
-  format: "%d days, %H hours, %M minutes, %S seconds" 
-
-### template colors, used site-wide via css ###
-
-colors:
-
-  aongreen: '#1C7439'
-  ugentblue: '#1E64C8'
-  ugentyellow: '#FFD200'
-  white:     '#eee'
-  beneluxblue: '#004777'
-  beneluxred: '#A30000'
-  beneluxorange: '#FF7700'
-  beneluxbuff: '#EFD28D'
-  beneluxtiffa: '#00AFB5'
-  beneluxpurple: '#5E4751'
-  beneluxlightblue: '#BCE7FD'
-  beneluxpink: '#DAD2D8'
-
-### flat  design colors from https://www.materialui.co/flatuicolors
-  turquoise: '#1abc9c'
-  emerald   : '#2ecc71'
-  peteriver : '#3498db'
-  amethyst  : '#9b59b6'
-  wetasphalt : '#34495e'
-  red: '#F44336'
-  pink: '#ff80ab'
-  cyan: '#1ba1e2'
-  cobalt: '#0050ef'
-  blueibro: '#051d9b'
-  blueblue: '#2942C'
-  azul: '#1760E4'  
-  indianred: '#CD5C5C' ### https://htmlcolorcodes.com/
-### choose matarial design colors from http://materialuicolors.co/
-
-
-kramdown:
-  auto_ids:  false
-
-sass:
-  sass_dir: stylesheets/_sass/
-
-theme: jekyll-theme-slate
+collections:
+  products: 
+    output: true
+    layout: product
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
