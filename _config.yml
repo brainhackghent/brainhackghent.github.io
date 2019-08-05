@@ -1,10 +1,10 @@
 # Site Settings
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
+title: OpenMR Benelux
+tagline: OpenMR Benelux 2020
 theme: bulma-clean-theme
-email: your-email@domain.com
+email: openmrbenelux@gmail.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  The website for the OpenMR Benelux 2020
 baseurl: "/openMR"
 url: ""
 permalink: pretty
