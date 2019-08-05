@@ -5,7 +5,7 @@ theme: bulma-clean-theme
 email: openmrbenelux@gmail.com
 description: >
   The website for the OpenMR Benelux 2020
-baseurl: "/openMR"
+baseurl: "./"
 url: ""
 permalink: pretty
 
