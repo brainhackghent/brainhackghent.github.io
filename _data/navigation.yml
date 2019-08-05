@@ -2,18 +2,18 @@
   link: #
   dropdown:
     - name: The OpenMR Seminar
-      link: /page-1/
+      link: /page-openmrb-2020/
     - name: Location and Venue
-      link: /page-2/
+      link: /page-location-venue/
     - name: Program
-      link: /page-3/
+      link: /page-program/
     - name: Speakers
-      link: /page-4/
+      link: /page-speakers/
     - name: Register here
-      link: /page-5/
+      link: /page-registration/
 - name: Meet the team
-  link: /products/
+  link: /page-team/
 - name: Open Science news
   link: /blog/
 - name: Contact
-  link: /page-6/
+  link: /page-contact/
