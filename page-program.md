@@ -294,6 +294,8 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tbody>
 </table>
 
+<p><strong>Wednesday and Thursday, 22-23 January 2020 </strong></p>: Parallel sessions for <strong>hackathons</strong> and <strong>training workshops</strong> will take place. 
+
 <p>&nbsp;</p>
 <table width="100%" cellspacing="0" cellpadding="2">
 <tbody>
