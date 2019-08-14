@@ -39,3 +39,15 @@ show_sidebar: false
 
 {% include speaker-card.html avatarurl="cassandra.png" profilename="Cassandra Gould van Praag" affiliation="Psychopharmacology and Emotion Research Laboratory,<br>Department of Psychiatry,<br>University of Oxford,<br>Oxford, UK"%}
 
+# Workshop tutors
+
+<a name="tim"></a>
+{% include speaker-card.html avatarurl="tim.png" profilename="Tim van Mourik, PhD"  affiliation="Donders Institute for Brain, Cognition and Behaviour,<br> Nijmegen, The Netherlands" homepage="https://www.timvanmourik.com/" git="TimVanMourik"%}
+
+<a name="yulin"></a>
+
+{% include speaker-card.html avatarurl="yulin.png" profilename="Yulin Wang" affiliation="Department of Data Analysis,<br>Faculty of Psychology and Educational Sciences,<br>Ghent University <br>Ghent, Belgium" twitter="Yulin_Psy"%}
+
+<a name="lukas"></a>
+
+{% include speaker-card.html avatarurl="lukas.png" profilename="Lukas Winter" affiliation="Physikalisch-Technische Bundesanstalt,<br>Berlin, Germany"%}
