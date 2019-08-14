@@ -173,13 +173,13 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>13:30 &ndash; 14:00</strong></p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
+<td style="background: #ff6600;" bgcolor="#ff6600" width="66%">
 <p><strong>Open discussion</strong></p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -188,13 +188,13 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>14:00 &ndash; 14:30</strong></p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
+<td style="background: #3399ff;" bgcolor="#3399ff" width="66%">
 <p><strong>Coffee break</strong></p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<td style="background: #3399ff;" bgcolor="#3399ff" width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<td style="background: #3399ff;" bgcolor="#3399ff" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -218,14 +218,13 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>15:00 &ndash; 15:30</strong></p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
-<p><strong>Talk 4: Diving Into Metascience - the evolution of statistics over the past decade</strong></p>
-<p>Marjan Bakker</p>
+<td style="background: #ff6600;" bgcolor="#ff6600" width="66%">
+<p><strong>Open discussion</strong></p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -234,13 +233,13 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>15:30 &ndash; 16:00</strong></p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
-<p><strong>Open discussion</strong></p>
+<td style="background: #3399ff;" bgcolor="#3399ff" width="66%">
+<p><strong>Coffee break</strong></p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<td style="background: #3399ff;" bgcolor="#3399ff" width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<td style="background: #3399ff;" bgcolor="#3399ff" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -265,13 +264,13 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>16:30 &ndash; 17:00</strong></p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
+<td style="background: #ff6600;" bgcolor="#ff6600" width="66%">
 <p><strong>Open discussion</strong></p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -280,13 +279,13 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>17:00 &ndash; ...</strong></p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
+<td style="background: #3399ff;" bgcolor="#3399ff" width="66%">
 <p><strong>Drinks and panel discussion: Future challenges for improving open science practices in research related to magnetic resonance imaging.</strong></p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<td style="background: #3399ff;" bgcolor="#3399ff" width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<td style="background: #3399ff;" bgcolor="#3399ff" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
