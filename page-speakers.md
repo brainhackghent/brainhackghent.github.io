@@ -80,7 +80,6 @@ show_sidebar: false
 
 <a name="yulin"></a>
 {% include speaker-card.html
-  avatarurl="yulin.png"
   profilename="Yulin Wang"
   affiliation="Department of Data Analysis <br>Faculty of Psychology and Educational Sciences <br>Ghent University <br>Ghent, Belgium" %}
 
