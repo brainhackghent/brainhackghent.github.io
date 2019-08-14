@@ -304,11 +304,14 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>Time</strong></p>
 </td>
-<td width="66%">
+<td width="33%">
 <p><strong>Program: Wednesday, 22 January 2020</strong></p>
 </td>
+<td width="33%">
+<p>&nbsp;</p>
+</td>
 <td width="10%">
-<p><strong>Talk/workshop</strong></p>
+<p><strong>Slides</strong></p>
 </td>
 <td width="10%">
 <p><strong>Slides</strong></p>
