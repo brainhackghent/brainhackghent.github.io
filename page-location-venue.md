@@ -27,7 +27,7 @@ show_sidebar: false
 <style>
     .google-maps {
         position: relative;
-        padding-bottom: 75%; // This is the aspect ratio
+        padding-bottom: 0%; // This is the aspect ratio
         height: 0;
         overflow: hidden;
     }
