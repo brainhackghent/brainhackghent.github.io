@@ -23,7 +23,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>Program: Tuesday, 21 January 2020</strong></p>
 </td>
 <td width="10%">
-<p><strong>Talk</strong></p>
+<p><strong>Talk/workshop</strong></p>
 </td>
 <td width="10%">
 <p><strong>Slides</strong></p>
@@ -66,11 +66,11 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>9:30 &ndash; 10:00</strong></p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
-<p><strong> Talk 1: ‘The Turing Way’ - creating, running and maintaining open source projects </strong></p>
+<p><strong> ‘The Turing Way’ - creating, running and maintaining open source projects </strong></p>
 <p>Kirstie Whitaker</p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
-<p>&nbsp;</p>
+<p><strong>Talk</strong></p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
 <p>&nbsp;</p>
@@ -112,11 +112,11 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>11:00 &ndash; 11:30</strong></p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
-<p><strong>Talk 2: Future perspectives for open scientific publishing and peer review</strong></p>
+<p><strong>Future perspectives for open scientific publishing and peer review</strong></p>
 <p>Daniele Marinazzo</p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
-<p>&nbsp;</p>
+<p><strong>Talk</strong></p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
 <p>&nbsp;</p>
@@ -158,11 +158,11 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>13:00 &ndash; 13:30</strong></p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
-<p><strong>Talk 3: Analytical flexibility and questionable research practices (Dr. Cassandra Gould van Praag)</strong></p>
+<p><strong>Analytical flexibility and questionable research practices (Dr. Cassandra Gould van Praag)</strong></p>
 <p>Cassandra Gould van Praag</p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
-<p>&nbsp;</p>
+<p><strong>Talk</strong></p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
 <p>&nbsp;</p>
@@ -204,11 +204,11 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>14:30 &ndash; 15:00</strong></p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
-<p><strong>Talk 4: Diving Into Metascience - the evolution of statistics over the past decade</strong></p>
+<p><strong>Diving Into Metascience - the evolution of statistics over the past decade</strong></p>
 <p>Marjan Bakker</p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
-<p>&nbsp;</p>
+<p><strong>Talk</strong></p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
 <p>&nbsp;</p>
@@ -254,7 +254,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p>Pim Pullens</p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
-<p>&nbsp;</p>
+<p><strong>Talk</strong></p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
 <p>&nbsp;</p>
