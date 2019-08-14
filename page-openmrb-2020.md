@@ -6,7 +6,7 @@ show_sidebar: false
 #hero_image: assets/ext_images/Home_logo.png
 ---
 
-## This year's event will be awesome!
+## <span style="color:#004777"> This year's event will be awesome! </span> 
 
 Come to the OpenMR Benelux 2020! This year's event will happen in Nijmegen between the 21st and the 23rd of January, 2020.
 
