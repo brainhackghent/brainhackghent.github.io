@@ -30,7 +30,10 @@ show_sidebar: false
   avatarurl="kirstie_2.png"
   profilename="Kirstie Whitaker"
   affiliation="The Alan Turing Institute <br>London, UK"
-  homepage="https://whitakerlab.github.io/about/" %}
+  homepage="https://whitakerlab.github.io/about/" 
+  twitter="https://twitter.com/kirstie_j" 
+  git="https://github.com/KirstieJane" 
+  researchgate="https://www.researchgate.net/profile/Kirstie_Whitaker" %}
 
 
 <a name="marjan"></a>
@@ -39,7 +42,6 @@ show_sidebar: false
   profilename="Marjan Bakker"
   affiliation="Tilburg School of Social and Behavioral Sciences <br>Department of Methodology and Statistics <br>Tilburg University <br>Tilburg, The Netherlands"
   homepage="http://www.marjanbakker.eu/" %}
-
 
 <a name="pim"></a>
 {% include speaker-card.html
@@ -52,7 +54,7 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="lukas.png"
   profilename="Lukas Winter"
-  affiliation="Physikalisch-Technische Bundesanstalt <br>Berlin, Germany"%}
+  affiliation="Physikalisch-Technische Bundesanstalt <br>Berlin, Germany" %}
 
 
 <a name="cassandra"></a>
@@ -92,4 +94,4 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="lukas.png"
   profilename="Lukas Winter"
-  affiliation="Physikalisch-Technische Bundesanstalt <br>Berlin, Germany"%}
+  affiliation="Physikalisch-Technische Bundesanstalt <br>Berlin, Germany" %}
