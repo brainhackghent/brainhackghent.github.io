@@ -94,7 +94,7 @@ show_sidebar: false
 </tr>
 </table>
 
-<a id="tutors"></a>
+<!-- <a id="tutors"></a> --->
 ## <span style="color:#004777">  Workshop tutors </span>
                                                                                                         
 <table border="0" cellpadding="0 15px 0 15px;">
