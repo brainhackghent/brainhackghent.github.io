@@ -35,7 +35,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>8:15 &ndash; 9:00</strong></p>
 </td>
 <td style="background: #ff6600;" bgcolor="#ff6600" width="66%">
-<p>Registration and coffee</p>
+<p><strong>Registration and coffee</strong></p>
 </td>
 <td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
 <p>&nbsp;</p>
@@ -82,7 +82,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>10:00 &ndash; 10:30</strong></p>
 </td>
 <td style="background: #ff6600;" bgcolor="#ff6600" width="66%">
-<p>Open Discussion</p>
+<p><strong>Open Discussion</strong></p>
 </td>
 <td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
 <p>&nbsp;</p>
@@ -128,7 +128,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>11:30 &ndash; 12:00</strong></p>
 </td>
 <td style="background: #ff6600;" bgcolor="#ff6600" width="66%">
-<p>Open discussion</p>
+<p><strong>Open discussion</strong></p>
 </td>
 <td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
 <p>&nbsp;</p>
@@ -205,6 +205,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
 <p><strong>Talk 4: Diving Into Metascience - the evolution of statistics over the past decade</strong></p>
+<p>Marjan Bakker</p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
 <p>&nbsp;</p>
