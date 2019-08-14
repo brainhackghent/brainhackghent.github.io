@@ -330,7 +330,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p>Lukas Winter</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p>Workshop</p>
+<p><strong>Workshop</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -405,7 +405,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p>Tony Stöcker</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p>Workshop</p>
+<p><strong>Workshop</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -442,7 +442,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p>Tim van Mourik</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p>Workshop</p>
+<p><strong>Workshop</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -505,7 +505,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p>Yulin Wang</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p>Workshop</p>
+<p><strong>Workshop</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -580,7 +580,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p>TBA</p>
+<p><strong>TBA</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -614,10 +614,9 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
 <p><strong>TBA</strong></p>
-<p>TBA</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p></p>
+<p><strong>TBA</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
