@@ -1,6 +1,4 @@
-- name: OpenMR Benelux
-  link: ##
-  dropdown:
+dropdown:
     - name: OpenMR Benelux 2020
       link: /page-openmrb-2020/
     - name: Speakers
