@@ -16,7 +16,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <tbody>
 
 <tr valign="top">
-<td width="14%">
+<td width="14%" font size="6">
 <p><strong>Time</strong></p>
 </td>
 <td width="66%">
