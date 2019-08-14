@@ -47,7 +47,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td width="14%">
-<p><strong>9:00 &ndash; 9:45</strong></p>
+<p><strong>9:00 &ndash; 9:30</strong></p>
 </td>
 <td style="background: #3399ff;" bgcolor="#3399ff" width="66%">
 <p><strong>Introduction and welcome</strong></p>
@@ -63,7 +63,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td width="14%">
-<p><strong>9:45 &ndash; 10:30</strong></p>
+<p><strong>9:30 &ndash; 10:00</strong></p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
 <p><strong> Talk 1: ‘The Turing Way’ - creating, running and maintaining open source projects </strong></p>
@@ -79,7 +79,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td width="14%">
-<p><strong>10:30 &ndash; 11:00</strong></p>
+<p><strong>10:00 &ndash; 10:30</strong></p>
 </td>
 <td style="background: #ff6600;" bgcolor="#ff6600" width="66%">
 <p>Open Discussion</p>
@@ -94,7 +94,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td width="14%">
-<p><strong>11:00 &ndash; 11:30</strong></p>
+<p><strong>10:30 &ndash; 11:00</strong></p>
 </td>
 <td style="background: #3399ff;" bgcolor="#3399ff" width="66%">
 <p><strong>Coffee break</strong></p>
@@ -109,14 +109,14 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td width="14%">
-<p><strong>11:45 &ndash; 12:30</strong></p>
+<p><strong>11:00 &ndash; 11:30</strong></p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
-<p><strong>BIDS in practice for Ultra-High field structural and functional MRI: how to extend an existing standard</strong></p>
-<p>Gilles de Hollander</p>
+<p><strong>Talk 2: Future perspectives for open scientific publishing and peer review</strong></p>
+<p>Daniele Marinazzo</p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
-<a href="https://weblectures.leidenuniv.nl/Mediasite/Play/6ee7d9aae8c24ea8911e0e6daec4ca3a1d" target="_blank">Talk</a>
+<p>&nbsp;</p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
 <p>&nbsp;</p>
@@ -125,10 +125,10 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td width="14%">
-<p><strong>12:30 &ndash; 13:30</strong></p>
+<p><strong>11:30 &ndash; 12:00</strong></p>
 </td>
 <td style="background: #ff6600;" bgcolor="#ff6600" width="66%">
-<p>Lunch break</p>
+<p>Open discussion</p>
 </td>
 <td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
 <p>&nbsp;</p>
@@ -140,33 +140,154 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td width="14%">
-<p><strong>13:30 &ndash; 14:15</strong></p>
+<p><strong>12:00 &ndash; 13:00</strong></p>
 </td>
 <td style="background: #3399ff;" bgcolor="#3399ff" width="66%">
-<p><strong>Open MRI analysis pipelines with GiraffeTools</strong></p>
-<p>Tim van Mourik</p>
+<p><strong>Lunch</strong></p>
 </td>
 <td style="background: #3399ff;" bgcolor="#3399ff" width="10%">
-<a href="https://weblectures.leidenuniv.nl/Mediasite/Play/af97ee372f8d43879093f66abee16d741d" target="_blank">Talk</a>
+<p>&nbsp;</p>
 </td>
 <td style="background: #3399ff;" bgcolor="#3399ff" width="10%">
-<a href="https://osf.io/wkcny/" target="_blank">Slides</a>
+<p>&nbsp;</p>
 </td>
 </tr>
 
 <tr valign="top">
 <td width="14%">
-<p><strong>14:15 &ndash; 15:00</strong></p>
+<p><strong>13:00 &ndash; 13:30</strong></p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
-<p><strong>Open science in practice: making data FAIR with open repositories in NL and beyond</strong></p>
-<p>Ricarda Braukmann and Cees Hof</p>
+<p><strong>Talk 3: Analytical flexibility and questionable research practices (Dr. Cassandra Gould van Praag)</strong></p>
+<p>Cassandra Gould van Praag</p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
-<a href="https://weblectures.leidenuniv.nl/Mediasite/Play/3032c0497a814011a75232eded0340501d" target="_blank">Talk</a>
+<p>&nbsp;</p>
 </td>
 <td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
-<a href="https://osf.io/sp5ae/" target="_blank">Slides</a>
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td width="14%">
+<p><strong>13:30 &ndash; 14:00</strong></p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
+<p><strong>Open discussion</strong></p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<p>&nbsp;</p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td width="14%">
+<p><strong>14:00 &ndash; 14:30</strong></p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
+<p><strong>Coffee break</strong></p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<p>&nbsp;</p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td width="14%">
+<p><strong>14:30 &ndash; 15:00</strong></p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
+<p><strong>Talk 4: Diving Into Metascience - the evolution of statistics over the past decade</strong></p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<p>&nbsp;</p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td width="14%">
+<p><strong>15:00 &ndash; 15:30</strong></p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
+<p><strong>Talk 4: Diving Into Metascience - the evolution of statistics over the past decade</strong></p>
+<p>Marjan Bakker</p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<p>&nbsp;</p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td width="14%">
+<p><strong>15:30 &ndash; 16:00</strong></p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
+<p><strong>Open discussion</strong></p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<p>&nbsp;</p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td width="14%">
+<p><strong>16:00 &ndash; 16:30</strong></p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
+<p><strong>TBA</strong></p>
+<p>Pim Pullens</p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<p>&nbsp;</p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td width="14%">
+<p><strong>16:30 &ndash; 17:00</strong></p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
+<p><strong>Open discussion</strong></p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<p>&nbsp;</p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td width="14%">
+<p><strong>17:00 &ndash; ...</strong></p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
+<p><strong>Drinks and panel discussion: Future challenges for improving open science practices in research related to magnetic resonance imaging.</strong></p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<p>&nbsp;</p>
+</td>
+<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<p>&nbsp;</p>
 </td>
 </tr>
 
