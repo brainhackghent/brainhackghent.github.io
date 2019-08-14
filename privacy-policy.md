@@ -1,6 +1,9 @@
-# OpenMR Benelux Privacy Policy
-
-Aligned with the General Data Protection Regulation (EU) 2016/679 (GDPR)
+---
+title: OpenMR Benelux Privacy Policy
+subtitle: Aligned with the General Data Protection Regulation (EU) 2016/679 (GDPR)
+layout: page
+show_sidebar: false
+---
 
 ## Introduction
 This Privacy Policy sets out the ways in which OpenMR Benelux collects and uses your personal data (personal information). It also explains what rights you have to access or change your personal data.
