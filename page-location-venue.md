@@ -8,3 +8,6 @@ show_sidebar: false
 ---
 
 ## Location and venue information
+
+
+OpenMR Benelux 2020 will take place at the Donders Institute, Nijmegen, The Netherlands. More detail about the exact times and locations will follow closer to the event.
