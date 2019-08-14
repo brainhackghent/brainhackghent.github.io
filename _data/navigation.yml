@@ -12,7 +12,7 @@
     - name: Register here
       link: /page-registration/
     - name: OpenMR Benelux 2019
-      link: /page-openmrb-2019/
+      link: https://openmrbenelux.github.io/openmrb2019/
 - name: Meet the team
   link: /page-team/
 - name: Open Science news
