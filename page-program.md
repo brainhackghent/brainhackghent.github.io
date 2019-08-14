@@ -81,13 +81,13 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>10:00 &ndash; 10:30</strong></p>
 </td>
-<td style="background: #ff6600;" bgcolor="#ff6600" width="66%">
+<td style="background: #053efc;" bgcolor="#053efc" width="66%">
 <p><strong>Open Discussion</strong></p>
 </td>
-<td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
+<td style="background: #053efc;" bgcolor="#053efc" width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
+<td style="background: #053efc;" bgcolor="#053efc" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -127,13 +127,13 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>11:30 &ndash; 12:00</strong></p>
 </td>
-<td style="background: #ff6600;" bgcolor="#ff6600" width="66%">
+<td style="background: #053efc;" bgcolor="#053efc" width="66%">
 <p><strong>Open discussion</strong></p>
 </td>
-<td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
+<td style="background: #053efc;" bgcolor="#053efc" width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
+<td style="background: #053efc;" bgcolor="#053efc" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -173,13 +173,13 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>13:30 &ndash; 14:00</strong></p>
 </td>
-<td style="background: #ff6600;" bgcolor="#ff6600" width="66%">
+<td style="background: #053efc;" bgcolor="#053efc" width="66%">
 <p><strong>Open discussion</strong></p>
 </td>
-<td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
+<td style="background: #053efc;" bgcolor="#053efc" width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
+<td style="background: #053efc;" bgcolor="#053efc" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -219,13 +219,13 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>15:00 &ndash; 15:30</strong></p>
 </td>
-<td style="background: #ff6600;" bgcolor="#ff6600" width="66%">
+<td style="background: #053efc;" bgcolor="#053efc" width="66%">
 <p><strong>Open discussion</strong></p>
 </td>
-<td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
+<td style="background: #053efc;" bgcolor="#053efc" width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
+<td style="background: #053efc;" bgcolor="#053efc" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -265,13 +265,13 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>16:30 &ndash; 17:00</strong></p>
 </td>
-<td style="background: #ff6600;" bgcolor="#ff6600" width="66%">
+<td style="background: #053efc;" bgcolor="#053efc" width="66%">
 <p><strong>Open discussion</strong></p>
 </td>
-<td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
+<td style="background: #053efc;" bgcolor="#053efc" width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #ff6600;" bgcolor="#ff6600" width="10%">
+<td style="background: #053efc;" bgcolor="#053efc" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
