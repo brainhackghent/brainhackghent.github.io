@@ -7,13 +7,13 @@ show_sidebar: false
 #hero_image: assets/ext_images/Home_logo.png
 ---
 
-## Information about the confirmed speakers
+<!--- ## Information about the confirmed speakers -->
 
 <!--# ![speaker_1](assets/ext_images/speakers/)-->
 
 <a id="speakers"></a>
 
-# Speakers
+## <span style="color:#004777">  Speakers: </span>
 
 <a name="daniele"></a>
 {% include speaker-card.html
@@ -73,7 +73,7 @@ show_sidebar: false
   homepage="https://www.dzne.de/en/research/research-areas/population-health-sciences/forschungsgruppen/stoecker/research-areasfocus/" %}
 
 
-# Workshop tutors
+## <span style="color:#004777">  Workshop tutors: </span>
 
 <a name="tim"></a>
 {% include speaker-card.html
