@@ -91,6 +91,7 @@ show_sidebar: false
   twitter="https://twitter.com/dan_marinazzo"                                                           git="https://github.com/danielemarinazzo"
   researchgate="https://www.researchgate.net/profile/Daniele_Marinazzo" %}
 </td>
+  
 <td width="50%" align="left" valign="center">          
 <a name="natalia"></a>                 
 {% include speaker-card.html                               
