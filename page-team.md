@@ -7,3 +7,13 @@ show_sidebar: false
 ---
 
 ## Meet the team!
+
+
+<a name="stephan"></a>
+{% include speaker-card.html
+  avatarurl="stephan.png"
+  profilename="Stephan Heunis"
+  affiliation="Eindhoven University of Technology <br>Eindhoven, the Netherlands"
+  homepage="https://www.fmrwhy.com/"
+  git="jsheunis"
+  twitter="fmrwhy"%}
