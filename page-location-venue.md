@@ -22,8 +22,6 @@ show_sidebar: false
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <style>
     .google-maps {
