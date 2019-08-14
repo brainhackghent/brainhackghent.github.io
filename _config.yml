@@ -20,7 +20,7 @@ plugins:
   - kramdown
   - rouge
 
-exclude: 
+exclude:
   - Gemfile
   - clean-theme.gemspec
   - Gemfile.lock
@@ -28,7 +28,7 @@ exclude:
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
-  - vendor/ruby/ 
+  - vendor/ruby/
 
 livereload: true
 
@@ -58,10 +58,10 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
-footer_menu: example_footer_menu
+footer_menu: footer_menu
 
 collections:
-  products: 
+  products:
     output: true
     layout: product
     image: https://via.placeholder.com/800x600
