@@ -25,7 +25,7 @@ show_sidebar: false
 
 <a name="marjan"></a>
 
-{% include speaker-card.html avatarurl="marjan.png" profilename="Marjan Bakker" affiliation="Tilburg School of Social and Behavioral Sciences,<br>Department of Methodology and Statistics,<br>Tilburg University,<br>Tilburg University <br>Tilburg, The Netherlands" homepage="http://www.marjanbakker.eu/"%}
+{% include speaker-card.html avatarurl="marjan.png" profilename="Marjan Bakker" affiliation="Tilburg School of Social and Behavioral Sciences,<br>Department of Methodology and Statistics,<br>Tilburg University,<br>Tilburg University <br>Tilburg, The Netherlands" homepage="http://www.marjanbakker.eu/" %}
 
 <a name="pim"></a>
 
@@ -46,7 +46,7 @@ show_sidebar: false
 
 <a name="yulin"></a>
 
-{% include speaker-card.html avatarurl="yulin.png" profilename="Yulin Wang" affiliation="Department of Data Analysis,<br>Faculty of Psychology and Educational Sciences,<br>Ghent University <br>Ghent, Belgium" <!-- twitter="Yulin_Psy" -->%}
+{% include speaker-card.html avatarurl="yulin.png" profilename="Yulin Wang" affiliation="Department of Data Analysis,<br>Faculty of Psychology and Educational Sciences,<br>Ghent University <br>Ghent, Belgium" <!-- twitter="Yulin_Psy" --> %}
 
 <a name="lukas"></a>
 
