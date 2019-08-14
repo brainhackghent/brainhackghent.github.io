@@ -49,7 +49,7 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="hannes.png"
   profilename="Hannes Almgren"
-  affiliation="Ghent University"
+  affiliation="Department of Data Analysis <br> Faculty of Psychology and Educational Sciences <br> Ghent University"
   city="Ghent, Belgium"
   git="halmgren"
   twitter="Hannes_Almgren"%}  
@@ -62,7 +62,7 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="sofie.png"
   profilename="Sofie Van Den Bossche"
-  affiliation="Ghent University"
+  affiliation="Department of Data Analysis <br> Faculty of Psychology and Educational Sciences <br> Ghent University"
   city="Ghent, Belgium"
   git="sofievdbos"
   twitter="sofie_vdbos"%}
