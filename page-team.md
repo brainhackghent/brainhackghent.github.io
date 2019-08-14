@@ -40,7 +40,8 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="vincenzo.jpg"
   profilename="Vincenzo Anania"
-  affiliation="University of Antwerp, Antwerp, Belgium <br>icometrix, Leuven, Belgium"
+  affiliation="University of Antwerp, Antwerp <br> icometrix, Leuven"
+  city="Belgium"
   git="vins9100"%}
 </td>
 
