@@ -16,17 +16,17 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <tbody>
 
 <tr valign="top">
-<td style="background: #00468C;" bgcolor="#00468C" width="14%">
-<p><strong><font color="white">Time</strong></font></p>
+<td style="background: #004777;" bgcolor="#004777" width="14%">
+<p><strong><font color="white">Time</font></strong></p>
 </td>
-<td style="background: #00468C;" bgcolor="#00468C" width="66%">
-<p><strong>Program: Tuesday, 21 January 2020</strong></p>
+<td style="background: #004777;" bgcolor="#004777" width="66%">
+<p><strong><font color="white">Program: Tuesday, 21 January 2020</font></strong></p>
 </td>
-<td style="background: #00468C;" bgcolor="#00468C" width="10%">
-<p><strong>Talk/workshop</strong></p>
+<td style="background: #004777;" bgcolor="#004777" width="10%">
+<p><strong><font color="white">Talk/workshop</font></strong></p>
 </td>
-<td style="background: #00468C;" bgcolor="#00468C" width="10%">
-<p><strong>Slides</strong></p>
+<td style="background: #004777;" bgcolor="#004777" width="10%">
+<p><strong><font color="white">Slides</font></strong></p>
 </td>
 </tr>
 
@@ -301,20 +301,20 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <tbody>
 
 <tr valign="top">
-<td width="14%">
-<p><strong>Time</strong></p>
+<td style="background: #004777;" bgcolor="#004777" width="14%">
+<p><strong><font color="white">Time</font></strong></p>
 </td>
-<td width="33%">
-<p><strong>Program: Wednesday, 22 January 2020</strong></p>
+<td style="background: #004777;" bgcolor="#004777" width="33%">
+<p><strong><font color="white">Program: Wednesday, 22 January 2020</font></strong></p>
 </td>
-<td width="33%">
+<td style="background: #004777;" bgcolor="#004777" width="33%">
 <p>&nbsp;</p>
 </td>
-<td width="10%">
-<p><strong>Talk/workshop</strong></p>
+<td style="background: #004777;" bgcolor="#004777" width="10%">
+<p><strong><font color="white">Talk/workshop</font></strong></p>
 </td>
-<td width="10%">
-<p><strong>Slides</strong></p>
+<td style="background: #004777;" bgcolor="#004777" width="10%">
+<p><strong><font color="white">Slides</font></strong></p>
 </td>
 </tr>
 
@@ -476,20 +476,20 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <tbody>
 
 <tr valign="top">
-<td width="14%">
-<p><strong>Time</strong></p>
+<td style="background: #004777;" bgcolor="#004777" width="14%">
+<p><strong><font color="white">Time</font></strong></p>
 </td>
-<td width="33%">
-<p><strong>Program: Thursday, 23 January 2020</strong></p>
+<td style="background: #004777;" bgcolor="#004777" width="33%">
+<p><strong><font color="white">Program: Thursday, 23 January 2020</font></strong></p>
 </td>
-<td width="33%">
+<td style="background: #004777;" bgcolor="#004777" width="33%">
 <p>&nbsp;</p>
 </td>
-<td width="10%">
-<p><strong>Talk/workshop</strong></p>
+<td style="background: #004777;" bgcolor="#004777" width="10%">
+<p><strong><font color="white">Talk/workshop</font></strong></p>
 </td>
-<td width="10%">
-<p><strong>Slides</strong></p>
+<td style="background: #004777;" bgcolor="#004777" width="10%">
+<p><strong><font color="white">Slides</font></strong></p>
 </td>
 </tr>
 
