@@ -31,7 +31,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>8:15 &ndash; 9:00</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
@@ -46,7 +46,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
 <p><strong>9:00 &ndash; 9:30</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
@@ -62,7 +62,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>9:30 &ndash; 10:00</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
@@ -78,7 +78,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
 <p><strong>10:00 &ndash; 10:30</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
@@ -93,7 +93,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>10:30 &ndash; 11:00</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
@@ -108,7 +108,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
 <p><strong>11:00 &ndash; 11:30</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
@@ -124,7 +124,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>11:30 &ndash; 12:00</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
@@ -139,7 +139,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
 <p><strong>12:00 &ndash; 13:00</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
@@ -154,7 +154,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>13:00 &ndash; 13:30</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
@@ -170,7 +170,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
 <p><strong>13:30 &ndash; 14:00</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
@@ -185,7 +185,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>14:00 &ndash; 14:30</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
@@ -200,7 +200,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
 <p><strong>14:30 &ndash; 15:00</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
@@ -216,7 +216,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>15:00 &ndash; 15:30</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
@@ -231,7 +231,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
 <p><strong>15:30 &ndash; 16:00</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
@@ -246,7 +246,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>16:00 &ndash; 16:30</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
@@ -262,7 +262,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
 <p><strong>16:30 &ndash; 17:00</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
@@ -277,7 +277,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>17:00 &ndash; ...</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
@@ -319,7 +319,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>9:00 &ndash; 10:00</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
@@ -357,7 +357,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>11:00 &ndash; 12:00</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
@@ -394,7 +394,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>13:00 &ndash; 14:00</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
@@ -431,7 +431,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>15:00 &ndash; 16:00</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
@@ -494,7 +494,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>9:00 &ndash; 10:00</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
@@ -532,7 +532,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>11:00 &ndash; 12:00</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
@@ -569,7 +569,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>13:00 &ndash; 14:00</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
@@ -606,7 +606,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>15:00 &ndash; 16:00</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
