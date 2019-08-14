@@ -22,12 +22,6 @@ In 2019, the first edition of the OpenMR Benelux was a blast! You can check the 
 
 ![alt text](assets/ext_images/post_separator.png)
 
-## It is super easy to register!
-
-The next OpenMR Benelux will happen in January 2020, in the beautiful city of Leiden, in The Netherlands. The event will last for 2 days, with amazing talks, discussion panels and demonstration of exciting projects. [Register here](./page-registration), it takes 2 minutes!
-
-![alt text](assets/ext_images/post_separator.png)
-
 
 ## Check out what we are preparing for you
 
