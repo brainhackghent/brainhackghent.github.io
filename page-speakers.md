@@ -90,7 +90,7 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="tony.png"
   profilename="Tony Stöcker"
-  affiliation="MR physics group <br>German center for neurodegenerative diseases <br>Bonn, Germany"
+  affiliation="MR physics group <br>German Center for Neurodegenerative Diseases <br>Bonn, Germany"
   homepage="https://www.dzne.de/en/research/research-areas/population-health-sciences/forschungsgruppen/stoecker/research-areasfocus/" %}
 </td>
 </tr>
