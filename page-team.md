@@ -5,7 +5,7 @@ show_sidebar: false
 #hero_image: assets/ext_images/Home_logo.png
 ---
 
-## Organizing committee
+## <span style="color:#004777"> Organizing committee </span>
 
 <a name="stephan"></a>
 {% include speaker-card.html
