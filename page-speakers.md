@@ -56,8 +56,16 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="cass.png"
   profilename="Cassandra Gould van Praag"
-  affiliation="Psychopharmacology and Emotion Research Laboratory <br>Department of Psychiatry,<br>University of Oxford,<br>Oxford, UK"
+  affiliation="Psychopharmacology and Emotion Research Laboratory <br>Department of Psychiatry <br>University of Oxford <br>Oxford, UK"
   homepage="https://www.psych.ox.ac.uk/team/cassandra-gould-van-praag" %}
+
+
+<a name="tony"></a>
+{% include speaker-card.html
+  avatarurl="tony.png"
+  profilename="Tony Stöcker"
+  affiliation="MR physics group <br>German center for neurodegenerative diseases <br>Bonn, Germany"
+  homepage="https://www.dzne.de/en/research/research-areas/population-health-sciences/forschungsgruppen/stoecker/research-areasfocus/" %}
 
 
 # Workshop tutors
