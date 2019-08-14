@@ -360,21 +360,20 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>11:00 &ndash; 12:00</strong></p>
 </td>
-<td width="33%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
 <p><strong>Hackathon</strong></p>
 </td>
-<td width="33%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
 <p><strong>Making your MRI data (and code) open, from ethics, to GDPR, to repositories: an example from fMRI</strong></p>
 <p>Stephan Heunis</p>
 </td>
-<td width="10%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
 </td>
-<td width="10%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
-
 
 <tr valign="top">
 <td width="14%">
@@ -382,6 +381,81 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </td>
 <td width="33%">
 <p><strong>Lunch</strong></p>
+</td>
+<td width="33%">
+<p>&nbsp;</p>
+</td>
+<td width="10%">
+<p>&nbsp;</p>
+</td>
+<td width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td width="14%">
+<p><strong>13:00 &ndash; 14:00</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
+<p><strong>Hackathon</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
+<p><strong>Introduction to JEMRIS: a general-purpose MRI Simulator</strong></p>
+<p>Tony Stöcker</p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p>Workshop</p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr> 
+
+<tr valign="top">
+<td width="14%">
+<p><strong>14:00 &ndash; 15:00</strong></p>
+</td>
+<td width="33%">
+<p><strong>Hackathon</strong></p>
+</td>
+<td width="33%">
+<p>&nbsp;</p>
+</td>
+<td width="10%">
+<p>&nbsp;</p>
+</td>
+<td width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td width="14%">
+<p><strong>15:00 &ndash; 16:00</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
+<p><strong>Hackathon</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
+<p><strong>Giraffe Tools and the Porcupine workflow editor</strong></p>
+<p>Tim van Mourik</p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p>Workshop</p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr> 
+
+
+<tr valign="top">
+<td width="14%">
+<p><strong>16:00 &ndash; ...</strong></p>
+</td>
+<td width="33%">
+<p><strong>Hackathon</strong></p>
 </td>
 <td width="33%">
 <p>&nbsp;</p>
@@ -405,14 +479,166 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>Time</strong></p>
 </td>
-<td width="66%">
+<td width="33%">
 <p><strong>Program: Thursday, 23 January 2020</strong></p>
+</td>
+<td width="33%">
+<p>&nbsp;</p>
 </td>
 <td width="10%">
 <p><strong>Talk/workshop</strong></p>
 </td>
 <td width="10%">
 <p><strong>Slides</strong></p>
+</td>
+</tr>
+
+<tr valign="top">
+<td width="14%">
+<p><strong>9:00 &ndash; 10:00</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
+<p><strong>Hackathon</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
+<p><strong>From DICOM to a BIDS dataset: one step towards open science</strong></p>
+<p>Yulin Wang</p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p>Workshop</p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td width="14%">
+<p><strong>10:00 &ndash; 11:00</strong></p>
+</td>
+<td width="33%">
+<p><strong>Hackathon</strong></p>
+</td>
+<td width="33%">
+<p>&nbsp;</p>
+</td>
+<td width="10%">
+<p>&nbsp;</p>
+</td>
+<td width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+
+<tr valign="top">
+<td width="14%">
+<p><strong>11:00 &ndash; 12:00</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
+<p><strong>Hackathon</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
+<p><strong>TBA</strong></p>
+<p></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p><strong>TBA</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td width="14%">
+<p><strong>12:00 &ndash; 13:00</strong></p>
+</td>
+<td width="33%">
+<p><strong>Lunch</strong></p>
+</td>
+<td width="33%">
+<p>&nbsp;</p>
+</td>
+<td width="10%">
+<p>&nbsp;</p>
+</td>
+<td width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td width="14%">
+<p><strong>13:00 &ndash; 14:00</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
+<p><strong>Hackathon</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
+<p><strong>TBA</strong></p>
+<p></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p>TBA</p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr> 
+
+<tr valign="top">
+<td width="14%">
+<p><strong>14:00 &ndash; 15:00</strong></p>
+</td>
+<td width="33%">
+<p><strong>Hackathon</strong></p>
+</td>
+<td width="33%">
+<p>&nbsp;</p>
+</td>
+<td width="10%">
+<p>&nbsp;</p>
+</td>
+<td width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td width="14%">
+<p><strong>15:00 &ndash; 16:00</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
+<p><strong>Hackathon</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
+<p><strong>TBA</strong></p>
+<p>TBA</p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr> 
+
+<tr valign="top">
+<td width="14%">
+<p><strong>16:00 &ndash; ...</strong></p>
+</td>
+<td width="33%">
+<p><strong>Hackathon</strong></p>
+</td>
+<td width="33%">
+<p>&nbsp;</p>
+</td>
+<td width="10%">
+<p>&nbsp;</p>
+</td>
+<td width="10%">
+<p>&nbsp;</p>
 </td>
 </tr>
 
