@@ -1,3 +1,10 @@
+---                                                                                                                                         title: Contact
+subtitle: We would love to hear from you!
+layout: page
+show_sidebar: false
+#hero_image: assets/ext_images/Home_logo.png
+---
+
 ## <span style="color:#004777"> Contact us at openmrbenelux@gmail.com </span>
 
 <span> Questions or feedback? Do not hesitate any longer and use the contact form to send us an e-mail at **openmrbenelux@gmail.com**. <br>
