@@ -19,8 +19,9 @@ show_sidebar: false
 
 <a name="emanoel"></a>
 {% include speaker-card.html
-  profilename="Emanoel Sabidussi"
-  affiliation="University Medical Center Rotterdam <br>the Netherlands"
+  avatarurl="emanoel.jpg"
+  profilename="EmanoeTTTl Sabidussi"
+  affiliation="University Medical Center Rotterdam <br>The Netherlands"
   git="Emanoel-sabidussi"
   twitter="sabidussi"%}
 
