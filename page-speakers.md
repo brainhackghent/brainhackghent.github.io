@@ -34,7 +34,7 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="marjan.png"
   profilename="Marjan Bakker"
-  affiliation="Tilburg School of Social and Behavioral Sciences <br>Department of Methodology and Statistics <br>Tilburg University,<br>Tilburg University <br>Tilburg, The Netherlands"
+  affiliation="Tilburg School of Social and Behavioral Sciences <br>Department of Methodology and Statistics <br>Tilburg University <br>Tilburg, The Netherlands"
   homepage="http://www.marjanbakker.eu/" %}
 
 
