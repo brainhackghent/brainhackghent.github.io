@@ -40,9 +40,9 @@ show_sidebar: false
   profilename="Vincenzo Anania"
   affiliation="University of Antwerp, Belgium <br>icometrix, Leuven, Belgium"
   git="vins9100"%}
-</td>                                                                                            
+</td>
 
-<td width="50%" align="left" valign="center">
+<td width="50%" align="left" valign="center"> 
 <a name="hannes"></a>
 {% include speaker-card.html
   avatarurl="hannes.png"
@@ -51,9 +51,9 @@ show_sidebar: false
   git="halmgren"
   twitter="Hannes_Almgren"%}  
 </td>
-</tr> 
+</tr>
 
-<tr>   
+<tr>
 <td width="50%" align="left" valign="center">
 <a name="sofie"></a>
 {% include speaker-card.html
@@ -73,14 +73,15 @@ show_sidebar: false
   homepage="https://remi-gau.github.io/"
   git="Remi-Gau"
   twitter="RemiGau"%}
-</td>  
-</tr>    
+</td>
+</tr>
 </table>
 
 ## <span style="color:#004777"> Advisors </span>
 
 <table border="0" cellpadding="0 15px 0 15px;">
-<tr>                                           
+
+<tr>
 <td width="50%" align="left" valign="center">
 <a name="daniele"></a>
 {% include speaker-card.html
@@ -91,11 +92,11 @@ show_sidebar: false
   twitter="https://twitter.com/dan_marinazzo"                                                           git="https://github.com/danielemarinazzo"
   researchgate="https://www.researchgate.net/profile/Daniele_Marinazzo" %}
 </td>
-  
-<td width="50%" align="left" valign="center">          
-<a name="natalia"></a>                 
-{% include speaker-card.html                               
-  profilename="Natalia Bielczyk" %}                         
+
+<td width="50%" align="left" valign="center">
+<a name="natalia"></a>
+{% include speaker-card.html
+  profilename="Natalia Bielczyk" %}
 </td>
 </tr>
-</table> 
+</table>
