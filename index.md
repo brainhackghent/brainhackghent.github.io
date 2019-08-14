@@ -17,7 +17,7 @@ Are you working or studying at a university in Belgium, The Netherlands, or Luxe
 We aim to create a community-driven open forum for people working in MRI research to learn about and discuss open science practices, with the focus of working together on implementable solutions, whether in the form of a software toolbox, a process description, a community project, or a knowledge-sharing initiative. Open discussion is central to our event, therefore, an open mind attitude and readiness to participate is essential.
 Interested on the organization? Meet the [Team](./page-team).
 
-In 2019, the first edition of the OpenMR Benelux was a blast! You can check the last year's program, speakers and more at [OpenMR Benelux 2019](./page-openmrb-2019).
+In 2019, the first edition of the OpenMR Benelux was a blast! You can check the last year's program, speakers and more at [OpenMR Benelux 2019](https://openmrbenelux.github.io/openmrb2019/).
 
 
 ![alt text](assets/ext_images/post_separator.png)

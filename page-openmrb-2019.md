@@ -7,4 +7,5 @@ show_sidebar: false
 #hero_image: assets/ext_images/Home_logo.png
 ---
 
-## Last year, our event was a great success! Check out what happened in our first edition!
+## Last year, our event was a great success!
+Check out [here](https://openmrbenelux.github.io/openmrb2019/) what happened in our first edition!
