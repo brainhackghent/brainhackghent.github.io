@@ -24,7 +24,8 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="daniele.png"
   profilename="Daniele Marinazzo"
-  affiliation="Department of Data Analysis <br>Faculty of Psychology and Educational Sciences <br>Ghent University <br>Ghent, Belgium"
+  affiliation="Department of Data Analysis <br>Faculty of Psychology and Educational Sciences <br>Ghent University"
+  city="Ghent, Belgium"
   homepage="http://users.ugent.be/~dmarinaz/"
   twitter="https://twitter.com/dan_marinazzo"                                                                                             git="https://github.com/danielemarinazzo"
   researchgate="https://www.researchgate.net/profile/Daniele_Marinazzo" %}
@@ -35,7 +36,8 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="kirstie_2.png"
   profilename="Kirstie Whitaker"
-  affiliation="The Alan Turing Institute <br>London, UK"
+  affiliation="The Alan Turing Institute"
+  city="London, UK"
   homepage="https://whitakerlab.github.io/about/"
   twitter="https://twitter.com/kirstie_j"
   git="https://github.com/KirstieJane"
@@ -49,7 +51,8 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="marjan.png"
   profilename="Marjan Bakker"
-  affiliation="Tilburg School of Social and Behavioral Sciences <br>Department of Methodology and Statistics <br>Tilburg University <br>Tilburg, The Netherlands"
+  affiliation="Tilburg School of Social and Behavioral Sciences <br>Department of Methodology and Statistics <br>Tilburg University"
+  city="Tilburg, The Netherlands"
   homepage="http://www.marjanbakker.eu/"
   twitter="https://twitter.com/???" %}
 </td>
@@ -59,7 +62,8 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="pim.png"
   profilename="Pim Pullens"
-  affiliation="Ghent Institute for Functional & Metabolic Imaging <br>Ghent, Belgium"  %}
+  affiliation="Ghent Institute for Functional & Metabolic Imaging"
+  city="Ghent, Belgium" %}
 </td>
 </tr>
 
@@ -69,7 +73,8 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="lukas.png"
   profilename="Lukas Winter"
-  affiliation="Physikalisch-Technische Bundesanstalt <br>Berlin, Germany" %}
+  affiliation="Physikalisch-Technische Bundesanstalt" 
+  city="Berlin, Germany" %}
 </td>         
   
 <td width="50%" align="left" valign="center">                                                          
@@ -77,7 +82,8 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="cass.png"
   profilename="Cassandra Gould van Praag"
-  affiliation="Psychopharmacology and Emotion Research Laboratory <br>Department of Psychiatry <br>University of Oxford <br>Oxford, UK"
+  affiliation="Psychopharmacology and Emotion Research Laboratory <br>Department of Psychiatry <br>University of Oxford"
+  city="Oxford, UK"
   homepage="https://www.psych.ox.ac.uk/team/cassandra-gould-van-praag"
   git="https://github.com/cassgvp"
   twitter="https://twitter.com/cassgvp" %}
@@ -90,7 +96,8 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="tony.png"
   profilename="Tony Stöcker"
-  affiliation="MR physics group <br>German Center for Neurodegenerative Diseases <br>Bonn, Germany"
+  affiliation="MR physics group <br>German Center for Neurodegenerative Diseases"
+  city="Bonn, Germany"
   homepage="https://www.dzne.de/en/research/research-areas/population-health-sciences/forschungsgruppen/stoecker/research-areasfocus/" %}
 </td>
 </tr>
@@ -107,7 +114,8 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="tim.png"
   profilename="Tim van Mourik, PhD"  
-  affiliation="Donders Institute for Brain, Cognition and Behaviour <br>Nijmegen, The Netherlands"
+  affiliation="Donders Institute for Brain, Cognition and Behaviour"
+  city="Nijmegen, The Netherlands"
   twitter="https://twitter.com/Tim_van_Mourik"
   git="https://github.com/TimVanMourik"
   homepage="https://timvanmourik.com/" %}
@@ -118,7 +126,8 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="yulin.png"
   profilename="Yulin Wang"
-  affiliation="Department of Data Analysis <br>Faculty of Psychology and Educational Sciences <br>Ghent University <br>Ghent, Belgium" %}
+  affiliation="Department of Data Analysis <br>Faculty of Psychology and Educational Sciences <br>Ghent University"
+  city="Ghent, Belgium" %}
 </td>
 </tr>                                                                                                   
 <tr>                                                                                                    
@@ -127,7 +136,8 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="lukas.png"
   profilename="Lukas Winter"
-  affiliation="Physikalisch-Technische Bundesanstalt <br>Berlin, Germany" %}
+  affiliation="Physikalisch-Technische Bundesanstalt" 
+  city="Berlin, Germany" %}
 </td>
 </tr>                                                                                                  
 </table>
