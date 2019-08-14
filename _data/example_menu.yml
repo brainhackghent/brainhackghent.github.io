@@ -1,7 +1,5 @@
 - label: Example Menu
   items:
-    - name: Home
-      link: /
     - name: Pages
       link: #
       items:
@@ -13,7 +11,7 @@
           link: /page-location-venue/
         - name: Page Registration
           link: /page-registration/
-        - name: Page OpenMR2020 
+        - name: Page OpenMR2020
           link: /page-about-us/
     - name: Blog
       link: /blog/
