@@ -1,6 +1,6 @@
 ---
 title: OpenMR Benelux 2020
-subtitle: Speakers
+subtitle: Program and Speakers
 layout: page
 show_sidebar: false
 #tabs: example_tabs
@@ -13,8 +13,13 @@ show_sidebar: false
 
 <a id="speakers"></a>
 
-## <span style="color:#004777">  Speakers </span>
+## <span style="color:#004777"> Speakers </span>
+<!-- ## <span style="margin:auto; display:table; color:#004777"> Speakers </span> -->
 
+<table border="0" cellpadding="0 15px 0 15px;">
+
+<tr>
+<td width="50%" align="left" valign="center">
 <a name="daniele"></a>
 {% include speaker-card.html
   avatarurl="daniele.png"
@@ -23,7 +28,9 @@ show_sidebar: false
   homepage="http://users.ugent.be/~dmarinaz/"
   twitter="https://twitter.com/dan_marinazzo"                                                                                             git="https://github.com/danielemarinazzo"
   researchgate="https://www.researchgate.net/profile/Daniele_Marinazzo" %}
+</td>
 
+<td width="50%" align="left" valign="center">
 <a name="kirstie"></a>
 {% include speaker-card.html
   avatarurl="kirstie_2.png"
@@ -33,7 +40,10 @@ show_sidebar: false
   twitter="https://twitter.com/kirstie_j"
   git="https://github.com/KirstieJane"
   researchgate="https://www.researchgate.net/profile/Kirstie_Whitaker" %}
+</td>
 
+<tr>
+<td width="50%" align="left" valign="center">
 <a name="marjan"></a>
 {% include speaker-card.html
   avatarurl="marjan.png"
@@ -41,19 +51,26 @@ show_sidebar: false
   affiliation="Tilburg School of Social and Behavioral Sciences <br>Department of Methodology and Statistics <br>Tilburg University <br>Tilburg, The Netherlands"
   homepage="http://www.marjanbakker.eu/"
   twitter="https://twitter.com/???" %}
+</td>
 
+<td width="50%" align="left" valign="left">                                                            
 <a name="pim"></a>
 {% include speaker-card.html
   avatarurl="pim.png"
   profilename="Pim Pullens"
   affiliation="Ghent Institute for functional & Metabolic Imaging <br>Ghent, Belgium"  %}
+</td>
+</tr>
 
+<tr>
+<td width="50%" align="left" valign="center">                                                          
 <a name="lukas"></a>
 {% include speaker-card.html
   avatarurl="lukas.png"
   profilename="Lukas Winter"
   affiliation="Physikalisch-Technische Bundesanstalt <br>Berlin, Germany" %}
-
+</td>                                                                                                   
+<td width="50%" align="left" valign="center">                                                          
 <a name="cassandra"></a>
 {% include speaker-card.html
   avatarurl="cass.png"
@@ -62,17 +79,28 @@ show_sidebar: false
   homepage="https://www.psych.ox.ac.uk/team/cassandra-gould-van-praag"
   git="https://github.com/cassgvp"
   twitter="https://twitter.com/cassgvp" %}
+</td>
+</tr>
 
+<tr>
+<td width="50%" align="left" valign="center">
 <a name="tony"></a>
 {% include speaker-card.html
   avatarurl="tony.png"
   profilename="Tony Stöcker"
   affiliation="MR physics group <br>German center for neurodegenerative diseases <br>Bonn, Germany"
   homepage="https://www.dzne.de/en/research/research-areas/population-health-sciences/forschungsgruppen/stoecker/research-areasfocus/" %}
+</td>
+</tr>
+</table>
 
 <a id="tutors"></a>
 ## <span style="color:#004777">  Workshop tutors </span>
+                                                                                                        
+<table border="0" cellpadding="0 15px 0 15px;">
 
+<tr>
+<td width="50%" align="left" valign="center">                                                           
 <a name="tim"></a>
 {% include speaker-card.html
   avatarurl="tim.png"
@@ -81,15 +109,23 @@ show_sidebar: false
   twitter="https://twitter.com/Tim_van_Mourik"
   git="https://github.com/TimVanMourik"
   homepage="https://timvanmourik.com/" %}
+</td>
 
+<td width="50%" align="left" valign="center">
 <a name="yulin"></a>
 {% include speaker-card.html
   avatarurl="yulin.png"
   profilename="Yulin Wang"
   affiliation="Department of Data Analysis <br>Faculty of Psychology and Educational Sciences <br>Ghent University <br>Ghent, Belgium" %}
-
+</td>
+</tr>                                                                                                   
+<tr>                                                                                                    
+<td width="50%" align="left" valign="center">
 <a name="lukas"></a>
 {% include speaker-card.html
   avatarurl="lukas.png"
   profilename="Lukas Winter"
   affiliation="Physikalisch-Technische Bundesanstalt <br>Berlin, Germany" %}
+</td>
+</tr>                                                                                                  
+</table>
