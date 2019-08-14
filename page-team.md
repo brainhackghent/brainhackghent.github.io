@@ -10,7 +10,7 @@ show_sidebar: false
 <table border="0" cellpadding="0 15px 0 15px;">
 
 <tr>
-<td width="50%" align="left" valign="center">
+<td width="500px" align="left" valign="center">
 <a name="stephan"></a>
 {% include speaker-card.html
   avatarurl="stephan.png"
@@ -21,7 +21,7 @@ show_sidebar: false
   twitter="fmrwhy"%}
 </td>
 
-<td width="50%" align="left" valign="center">
+<td width="500px" align="left" valign="center">
 <a name="emanoel"></a>
 {% include speaker-card.html
   avatarurl="emanoel.jpg"
