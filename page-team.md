@@ -11,7 +11,7 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="stephan.png"
   profilename="Stephan Heunis"
-  affiliation="Eindhoven University of Technology <br>Eindhoven, the Netherlands"
+  affiliation="Eindhoven University of Technology <br>the Netherlands"
   homepage="https://www.fmrwhy.com/"
   git="jsheunis"
   twitter="fmrwhy"%}
@@ -20,7 +20,7 @@ show_sidebar: false
 <a name="emanoel"></a>
 {% include speaker-card.html
   profilename="Emanoel Sabidussi"
-  affiliation="University Medical Center Rotterdam <br>Rotterdam, the Netherlands"
+  affiliation="University Medical Center Rotterdam <br>the Netherlands"
   git="Emanoel-sabidussi"
   twitter="sabidussi"%}
 
@@ -28,7 +28,7 @@ show_sidebar: false
 <a name="vincenzo"></a>
 {% include speaker-card.html
   profilename="Vincenzo Anania"
-  affiliation="University of Antwerp <br>Antwerp, Belgium"
+  affiliation="University of Antwerp <br> Belgium"
   git="vins9100"%}
 
 
