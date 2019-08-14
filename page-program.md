@@ -320,13 +320,14 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td width="14%">
-<p><strong>8:15 &ndash; 9:00</strong></p>
+<p><strong>9:00 &ndash; 10:00</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
-<p><strong>Workshop 1</strong></p>
+<p><strong>The Open Source Imaging Initiative (OSI²)</strong></p>
+<p>Lukas Winter</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>Workshop</p>
@@ -338,10 +339,49 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td width="14%">
-<p>&nbsp;</p>
+<p><strong>10:00 &ndash; 11:00</strong></p>
 </td>
 <td width="33%">
 <p><strong>Hackathon</strong></p>
+</td>
+<td width="33%">
+<p>&nbsp;</p>
+</td>
+<td width="10%">
+<p>&nbsp;</p>
+</td>
+<td width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+
+<tr valign="top">
+<td width="14%">
+<p><strong>11:00 &ndash; 12:00</strong></p>
+</td>
+<td width="33%">
+<p><strong>Hackathon</strong></p>
+</td>
+<td width="33%">
+<p><strong>Making your MRI data (and code) open, from ethics, to GDPR, to repositories: an example from fMRI</strong></p>
+<p>Stephan Heunis</p>
+</td>
+<td width="10%">
+<p><strong>Workshop</strong></p>
+</td>
+<td width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+
+<tr valign="top">
+<td width="14%">
+<p><strong>12:00 &ndash; 13:00</strong></p>
+</td>
+<td width="33%">
+<p><strong>Lunch</strong></p>
 </td>
 <td width="33%">
 <p>&nbsp;</p>
