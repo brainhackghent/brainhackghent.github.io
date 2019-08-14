@@ -10,6 +10,7 @@ hero_image: assets/ext_images/home_logo.jpg
 
 <img style="float: right;" src="assets/ext_images/side-column-openmr2020.jpg" width="400" height="80"> 
 
+
 Interested in an open world, where ideas and tools are shared and collaboration-based development is standard?
 
 Us too! And that is what the OpenMR Benelux is all about. Let's open up this discussion!<br />
