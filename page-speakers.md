@@ -21,7 +21,8 @@ show_sidebar: false
   profilename="Daniele Marinazzo"
   affiliation="Department of Data Analysis <br>Faculty of Psychology and Educational Sciences <br>Ghent University <br>Ghent, Belgium"
   homepage="http://users.ugent.be/~dmarinaz/"
-  twitter="https://twitter.com/dan_marinazzo" %}
+  twitter="https://twitter.com/dan_marinazzo"                                                                                             git="https://github.com/danielemarinazzo"
+  researchgate="https://www.researchgate.net/profile/Daniele_Marinazzo" %}
 
 
 <a name="kirstie"></a>
