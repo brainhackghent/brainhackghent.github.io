@@ -3,14 +3,14 @@
   dropdown:
     - name: The OpenMR Benelux 2020
       link: /page-openmrb-2020/
+    - name: Speakers
+      link: /page-speakers/
+    - name: Program
+      link: /page-program/
     - name: Location and Venue
       link: /page-location-venue/
     - name: Register here
       link: /page-registration/
-    - name: Program
-      link: /page-program/
-    - name: Speakers
-      link: /page-speakers/
     - name: The OpenMR Benelux 2019
       link: /page-openmrb-2019/
 - name: Meet the team
