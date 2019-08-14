@@ -7,6 +7,6 @@ show_sidebar: false
 #hero_image: assets/ext_images/Home_logo.png
 ---
 
-## Register here!
+<!-- ## Register here! -->
 
 Registration is not open yet. Watch this space for updates!
