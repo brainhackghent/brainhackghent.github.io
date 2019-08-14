@@ -30,9 +30,9 @@ show_sidebar: false
   avatarurl="kirstie_2.png"
   profilename="Kirstie Whitaker"
   affiliation="The Alan Turing Institute <br>London, UK"
-  homepage="https://whitakerlab.github.io/about/" 
-  twitter="https://twitter.com/kirstie_j" 
-  git="https://github.com/KirstieJane" 
+  homepage="https://whitakerlab.github.io/about/"
+  twitter="https://twitter.com/kirstie_j"
+  git="https://github.com/KirstieJane"
   researchgate="https://www.researchgate.net/profile/Kirstie_Whitaker" %}
 
 
@@ -41,7 +41,9 @@ show_sidebar: false
   avatarurl="marjan.png"
   profilename="Marjan Bakker"
   affiliation="Tilburg School of Social and Behavioral Sciences <br>Department of Methodology and Statistics <br>Tilburg University <br>Tilburg, The Netherlands"
-  homepage="http://www.marjanbakker.eu/" %}
+  homepage="http://www.marjanbakker.eu/"
+  twitter="https://twitter.com/???" %}
+
 
 <a name="pim"></a>
 {% include speaker-card.html
@@ -62,7 +64,10 @@ show_sidebar: false
   avatarurl="cass.png"
   profilename="Cassandra Gould van Praag"
   affiliation="Psychopharmacology and Emotion Research Laboratory <br>Department of Psychiatry <br>University of Oxford <br>Oxford, UK"
-  homepage="https://www.psych.ox.ac.uk/team/cassandra-gould-van-praag" %}
+  homepage="https://www.psych.ox.ac.uk/team/cassandra-gould-van-praag"
+  git="https://github.com/cassgvp" 
+  twitter="https://twitter.com/cassgvp" %}
+
 
 
 <a name="tony"></a>
@@ -80,6 +85,8 @@ show_sidebar: false
   avatarurl="tim.png"
   profilename="Tim van Mourik, PhD"  
   affiliation="Donders Institute for Brain, Cognition and Behaviour <br> Nijmegen, The Netherlands"
+  twitter="https://twitter.com/Tim_van_Mourik"
+  git="https://github.com/TimVanMourik"
   homepage="https://timvanmourik.com/" %}
 
 
