@@ -24,7 +24,6 @@ show_sidebar: false
   twitter="https://twitter.com/dan_marinazzo"                                                                                             git="https://github.com/danielemarinazzo"
   researchgate="https://www.researchgate.net/profile/Daniele_Marinazzo" %}
 
-
 <a name="kirstie"></a>
 {% include speaker-card.html
   avatarurl="kirstie_2.png"
@@ -35,7 +34,6 @@ show_sidebar: false
   git="https://github.com/KirstieJane"
   researchgate="https://www.researchgate.net/profile/Kirstie_Whitaker" %}
 
-
 <a name="marjan"></a>
 {% include speaker-card.html
   avatarurl="marjan.png"
@@ -44,20 +42,17 @@ show_sidebar: false
   homepage="http://www.marjanbakker.eu/"
   twitter="https://twitter.com/???" %}
 
-
 <a name="pim"></a>
 {% include speaker-card.html
   avatarurl="pim.png"
   profilename="Pim Pullens"
   affiliation="Ghent Institute for functional & Metabolic Imaging <br>Ghent, Belgium"  %}
 
-
 <a name="lukas"></a>
 {% include speaker-card.html
   avatarurl="lukas.png"
   profilename="Lukas Winter"
   affiliation="Physikalisch-Technische Bundesanstalt <br>Berlin, Germany" %}
-
 
 <a name="cassandra"></a>
 {% include speaker-card.html
@@ -68,8 +63,6 @@ show_sidebar: false
   git="https://github.com/cassgvp"
   twitter="https://twitter.com/cassgvp" %}
 
-
-
 <a name="tony"></a>
 {% include speaker-card.html
   avatarurl="tony.png"
@@ -77,7 +70,7 @@ show_sidebar: false
   affiliation="MR physics group <br>German center for neurodegenerative diseases <br>Bonn, Germany"
   homepage="https://www.dzne.de/en/research/research-areas/population-health-sciences/forschungsgruppen/stoecker/research-areasfocus/" %}
 
-
+<a id="tutors"></a>
 ## <span style="color:#004777">  Workshop tutors </span>
 
 <a name="tim"></a>
@@ -89,13 +82,11 @@ show_sidebar: false
   git="https://github.com/TimVanMourik"
   homepage="https://timvanmourik.com/" %}
 
-
 <a name="yulin"></a>
 {% include speaker-card.html
   avatarurl="yulin.png"
   profilename="Yulin Wang"
   affiliation="Department of Data Analysis <br>Faculty of Psychology and Educational Sciences <br>Ghent University <br>Ghent, Belgium" %}
-
 
 <a name="lukas"></a>
 {% include speaker-card.html
