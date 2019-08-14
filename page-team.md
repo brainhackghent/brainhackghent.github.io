@@ -15,7 +15,8 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="stephan.png"
   profilename="Stephan Heunis"
-  affiliation="Eindhoven University of Technology <br>Eindhoven, The Netherlands"
+  affiliation="Eindhoven University of Technology"
+  city="Eindhoven, The Netherlands"
   homepage="https://www.fmrwhy.com/"
   git="jsheunis"
   twitter="fmrwhy"%}
@@ -39,8 +40,7 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="vincenzo.jpg"
   profilename="Vincenzo Anania"
-  affiliation="University of Antwerp, Antwerp <br>icometrix, Leuven"
-  city="Belgium"
+  affiliation="University of Antwerp, Antwerp, Belgium <br>icometrix, Leuven, Belgium"
   git="vins9100"%}
 </td>
 
