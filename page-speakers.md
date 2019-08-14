@@ -10,3 +10,5 @@ show_sidebar: false
 ## Information about the confirmed speakers
 
 # ![speaker_1](assets/ext_images/speakers/)
+
+<a name="daniele"></a>
