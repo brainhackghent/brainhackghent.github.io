@@ -65,7 +65,7 @@ show_sidebar: false
   profilename="Cassandra Gould van Praag"
   affiliation="Psychopharmacology and Emotion Research Laboratory <br>Department of Psychiatry <br>University of Oxford <br>Oxford, UK"
   homepage="https://www.psych.ox.ac.uk/team/cassandra-gould-van-praag"
-  git="https://github.com/cassgvp" 
+  git="https://github.com/cassgvp"
   twitter="https://twitter.com/cassgvp" %}
 
 
@@ -84,7 +84,7 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="tim.png"
   profilename="Tim van Mourik, PhD"  
-  affiliation="Donders Institute for Brain, Cognition and Behaviour <br> Nijmegen, The Netherlands"
+  affiliation="Donders Institute for Brain, Cognition and Behaviour <br>Nijmegen, The Netherlands"
   twitter="https://twitter.com/Tim_van_Mourik"
   git="https://github.com/TimVanMourik"
   homepage="https://timvanmourik.com/" %}
