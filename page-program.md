@@ -1,6 +1,6 @@
 ---
 title: OpenMR Benelux 2020
-subtitle: Program and Speakers
+subtitle: Program
 layout: page
 show_sidebar: false
 #tabs: example_tabs
