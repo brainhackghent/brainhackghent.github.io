@@ -28,6 +28,7 @@ show_sidebar: false
 
 <a name="vincenzo"></a>
 {% include speaker-card.html
+  avatarurl="vincenzo.jpg"
   profilename="Vincenzo Anania"
   affiliation="University of Antwerp <br> Belgium"
   git="vins9100"%}
