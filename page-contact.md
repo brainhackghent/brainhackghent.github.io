@@ -1,4 +1,5 @@
----                                                                                                                                         title: Contact
+--- 
+title: Contact
 subtitle: We would love to hear from you!
 layout: page
 show_sidebar: false
