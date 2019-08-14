@@ -35,8 +35,8 @@ show_sidebar: false
 <a name="hannes"></a>
 {% include speaker-card.html
   avatarurl="hannes.png"
-  profilename="Sofie Van Den Bossche"
-  affiliation="Ghent University <br>Ghent, Belgium"
+  profilename="Hannes Almgren"
+  affiliation="Ghent University <br>Belgium"
   git="halmgren"
   twitter="Hannes_Almgren"%}  
 
@@ -45,7 +45,7 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="sofie.png"
   profilename="Sofie Van Den Bossche"
-  affiliation="Ghent University <br>Ghent, Belgium"
+  affiliation="Ghent University <br>Belgium"
   git="sofievdbos"
   twitter="sofie_vdbos"%}
 
