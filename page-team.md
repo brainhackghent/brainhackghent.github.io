@@ -1,13 +1,11 @@
 ---
-title: The organization
-subtitle: The openMR 2020 wouldn't be possible with them!
+title: The team
 layout: page
 show_sidebar: false
 #hero_image: assets/ext_images/Home_logo.png
 ---
 
-## Meet the team!
-
+## Organizing committee
 
 <a name="stephan"></a>
 {% include speaker-card.html
@@ -60,3 +58,12 @@ show_sidebar: false
   homepage="https://remi-gau.github.io/"
   git="Remi-Gau"
   twitter="RemiGau"%}
+
+
+## Advisors
+
+<a name="daniele"></a>
+{% include speaker-card.html
+  avatarurl="daniele.png"
+  profilename="Daniele Marinazzo"
+  affiliation="Department of Data Analysis <br>Faculty of Psychology and Educational Sciences <br>Ghent University <br>Ghent, Belgium" homepage="http://users.ugent.be/~dmarinaz/" %}
