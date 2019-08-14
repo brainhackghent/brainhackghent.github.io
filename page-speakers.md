@@ -20,8 +20,8 @@ show_sidebar: false
   avatarurl="daniele.png"
   profilename="Daniele Marinazzo"
   affiliation="Department of Data Analysis <br>Faculty of Psychology and Educational Sciences <br>Ghent University <br>Ghent, Belgium"
-  homepage="http://users.ugent.be/~dmarinaz/" 
-  twitter="https://twitter.com/dan_marinazzo" %}
+  homepage="http://users.ugent.be/~dmarinaz/"
+  twitter="https://twitter.com/?lang=nl" %}
 
 
 <a name="kirstie"></a>
