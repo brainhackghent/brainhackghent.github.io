@@ -16,16 +16,16 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <tbody>
 
 <tr valign="top">
-<td width="14%" font size="6">
+<td style="background: #00468C;" bgcolor="#00468C" width="14%">
 <p><strong>Time</strong></p>
 </td>
-<td width="66%">
+<td style="background: #00468C;" bgcolor="#00468C" width="66%">
 <p><strong>Program: Tuesday, 21 January 2020</strong></p>
 </td>
-<td width="10%">
+<td style="background: #00468C;" bgcolor="#00468C" width="10%">
 <p><strong>Talk/workshop</strong></p>
 </td>
-<td width="10%">
+<td style="background: #00468C;" bgcolor="#00468C" width="10%">
 <p><strong>Slides</strong></p>
 </td>
 </tr>
