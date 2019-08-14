@@ -25,9 +25,17 @@ show_sidebar: false
 
 <a name="marjan"></a>
 
-{% include speaker-card.html avatarurl="marjan.png" profilename="Marjan Bakker" affiliation="Tilburg School of Social and Behavioral Sciences,<br>Department of Methodology and Statistics,<br>Tilburg University,<br>Tilburg University <br>Tilburg, The Netherlands" homepage="http://www.marjanbakker.eu/"}
+{% include speaker-card.html avatarurl="marjan.png" profilename="Marjan Bakker" affiliation="Tilburg School of Social and Behavioral Sciences,<br>Department of Methodology and Statistics,<br>Tilburg University,<br>Tilburg University <br>Tilburg, The Netherlands" homepage="http://www.marjanbakker.eu/"%}
 
 <a name="pim"></a>
 
-{% include speaker-card.html avatarurl="pim.png" profilename="Pim Pullens" affiliation="Ghent Institute for functional & Metabolic Imaging
-,<br>Ghent, Belgium" twitter="pim_pullens"%}
+{% include speaker-card.html avatarurl="pim.png" profilename="Pim Pullens" affiliation="Ghent Institute for functional & Metabolic Imaging,<br>Ghent, Belgium" twitter="pim_pullens"%}
+
+<a name="lukas"></a>
+
+{% include speaker-card.html avatarurl="lukas.png" profilename="Lukas Winter" affiliation="Physikalisch-Technische Bundesanstalt,<br>Berlin, Germany"%}
+
+<a name="cassandra"></a>
+
+{% include speaker-card.html avatarurl="cassandra.png" profilename="Cassandra Gould van Praag" affiliation="Psychopharmacology and Emotion Research Laboratory,<br>Department of Psychiatry,<br>University of Oxford,<br>Oxford, UK"%}
+
