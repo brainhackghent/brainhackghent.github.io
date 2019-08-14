@@ -41,7 +41,8 @@ show_sidebar: false
   git="https://github.com/KirstieJane"
   researchgate="https://www.researchgate.net/profile/Kirstie_Whitaker" %}
 </td>
-
+</tr>
+  
 <tr>
 <td width="50%" align="left" valign="center">
 <a name="marjan"></a>
@@ -69,7 +70,8 @@ show_sidebar: false
   avatarurl="lukas.png"
   profilename="Lukas Winter"
   affiliation="Physikalisch-Technische Bundesanstalt <br>Berlin, Germany" %}
-</td>                                                                                                   
+</td>         
+  
 <td width="50%" align="left" valign="center">                                                          
 <a name="cassandra"></a>
 {% include speaker-card.html
