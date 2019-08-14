@@ -3,7 +3,7 @@ title: ""
 subtitle: ""
 layout: page
 show_sidebar: false
-hero_image: assets/ext_images/Home_logo.png
+hero_image: assets/ext_images/home_logo.jpg
 ---
 
 ## <span style="color:#004777"> OpenMR Benelux 2020 </span> 
