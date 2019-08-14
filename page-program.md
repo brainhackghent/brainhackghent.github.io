@@ -34,13 +34,13 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>8:15 &ndash; 9:00</strong></p>
 </td>
-<td style="background: #053efc;" bgcolor="#053efc" width="66%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
 <p><strong>Registration and coffee</strong></p>
 </td>
-<td style="background: #053efc;" bgcolor="#053efc" width="10%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #053efc;" bgcolor="#053efc" width="10%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -49,14 +49,14 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>9:00 &ndash; 9:30</strong></p>
 </td>
-<td style="background: #3399ff;" bgcolor="#3399ff" width="66%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
 <p><strong>Introduction and welcome</strong></p>
 <p>Stephan Heunis</p>
 </td>
-<td style="background: #3399ff;" bgcolor="#3399ff" width="10%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #3399ff;" bgcolor="#3399ff" width="10%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -65,14 +65,14 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>9:30 &ndash; 10:00</strong></p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="66%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
 <p><strong> ‘The Turing Way’ - creating, running and maintaining open source projects </strong></p>
 <p>Kirstie Whitaker</p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p><strong>Talk</strong></p>
 </td>
-<td style="background: #66ccff;" bgcolor="#66ccff" width="10%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -294,7 +294,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tbody>
 </table>
 
-<p><strong>Wednesday and Thursday, 22-23 January 2020 </strong></p>: Parallel sessions for <strong>hackathons</strong> and <strong>training workshops</strong> will take place. 
+<p><br><br><strong>Wednesday and Thursday, 22-23 January 2020 </strong>: Parallel sessions for <strong>hackathons</strong> and <strong>training workshops</strong> will take place.</p>
 
 <p>&nbsp;</p>
 <table width="100%" cellspacing="0" cellpadding="2">
