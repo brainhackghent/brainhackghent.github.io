@@ -34,13 +34,13 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>8:15 &ndash; 9:00</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
 <p><strong>Registration and coffee</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -65,14 +65,14 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>9:30 &ndash; 10:00</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
 <p><strong> ‘The Turing Way’ - creating, running and maintaining open source projects </strong></p>
 <p>Kirstie Whitaker</p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Talk</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -81,13 +81,13 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td width="14%">
 <p><strong>10:00 &ndash; 10:30</strong></p>
 </td>
-<td style="background: #053efc;" bgcolor="#053efc" width="66%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
 <p><strong>Open Discussion</strong></p>
 </td>
-<td style="background: #053efc;" bgcolor="#053efc" width="10%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #053efc;" bgcolor="#053efc" width="10%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
