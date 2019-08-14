@@ -8,3 +8,5 @@ show_sidebar: false
 ---
 
 ## Register here!
+
+Registration is not open yet. Watch this space for updates!
