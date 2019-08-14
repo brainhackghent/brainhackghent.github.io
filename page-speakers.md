@@ -59,7 +59,7 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="pim.png"
   profilename="Pim Pullens"
-  affiliation="Ghent Institute for functional & Metabolic Imaging <br>Ghent, Belgium"  %}
+  affiliation="Ghent Institute for Functional & Metabolic Imaging <br>Ghent, Belgium"  %}
 </td>
 </tr>
 
