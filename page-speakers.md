@@ -24,7 +24,7 @@ show_sidebar: false
 
 <a name="kirstie"></a>
 {% include speaker-card.html
-  avatarurl="kirstie.png"
+  avatarurl="kirstie_2.png"
   profilename="Kirstie Whitaker"
   affiliation="The Alan Turing Institute <br>London, UK"
   homepage="https://whitakerlab.github.io/about/" %}
