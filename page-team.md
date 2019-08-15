@@ -30,7 +30,7 @@ show_sidebar: false
   affiliation="University Medical Center Rotterdam"
   city="Rotterdam, The Netherlands"
   git="https://github.com/Emanoel-sabidussi"
-  twitter="https://github.com/sabidussi"%}
+  twitter="https://www.twitter.com/sabidussi"%}
 </td>
 </tr>
 
@@ -52,8 +52,8 @@ show_sidebar: false
   profilename="Hannes Almgren"
   affiliation="Department of Data Analysis <br> Faculty of Psychology and Educational Sciences <br> Ghent University"
   city="Ghent, Belgium"
-  git="halmgren"
-  twitter="Hannes_Almgren"%}  
+  git="https://github.com/halmgren"
+  twitter="https://www.twitter.com/Hannes_Almgren" %}  
 </td>
 </tr>
 
@@ -65,8 +65,8 @@ show_sidebar: false
   profilename="Sofie Van Den Bossche"
   affiliation="Department of Data Analysis <br> Faculty of Psychology and Educational Sciences <br> Ghent University"
   city="Ghent, Belgium"
-  git="sofievdbos"
-  twitter="sofie_vdbos"%}
+  git="https://github.com/sofievdbos"
+  twitter="https://www.twitter.com/sofie_vdbos" %}
 </td>
 
 <td width="50%" align="left" valign="center">
@@ -77,8 +77,8 @@ show_sidebar: false
   affiliation="Université catholique de Louvain"
   city="Louvain-la-Neuve, Belgium"
   homepage="https://remi-gau.github.io/"
-  git="Remi-Gau"
-  twitter="RemiGau"%}
+  git="https://github.com/Remi-Gau"
+  twitter="https://www.twitter.com/RemiGau"%}
 </td>
 </tr>
 </table>
@@ -104,7 +104,8 @@ show_sidebar: false
 <a name="natalia"></a>
 {% include speaker-card.html
   avatarurl="natalia.png"
-  profilename="Natalia Bielczyk" %}
+  profilename="Natalia Bielczyk"
+  twitter="https://www.twitter.com/nbielczyk_neuro"%}
 </td>
 </tr>
 </table>
