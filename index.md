@@ -24,7 +24,7 @@ Also, don't forget to check out our hackathon sessions, where you can put your h
 
 ## <span style="color:#004777"> Who are we? </span>  
 
-<img style="float: right;" src="assets/ext_images/side-column-team.jpg" width="360" height="80"> 
+<img style="float: right;" src="assets/ext_images/side-column-team.jpg" width="390" height="80"> 
 
 We are a community of students, research faculty and professionals who want to create an open forum for people working in MRI research to learn about and discuss open science practices.
 
