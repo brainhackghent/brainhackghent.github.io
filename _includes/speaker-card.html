@@ -1,12 +1,21 @@
 <aside class="speaker-card {% if include.column %} {{ include.column }}{% endif %}">
    <header>
+         <style>
+          .responsive {
+            display: block;
+            max-width:200px;
+            max-height:200px;
+            width: 100%;
+            height: auto;
+          }
+   </style>
    <table width="100%" border="0" cellpadding="5px 5px 5px 5px;" style="background-color:#dbe9f4">
    <tr>
 
    <td align="center" valign="top" width="40%">
    <h3>{{ include.title }}</h3>
    <a href="{{ include.homepage }}">
-   <img src="/img/speakers/{{ include.avatarurl }}" style='border: 2px solid #004777; width: 200px; height: 200px; border-radius: 50%; object-fit: cover;'></a>
+   <img src="/img/speakers/{{ include.avatarurl }}" style='border: 2px solid #004777; width: 200px; height: 200px; border-radius: 50%; object-fit: cover;' class="responsive"></a>
    </td>
 
    <td align="left" valign="top" width="60%px" style="padding-top: 40px; padding-left: 20px">
