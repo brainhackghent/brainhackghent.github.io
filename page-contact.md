@@ -22,13 +22,13 @@ We will answer you as soon as possible, to the best of our abilities! </span>
         position: absolute;
         top: 5px;
         left: 5px;
-        width: 65% !important;
+        width: 100% !important;
         height: 100% !important;
     }
 </style>
                                                                                                                         
 
-
+<br>
 <div class="contact-form"> 
 <div align="center">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeaHibka3G_TOfziaCjVk6xfv0rUXD80DgJ9aJAxn_YiF78mA/viewform?embedded=true" width="1280" height="1280" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
