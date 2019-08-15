@@ -103,6 +103,7 @@ show_sidebar: false
 <td width="50%" align="left" valign="center">
 <a name="natalia"></a>
 {% include speaker-card.html
+  avatarurl="natalia.png"
   profilename="Natalia Bielczyk" %}
 </td>
 </tr>
