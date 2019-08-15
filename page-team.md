@@ -7,6 +7,7 @@ show_sidebar: false
 
 ## <span style="color:#004777"> Organizing committee </span>
 
+<div style="overflow-x:auto;">
 <table border="0" cellpadding="0 15px 0 15px;">
 
 <tr>
@@ -82,9 +83,11 @@ show_sidebar: false
 </td>
 </tr>
 </table>
+</div>
 
 ## <span style="color:#004777"> Advisors </span>
 
+<div style="overflow-x:auto;">
 <table border="0" cellpadding="0 15px 0 15px;">
 
 <tr>
@@ -109,3 +112,4 @@ show_sidebar: false
 </td>
 </tr>
 </table>
+</div>
