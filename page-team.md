@@ -43,7 +43,7 @@ show_sidebar: false
   profilename="Vincenzo Anania"
   affiliation="University of Antwerp, Antwerp <br> icometrix, Leuven"
   city="Belgium"
-  git="vins9100"%}
+  git="https://github.com/vins9100" %}
 </td>
 
 <td width="50%" align="left" valign="center"> 
