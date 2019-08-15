@@ -18,8 +18,8 @@ show_sidebar: false
   affiliation="Eindhoven University of Technology"
   city="Eindhoven, The Netherlands"
   homepage="https://www.fmrwhy.com/"
-  git="jsheunis"
-  twitter="fmrwhy"%}
+  git="https://github.com/jsheunis/"
+  twitter="https://www.twitter.com/fmrwhy"%}
 </td>
 
 <td width="500px" align="left" valign="center">
@@ -29,8 +29,8 @@ show_sidebar: false
   profilename="Emanoel Sabidussi"
   affiliation="University Medical Center Rotterdam"
   city="Rotterdam, The Netherlands"
-  git="Emanoel-sabidussi"
-  twitter="sabidussi"%}
+  git="https://github.com/Emanoel-sabidussi"
+  twitter="https://github.com/sabidussi"%}
 </td>
 </tr>
 
