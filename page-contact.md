@@ -9,7 +9,7 @@ show_sidebar: false
 ## <span style="color:#004777"> Contact us at openmrbenelux@gmail.com </span>
 
 <span> Questions or feedback? Do not hesitate and use the contact form to send us an e-mail at **openmrbenelux@gmail.com**. <br>
-We will answer you as soon as possible! </span>
+We will answer you as soon as possible, to the best of our abilities! </span>
 
 <style>
     .contact-form {
