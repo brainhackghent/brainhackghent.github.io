@@ -16,6 +16,7 @@ show_sidebar: false
 ## <span style="color:#004777"> Speakers </span>
 <!-- ## <span style="margin:auto; display:table; color:#004777"> Speakers </span> -->
 
+<div style="overflow-x:auto;">
 <table border="0" cellpadding="0 15px 0 15px;">
 
 <tr>
@@ -102,10 +103,12 @@ show_sidebar: false
 </td>
 </tr>
 </table>
+</div>
 
 <!-- <a id="tutors"></a> --->
 ## <span style="color:#004777">  Workshop tutors </span>
-                                                                                                        
+
+<div style="overflow-x:auto;">
 <table border="0" cellpadding="0 15px 0 15px;">
 
 <tr>
@@ -141,3 +144,4 @@ show_sidebar: false
 </td>
 </tr>                                                                                                  
 </table>
+</div>
