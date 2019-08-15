@@ -22,7 +22,7 @@ We will answer you as soon as possible, to the best of our abilities! </span>
         position: absolute;
         top: 5px;
         left: 5px;
-        width: 55% !important;
+        width: 65% !important;
         height: 100% !important;
     }
 </style>
