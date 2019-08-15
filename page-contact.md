@@ -14,7 +14,7 @@ We will answer you as soon as possible, to the best of our abilities! </span>
 <style>
     .contact-form {
         position: relative;
-        padding-bottom: 30%; // This is the aspect ratio
+        padding-bottom: 65%; // This is the aspect ratio
         height: 0;
         overflow: hidden;
     }
@@ -26,7 +26,11 @@ We will answer you as soon as possible, to the best of our abilities! </span>
         height: 100% !important;
     }
 </style>
-                                                                                                                                      
+                                                                                                                        
+
+
 <div class="contact-form"> 
+<div align="center">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeaHibka3G_TOfziaCjVk6xfv0rUXD80DgJ9aJAxn_YiF78mA/viewform?embedded=true" width="1280" height="1280" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
+</div>
 </div>
