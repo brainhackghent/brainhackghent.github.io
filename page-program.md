@@ -158,7 +158,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>13:00 &ndash; 13:30</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
-<p><strong>Analytical flexibility and questionable research practices (Dr. Cassandra Gould van Praag)</strong></p>
+<p><strong>Analytical flexibility and questionable research practices </strong></p>
 <p>Cassandra Gould van Praag</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
