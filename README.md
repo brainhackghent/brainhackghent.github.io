@@ -28,6 +28,8 @@ This is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/
 
 Add this line to your Jekyll site's `Gemfile`:
 
+NOT SURE THIS IS NEEDED!!!
+
 ```ruby
 gem "bulma-clean-theme"
 ```
