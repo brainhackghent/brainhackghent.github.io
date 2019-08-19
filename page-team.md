@@ -108,7 +108,7 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="natalia.png"
   profilename="Natalia Bielczyk"
-  affiliation="Founder, Director and Chairperson Stichting Solaris Onderzoek en Ontwikkeling <br> eLife Associate <br> Career Development and Mentoring Manager Organization for Human Brain Mapping"
+  affiliation="Founder, Director and Chairperson Stichting Solaris Onderzoek en Ontwikkeling <br> <br> eLife Associate <br> <br> Career Development and Mentoring Manager Organization for Human Brain Mapping"
   twitter="https://www.twitter.com/nbielczyk_neuro"%}
 </td>
 </tr>
