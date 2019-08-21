@@ -204,7 +204,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>14:30 &ndash; 15:00</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
-<p><strong>Diving Into Metascience - the evolution of statistics over the past decade</strong></p>
+<p><strong>Diving Into Metascience – doing research on research</strong></p>
 <p>Marjan Bakker</p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
