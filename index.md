@@ -11,11 +11,11 @@ hero_image: assets/ext_images/home_logo.jpg
 <img style="float: right;" src="assets/ext_images/side-column-openmr2020.jpg" width="400" height="80"> 
 
 
-Interested in an open world, where ideas and tools are shared and collaboration-based development is standard?
+Interested in an open world, where ideas and tools are shared and collaboration-based development is standard in the MRI (and neuroscienctific) community?
 
 Us too! And that is what the OpenMR Benelux is all about. Let's open up this discussion!<br />
 
-We invite you to join us and a team of amazing researchers and developers to learn, speak up, develop and discuss open science practices! Check the event's page [**OpenMR Seminar 2020**](./page-openmrb-2020), it happens between **21-23 of January**, 2020, in  [**Nijmegen**](./page-location-venue.md), The Netherlands.
+We invite you to join us and a team of amazing MRI researchers and developers to learn, speak up, develop and discuss open (MRI) science practices! Check the event's page [**OpenMR Seminar 2020**](./page-openmrb-2020), it happens between **21-23 of January**, 2020, in  [**Nijmegen**](./page-location-venue.md), The Netherlands.
 
 Also, don't forget to check out our hackathon sessions, where you can put your hands on advanced tools in the fields of MRI, automation and collaboration! [**Program**](./page-program.md).
 
