@@ -539,7 +539,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
-<p><strong>TBA</strong></p>
+<p><strong>Brain Anatomy Toolbox</strong></p>
 <p></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -576,7 +576,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
-<p><strong>TBA</strong></p>
+<p><strong>HBP Knowledge Graph</strong></p>
 <p></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
