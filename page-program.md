@@ -250,7 +250,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>16:00 &ndash; 16:30</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
-<p><strong>TBA</strong></p>
+<p><strong>How can open science contribute to (clinical) research in radiology?</strong></p>
 <p>Pim Pullens</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
