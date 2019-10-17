@@ -31,16 +31,16 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td style="background: #bab6b6;" bgcolor="#bab6b6" width="14%">
+<td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
 <p><strong>8:15 &ndash; 9:00</strong></p>
 </td>
-<td style="background: #bab6b6;" bgcolor="#bab6b6" width="66%">
+<td style="background: #cecaca;" bgcolor="#cecaca" width="66%">
 <p><strong>Registration and coffee</strong></p>
 </td>
-<td style="background: #bab6b6;" bgcolor="#bab6b6" width="10%">
+<td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #bab6b6;" bgcolor="#bab6b6" width="10%">
+<td style="background: #bcecaca;" bgcolor="#cecaca" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
