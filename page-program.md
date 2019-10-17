@@ -367,13 +367,32 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
+<p><strong></strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
+<p><strong>Hack Track</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
+<p><strong>Train Track</strong></p>
+<p>Lukas Winter</p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p><strong></strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>9:00 &ndash; 10:00</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
-<p><strong>The Open Source Imaging Initiative (OSI²)</strong></p>
+<p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
-<p><strong>Hackathon</strong></p>
+<p><strong>The Open Source Imaging Initiative (OSI²)</strong></p>
 <p>Lukas Winter</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
