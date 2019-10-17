@@ -370,10 +370,10 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>9:00 &ndash; 10:00</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
-<p><strong>Hackathon</strong></p>
+<p><strong>The Open Source Imaging Initiative (OSI²)</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
-<p><strong>The Open Source Imaging Initiative (OSI²)</strong></p>
+<p><strong>Hackathon</strong></p>
 <p>Lukas Winter</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
