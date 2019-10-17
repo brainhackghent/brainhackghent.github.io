@@ -366,7 +366,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
 <p><strong></strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
@@ -375,24 +375,42 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><font size="4"><strong>Train Track</strong></font></p>
 </td>
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p><strong></strong></p>
 </td>
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
+<p><strong>9:00 &ndash; 9:30</strong></p>
+</td>
+<td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
+<p><strong>Project Pitches</strong></p>
+</td>
+<td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
+<p><strong></strong></p>
+</td>
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<p><strong></strong></p>
+</td>
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>9:00 &ndash; 10:00</strong></p>
+<p><strong>9:30 &ndash; 11:15</strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>The Open Source Imaging Initiative (OSI²)</strong></p>
-<p>Lukas Winter</p>
+<p><strong>Reproducibility in Your Research Workflow</strong></p>
+<p>Fatma Deniz</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
@@ -403,34 +421,33 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
-<p><strong>10:00 &ndash; 11:00</strong></p>
+<td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
+<p><strong>11:15 &ndash; 11:35</strong></p>
 </td>
-<td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
-<p><strong>Hackathon</strong></p>
+<td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
+<p><strong>Break</strong></p>
 </td>
-<td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
+<td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
+<p><strong>Break</strong></p>
+</td>
+<td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
 <p>&nbsp;</p>
 </td>
-<td width="10%">
-<p>&nbsp;</p>
-</td>
-<td width="10%">
+<td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
 
-
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>11:00 &ndash; 12:00</strong></p>
+<p><strong>11:35 &ndash; 13:20</strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>Making your MRI data (and code) open, from ethics, to GDPR, to repositories: an example from fMRI</strong></p>
-<p>Stephan Heunis</p>
+<p><strong>Software Version Control with git and GitHub</strong></p>
+<p>Remi Gau & Sofie Van Den Bossche</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
@@ -441,33 +458,33 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
-<p><strong>12:00 &ndash; 13:00</strong></p>
+<td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
+<p><strong>13:20 &ndash; 14:10</strong></p>
 </td>
-<td width="33%">
+<td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
 <p><strong>Lunch</strong></p>
 </td>
-<td width="33%">
+<td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
+<p><strong>Lunch</strong></p>
+</td>
+<td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
 <p>&nbsp;</p>
 </td>
-<td width="10%">
-<p>&nbsp;</p>
-</td>
-<td width="10%">
+<td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>13:00 &ndash; 14:00</strong></p>
+<p><strong>15:10 &ndash; 15:55</strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>Introduction to JEMRIS: a general-purpose MRI Simulator</strong></p>
-<p>Tony Stöcker</p>
+<p><strong>Python and Jupyter Notebooks</strong></p>
+<p>TBA</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
@@ -475,60 +492,41 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
 </td>
-</tr> 
+</tr>
 
 <tr valign="top">
-<td width="14%">
-<p><strong>14:00 &ndash; 15:00</strong></p>
+<td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
+<p><strong>15:55 &ndash; 16:15</strong></p>
 </td>
-<td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
-<p><strong>Hackathon</strong></p>
+<td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
+<p><strong>Break</strong></p>
 </td>
-<td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
+<td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
+<p><strong>Break</strong></p>
+</td>
+<td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
 <p>&nbsp;</p>
 </td>
-<td width="10%">
-<p>&nbsp;</p>
-</td>
-<td width="10%">
+<td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>15:00 &ndash; 16:00</strong></p>
+<p><strong>16:15 &ndash; 18:00</strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>Giraffe Tools and the Porcupine workflow editor</strong></p>
-<p>Tim van Mourik</p>
+<p><strong>Introduction to Docker and Binderhub</strong></p>
+<p>TBA</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p>&nbsp;</p>
-</td>
-</tr> 
-
-
-<tr valign="top">
-<td width="14%">
-<p><strong>16:00 &ndash; ...</strong></p>
-</td>
-<td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
-<p><strong>Hackathon</strong></p>
-</td>
-<td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p>&nbsp;</p>
-</td>
-<td width="10%">
-<p>&nbsp;</p>
-</td>
-<td width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -559,7 +557,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
 <p><strong></strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
@@ -568,10 +566,10 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><font size="4"><strong>Train Track</strong></font></p>
 </td>
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p><strong></strong></p>
 </td>
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
