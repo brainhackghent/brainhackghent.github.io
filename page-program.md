@@ -370,10 +370,10 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong></strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
-<p><u><strong>Hack Track</strong></u></p>
+<p><u><font size="5"><strong>Hack Track</strong></font></u></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="33%">
-<p><u><strong>Train Track</strong></u></p>
+<p><u><font size="5"><strong>Train Track</strong></font></u></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong></strong></p>
