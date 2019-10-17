@@ -477,7 +477,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>15:10 &ndash; 15:55</strong></p>
+<p><strong>14:10 &ndash; 15:55</strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Hackathon</strong></p>
@@ -576,14 +576,14 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>9:00 &ndash; 10:00</strong></p>
+<p><strong>9:00 &ndash; 9:50</strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>From DICOM to a BIDS dataset: one step towards open science</strong></p>
-<p>Yulin Wang</p>
+<p><strong>Building Inclusive and Open Communities</strong></p>
+<p>Malvika Sharan</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
@@ -594,37 +594,58 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
-<p><strong>10:00 &ndash; 11:00</strong></p>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
+<p><strong>9:50 &ndash; 10:40</strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p>&nbsp;</p>
+<p><strong>Practical Tips for Moving from Research to Industry</strong></p>
+<p>Natalia Bielczyk</p>
 </td>
-<td width="10%">
-<p>&nbsp;</p>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p><strong>Talk</strong></p>
 </td>
-<td width="10%">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
 
+<tr valign="top">
+<td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
+<p><strong>10:40 &ndash; 11:00</strong></p>
+</td>
+<td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
+<p><strong>Break</strong></p>
+</td>
+<td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
+<p><strong>Break</strong></p>
+</td>
+<td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
+<p>&nbsp;</p>
+</td>
+<td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>11:00 &ndash; 12:00</strong></p>
+<p><strong>11:00 &ndash; 11:50</strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>Brain Anatomy Toolbox</strong></p>
+<p><strong>Brain Anatomy Toolbox (HBP)</strong></p>
+<p>Sarah Genon</p>
+<p><strong>Human Brain Atlas (HBP)</strong></p>
 <p>TBA</p>
+<p>(Parellel sessions)</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p><strong>TBA</strong></p>
+<p><strong>Workshop</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -632,92 +653,153 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td width="14%">
-<p><strong>12:00 &ndash; 13:00</strong></p>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
+<p><strong>11:50 &ndash; 12:40</strong></p>
 </td>
-<td width="33%">
+<td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
+<p><strong>Hackathon</strong></p>
+</td>
+<td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
+<p><strong>MR Image Registration with Elastix and Simple Elastix</strong></p>
+<p>Stefan Klein</p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p><strong>Workshop</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
+<p><strong>12:40 &ndash; 13:20</strong></p>
+</td>
+<td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Lunch</strong></p>
 </td>
-<td width="33%">
+<td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
+<p><strong>Lunch</strong></p>
+</td>
+<td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
 <p>&nbsp;</p>
 </td>
-<td width="10%">
-<p>&nbsp;</p>
-</td>
-<td width="10%">
+<td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>13:00 &ndash; 14:00</strong></p>
+<p><strong>13:20 &ndash; 14:10</strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>HBP Knowledge Graph - Human Brain Atlas (parallel session)</strong></p>
-<p>TBA</p>
+<p><strong>Converting Neuroimaging Data to BIDS</strong></p>
+<p>Marcel Zwiers & Robert Oostenveld</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>TBA</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p>&nbsp;</p>
-</td>
-</tr> 
-
-<tr valign="top">
-<td width="14%">
-<p><strong>14:00 &ndash; 15:00</strong></p>
-</td>
-<td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
-<p><strong>Hackathon</strong></p>
-</td>
-<td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p>&nbsp;</p>
-</td>
-<td width="10%">
-<p>&nbsp;</p>
-</td>
-<td width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>15:00 &ndash; 16:00</strong></p>
+<p><strong>14:10 &ndash; 15:00</strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>TBA</strong></p>
+<p><strong>Open Source Neuroimaging Pipelines with GiraffeTools</strong></p>
+<p>Tim van Mourik</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p><strong>TBA</strong></p>
+<p><strong>Workshop</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
 </td>
-</tr> 
+</tr>
 
 <tr valign="top">
-<td width="14%">
-<p><strong>16:00 &ndash; ...</strong></p>
+<td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
+<p><strong>15:00 &ndash; 15:20</strong></p>
+</td>
+<td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
+<p><strong>Break</strong></p>
+</td>
+<td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
+<p><strong>Break</strong></p>
+</td>
+<td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
+<p>&nbsp;</p>
+</td>
+<td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
+<p><strong>15:20 &ndash; 16:10</strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
+<p><strong>General Introduction to MRI Computer Simulations, Pros and Cons of Different Software Packages, and Some Specific Examples with JEMRIS</strong></p>
+<p>Tony Stöcker</p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p><strong>Workshop</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
 </td>
-<td width="10%">
+</tr>
+
+<tr valign="top">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
+<p><strong>16:10 &ndash; 17:00</strong></p>
+</td>
+<td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
+<p><strong>Hackathon</strong></p>
+</td>
+<td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
+<p><strong>Knowledge Graph (HBP)</strong></p>
+<p>Oliver Schmid</p>
+<p><strong>GDPR Data Sharing Brains</strong></p>
+<p>Stephan Heunis</p>
+<p>(Parellel sessions)</p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p><strong>Workshop</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
 </td>
-<td width="10%">
+</tr>
+
+<tr valign="top">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
+<p><strong>17:00 &ndash; 18:00</strong></p>
+</td>
+<td style="background: #ffffff;" bgcolor="#ffffff" width="33%">
+<p><strong>Project Wrap-ups and Overall Wrap-Up</strong></p>
+</td>
+<td style="background: #ffffff;" bgcolor="#ffffff" width="33%">
+<p><strong></strong></p>
+</td>
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<p><strong></strong></p>
+</td>
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
