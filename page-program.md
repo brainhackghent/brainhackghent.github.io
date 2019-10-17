@@ -424,10 +424,10 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
 <p><strong>11:15 &ndash; 11:35</strong></p>
 </td>
-<td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
+<td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Break</strong></p>
 </td>
-<td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
+<td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Break</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
@@ -461,10 +461,10 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
 <p><strong>13:20 &ndash; 14:10</strong></p>
 </td>
-<td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
+<td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Lunch</strong></p>
 </td>
-<td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
+<td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Lunch</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
@@ -498,10 +498,10 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
 <p><strong>15:55 &ndash; 16:15</strong></p>
 </td>
-<td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
+<td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Break</strong></p>
 </td>
-<td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
+<td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Break</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
