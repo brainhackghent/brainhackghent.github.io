@@ -642,7 +642,6 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p>Sarah Genon</p>
 <p><strong>Human Brain Atlas (HBP)</strong></p>
 <p>TBA</p>
-<p>(Parellel sessions)</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
@@ -776,7 +775,6 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p>Oliver Schmid</p>
 <p><strong>GDPR Data Sharing Brains</strong></p>
 <p>Stephan Heunis</p>
-<p>(Parellel sessions)</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
@@ -787,19 +785,19 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
+<td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
 <p><strong>17:00 &ndash; 18:00</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="33%">
+<td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
 <p><strong>Project Wrap-ups and Overall Wrap-Up</strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="33%">
+<td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
 <p><strong></strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
 <p><strong></strong></p>
 </td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
