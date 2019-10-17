@@ -51,7 +51,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
 <p><strong>Introduction and welcome</strong></p>
-<p>Stephan Heunis</p>
+<p>Stephan Heunis & Organizing Committee</p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
