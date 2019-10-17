@@ -47,7 +47,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
-<p><strong>9:00 &ndash; 9:30</strong></p>
+<p><strong>9:00 &ndash; 9:45</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
 <p><strong>Introduction and welcome</strong></p>
@@ -63,11 +63,11 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>9:30 &ndash; 10:00</strong></p>
+<p><strong>9:45 &ndash; 10:15</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
-<p><strong> ‘The Turing Way’ - creating, running and maintaining open source projects </strong></p>
-<p>Kirstie Whitaker</p>
+<p><strong> Diving Into Metascience – Doing Research on Research </strong></p>
+<p>Marjan Bakker</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Talk</strong></p>
@@ -79,7 +79,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
-<p><strong>10:00 &ndash; 10:30</strong></p>
+<p><strong>10:15 &ndash; 10:30</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
 <p><strong>Open Discussion</strong></p>
@@ -112,8 +112,8 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>11:00 &ndash; 11:30</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
-<p><strong>Future perspectives for open scientific publishing and peer review</strong></p>
-<p>Daniele Marinazzo</p>
+<p><strong>Analytical Flexibility and Questionable Research Practices</strong></p>
+<p>Cassandra Gould van Praag</p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p><strong>Talk</strong></p>
@@ -125,7 +125,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>11:30 &ndash; 12:00</strong></p>
+<p><strong>11:30 &ndash; 11:45</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
 <p><strong>Open discussion</strong></p>
@@ -140,7 +140,38 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
-<p><strong>12:00 &ndash; 13:00</strong></p>
+<p><strong>11:45 &ndash; 12:15</strong></p>
+</td>
+<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
+<p><strong>How can Open Science Contribute to (Clinical) Research in Radiology?</strong></p>
+<p>Pim Pullens</p>
+</td>
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<p><strong>Talk</strong></p>
+</td>
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
+<p><strong>12:15 &ndash; 12:30</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
+<p><strong>Open discussion</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p>&nbsp;</p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
+<p><strong>12:30 &ndash; 13:30</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
 <p><strong>Lunch</strong></p>
@@ -155,11 +186,11 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>13:00 &ndash; 13:30</strong></p>
+<p><strong>13:30 &ndash; 14:00</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
-<p><strong>Analytical flexibility and questionable research practices </strong></p>
-<p>Cassandra Gould van Praag</p>
+<p><strong>Open Science in the Context of Companies, Intellectual Property, and Collaborative Research</strong></p>
+<p>TBA</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Talk</strong></p>
@@ -171,7 +202,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
-<p><strong>13:30 &ndash; 14:00</strong></p>
+<p><strong>14:00 &ndash; 14:15</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
 <p><strong>Open discussion</strong></p>
@@ -186,13 +217,14 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>14:00 &ndash; 14:30</strong></p>
+<p><strong>14:15 &ndash; 14:45</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
-<p><strong>Coffee break</strong></p>
+<p><strong>The Open Source Imaging Initiative</strong></p>
+<p>Joao Periquito</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p>&nbsp;</p>
+<p><strong>Talk</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -201,14 +233,13 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
-<p><strong>14:30 &ndash; 15:00</strong></p>
+<p><strong>14:45 &ndash; 15:00</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
-<p><strong>Diving Into Metascience – doing research on research</strong></p>
-<p>Marjan Bakker</p>
+<p><strong>Open discussion</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
-<p><strong>Talk</strong></p>
+<p>&nbsp;</p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
@@ -220,7 +251,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>15:00 &ndash; 15:30</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
-<p><strong>Open discussion</strong></p>
+<p><strong>Coffee break</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -235,10 +266,11 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>15:30 &ndash; 16:00</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
-<p><strong>Coffee break</strong></p>
+<p><strong>Open Publishing and Peer review - What's Next?</strong></p>
+<p>Daniele Marinazzo</p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
-<p>&nbsp;</p>
+<p><strong>Talk</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
@@ -247,11 +279,26 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>16:00 &ndash; 16:30</strong></p>
+<p><strong>16:00 &ndash; 16:15</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
-<p><strong>How can open science contribute to (clinical) research in radiology?</strong></p>
-<p>Pim Pullens</p>
+<p><strong>Open discussion</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p>&nbsp;</p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
+<p><strong>16:15 &ndash; 16:45</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
+<p><strong>The Turing Way: Reproducible, Inclusive, Collaborative Data Science</strong></p>
+<p>Kirstie Whitaker</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Talk</strong></p>
@@ -263,7 +310,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
-<p><strong>16:30 &ndash; 17:00</strong></p>
+<p><strong>16:45 &ndash; 17:00</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
 <p><strong>Open discussion</strong></p>
@@ -281,7 +328,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>17:00 &ndash; ...</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
-<p><strong>Drinks and panel discussion: Future challenges for improving open science practices in research related to magnetic resonance imaging.</strong></p>
+<p><strong>Drinks and further discussion</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
