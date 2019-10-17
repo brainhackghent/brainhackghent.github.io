@@ -370,10 +370,10 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong></strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
-<p><font size="5"><strong>Hack Track</strong></font></p>
+<p><font size="4"><strong>Hack Track</strong></font></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><font size="5"><strong>Train Track</strong></font></p>
+<p><font size="4"><strong>Train Track</strong></font></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong></strong></p>
@@ -563,10 +563,10 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong></strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
-<p><font size="5"><strong>Hack Track</strong></font></p>
+<p><font size="4"><strong>Hack Track</strong></font></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><font size="5"><strong>Train Track</strong></font></p>
+<p><font size="4"><strong>Train Track</strong></font></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong></strong></p>
