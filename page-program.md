@@ -31,16 +31,16 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
+<td style="background: #bab6b6;" bgcolor="#bab6b6" width="14%">
 <p><strong>8:15 &ndash; 9:00</strong></p>
 </td>
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
+<td style="background: #bab6b6;" bgcolor="#bab6b6" width="66%">
 <p><strong>Registration and coffee</strong></p>
 </td>
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<td style="background: #bab6b6;" bgcolor="#bab6b6" width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<td style="background: #bab6b6;" bgcolor="#bab6b6" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -293,15 +293,30 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 </tr>
 
 <tr valign="top">
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
 <p><strong>16:15 &ndash; 16:45</strong></p>
 </td>
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
 <p><strong>The Turing Way: Reproducible, Inclusive, Collaborative Data Science</strong></p>
 <p>Kirstie Whitaker</p>
 </td>
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p><strong>Talk</strong></p>
+</td>
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
+<p><strong>16:45 &ndash; 17:00</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
+<p><strong>Open discussion</strong></p>
+</td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<p>&nbsp;</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -310,30 +325,15 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 
 <tr valign="top">
 <td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
-<p><strong>16:45 &ndash; 17:00</strong></p>
-</td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
-<p><strong>Open discussion</strong></p>
-</td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
-<p>&nbsp;</p>
-</td>
-<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
-<p>&nbsp;</p>
-</td>
-</tr>
-
-<tr valign="top">
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>17:00 &ndash; ...</strong></p>
 </td>
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
 <p><strong>Drinks and further discussion</strong></p>
 </td>
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
 </td>
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
 </td>
 </tr>
