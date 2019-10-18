@@ -63,7 +63,7 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="pim.png"
   profilename="Pim Pullens"
-  affiliation="Ghent Institute for Functional & Metabolic Imaging"
+  affiliation="Department of Radiology (Ghent University - Ghent University hospital) and Ghent Institute for Functional and Metabolic Imaging (GIfMI)"
   city="Ghent, Belgium" %}
 </td>
 </tr>
