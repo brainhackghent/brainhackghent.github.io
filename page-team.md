@@ -35,6 +35,15 @@ show_sidebar: false
 </td>
 </tr>
 
+<tr>                                                                                                                                                                                              
+<td width="50%" align="left" valign="center">
+<p align="justify"><b>Bio:</b> Stephan’s research focuses on developing new acquisition and signal processing methods for functional neuroimaging that allow the tracking and visualisation of distributed brain activity patterns in real-time, i.e. while someone is inside an MRI scanner, and applying this in clinical practice. Stephan is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the Open Science Community Eindhoven , which is part of a broad Dutch network of researchers and university employees that works on improving the way we do science, and he is the founder of OpenMR Benelux , a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons.</p>
+</td>
+<td width="50%" align="left" valign="center">   
+<p align="justify"><b>Bio:</b> </p>
+</td>
+</tr>
+
 <tr>
 <td width="50%" align="left" valign="center">
 <a name="vincenzo"></a>
@@ -55,6 +64,15 @@ show_sidebar: false
   city="Ghent, Belgium"
   git="https://github.com/halmgren"
   twitter="https://www.twitter.com/Hannes_Almgren" %}  
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="left" valign="center">
+<p align="justify"><b>Bio:</b> </p> 
+</td>
+<td width="50%" align="left" valign="center">
+<p align="justify"><b>Bio:</b> </p>
 </td>
 </tr>
 
@@ -82,6 +100,16 @@ show_sidebar: false
   twitter="https://www.twitter.com/RemiGau"%}
 </td>
 </tr>
+
+<tr>
+<td width="50%" align="left" valign="center">
+<p align="justify"><b>Bio:</b> </p>                                                                                                                                                                                
+</td>
+<td width="50%" align="left" valign="center">                                                                                                                                                                      
+<p align="justify"><b>Bio:</b> </p>
+</td>
+</tr>
+
 </table>
 </div>
 
@@ -112,5 +140,35 @@ show_sidebar: false
   twitter="https://www.twitter.com/nbielczyk_neuro"%}
 </td>
 </tr>
+
+<tr>
+<td width="50%" align="left" valign="center">
+<p align="justify"><b>Bio:</b> </p>
+</td>
+<td width="50%" align="left" valign="center">
+<p align="justify"><b>Bio:</b> </p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="left" valign="center">
+<a name="tim"></a>
+{% include speaker-card.html
+  avatarurl="tim.png"
+  profilename="Tim van Mourik"
+  affiliation="Donders Institute for Brain, Cognition and Behaviour"
+  city="Nijmegen, The Netherlands"
+  twitter="https://twitter.com/tim_van_mourik?lang=nl"                                  
+  git="https://github.com/TimVanMourik"
+  researchgate="https://www.researchgate.net/profile/Tim_Van_Mourik" %}
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="left" valign="center">
+<p align="justify"><b>Bio:</b> </p>
+</td>
+</tr>
+
 </table>
 </div>
