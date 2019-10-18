@@ -7,30 +7,160 @@ show_sidebar: false
 ---
 
 ## <span style="color:#004777"> Contact us at openmrbenelux@gmail.com </span>
-
-<span> Questions or feedback? Do not hesitate and use the contact form to send us an e-mail at **openmrbenelux@gmail.com**. <br>
-We will answer you as soon as possible, to the best of our abilities! </span>
-
-<style>
-    .contact-form {
-        position: relative;
-        padding-bottom: 65%; // This is the aspect ratio
-        height: 0;
-        overflow: hidden;
-    }
-    .contact-form iframe {
-        position: absolute;
-        top: 5px;
-        left: 5px;
-        width: 100% !important;
-        height: 100% !important;
-    }
-</style>
-                                                                                                                        
-
+Questions or feedback? Do not hesitate and use the *Contact Form* to send us an e-mail at openmrbenelux@gmail.com. We will answer you as soon as possible, to the best of our abilities! 
+You are also welcome to subscribe to our *Newsletter* to receive the latest updates regarding the program and more. You will also be among the first to know when registration opens!  
 <br>
-<div class="contact-form"> 
-<div align="center">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeaHibka3G_TOfziaCjVk6xfv0rUXD80DgJ9aJAxn_YiF78mA/viewform?embedded=true" width="1280" height="1280" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
-</div>
-</div>
+
+<!-- ### <span style="color:#004777"> Contact Form </span> -->
+
+<html>
+
+<head>
+    <script type="text/JavaScript">
+        function showMessage(){
+            //window.alert("Done"); 
+            //$("#contact-form")[0].reset();
+            // var message = document.getElementById("message").value; 
+            // display_message.innerHTML= message; 
+        }
+    </script>
+
+    <style>
+    <!-- body {font-family: Arial, Helvetica, sans-serif;} -->
+
+    form {
+      display: block;
+      width: 50%;
+      float: left;
+      padding-right: 4%;
+      <!-- border: 3px solid #f1f1f1; -->
+      <!-- font-family: Arial; -->
+    }
+
+    .container {
+      padding: 20px;
+      <!-- background-color: #f1f1f1;-->
+    }
+
+    input[type=text], input[type=email], textarea {
+      width: 100%;
+      padding: 12px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+    }
+
+    input[type=submit], input[type=reset] {
+      width: 20%;
+      padding: 12px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+    }
+
+    input[type=checkbox] {
+      margin-top: 16px;
+    }
+
+    input[type=submit] {
+      background-color: #004777;
+      color: white;
+      border: none;
+    }
+
+    input[type=submit]:hover {
+      opacity: 0.8;
+    }
+ 
+    .line { 
+      height: 75%; 
+      position:absolute; 
+      left: 48%;
+      width: 1px;
+      background: #ccc;
+      z-index: 1; 
+     } 
+
+    </style>
+
+</head>
+<body>
+
+<div class="line"></div>
+
+<form id="contact-form" action="https://script.google.com/macros/s/AKfycbxFvlT1LVB4mrKHuMl0-HkOb62QP4n_rFHm8-6vH7Zhe_CcQ8XX/exec">
+
+<h2 style="font-family:Courier New; color:#004777; opacity:0.7">Contact Form</h2>
+  
+  <div class="form-group">
+    <label>Name:</label>
+    <input type="text" name="Name" placeholder="Name" class="form-control" required>
+  </div>
+
+  <div class="form-group">
+    <label>Surname:</label>
+    <input type="text" name="Surname" placeholder="Surname" class="form-control" required>
+  </div>
+  
+  <div class="form-group">
+    <label>E-mail:</label>
+    <input type="email" name="E-mail" placeholder="E-mail" class="form-control" required>
+  </div>
+  
+  <div class="form-group">
+    <label>Questions or feedback?</label>
+    <!-- <input type="text" name="Message" placeholder="Message" required> -->
+    <textarea rows="5" name="Message" placeholder="Questions or feedback?" class="form-control" required></textarea>
+  </div>
+
+  <div class="form-group">
+    <input id="Newsletter" type="checkbox" checked="checked" name="Newsletter" value="true" class="form-control"><label for="Newsletter"> Subscribe to our Newsletter to receive the latest updates.</label>
+  </div>
+
+  <br>
+
+  <div>
+    <!-- Enter message: <input type="text" id = "message"> -->
+    <!-- <button type="submit" id="submit-form" value="Submit" onclick="showMessage()" >Submit</button> -->
+    <input type="submit" id="submit-form" value="Submit" class="form-control">
+    <input type="reset" id="reset-form" value="Reset" class="form-control">
+ </div>
+
+</form>
+
+<!-- ### <span style="color:#004777"> Newsletter </span> -->
+
+<form id="subscribe-form" action="https://script.google.com/macros/s/AKfycbxFvlT1LVB4mrKHuMl0-HkOb62QP4n_rFHm8-6vH7Zhe_CcQ8XX/exec">
+
+<h2 style="font-family:Courier New; color:#004777; opacity:0.7">Newsletter</h2> 
+
+  <div class="form-group">
+    <label>E-mail:</label>
+    <input type="email" name="E-mail" placeholder="E-mail" class="form-control" required>
+  </div>
+
+  <div class="form-group">
+    <input id="Newsletter" type="checkbox" checked="checked" name="Newsletter" value="true" class="form-control" required><label for="Newsletter"> Subscribe to our Newsletter to receive the latest updates.</label>
+  </div>
+  
+  <br>
+
+  <div>
+    <!-- Enter message: <input type="text" id = "message"> -->
+    <!-- <button type="submit" id="submit-form" value="Submit" onclick="showMessage()" >Submit</button> -->
+    <input type="submit" id="submit-form" value="Subscribe" class="form-control">
+    <input type="reset" id="reset-form" value="Reset" class="form-control">
+ </div>
+
+</form>
+
+<!-- <p> Message is: <span id = "display_message"></span> </p> -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src='../contact.js'></script>
+<script src='../subscribe.js'></script>
+
+</body>
+</html>
