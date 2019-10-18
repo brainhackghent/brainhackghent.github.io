@@ -270,7 +270,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p>Daniele Marinazzo</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p><strong>Talk</strong></p>
+<p><strong>Interactive Talk</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -413,7 +413,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p>Fatma Deniz</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p><strong>Workshop</strong></p>
+<p><strong>TBA</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -586,7 +586,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p>Malvika Sharan</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p><strong>Workshop</strong></p>
+<p><strong>TBA</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -663,7 +663,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p>Stefan Klein</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p><strong>Workshop</strong></p>
+<p><strong>TBA</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -756,7 +756,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p>Tony Stöcker</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p><strong>Workshop</strong></p>
+<p><strong>TBA</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -777,7 +777,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p>Stephan Heunis</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p><strong>Workshop</strong></p>
+<p><strong>TBA</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
