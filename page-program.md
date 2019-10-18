@@ -773,7 +773,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Knowledge Graph (HBP)</strong></p>
 <p>Oliver Schmid</p>
-<p><strong>GDPR Data Sharing Brains</strong></p>
+<p><strong>Sharing GDPR compliant neuroimaging research data</strong></p>
 <p>Stephan Heunis</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
