@@ -103,7 +103,7 @@ show_sidebar: false
 
 <tr>
 <td width="50%" align="left" valign="center">
-<p align="justify"><b>Bio:</b> </p>                                                                                                                                                                                
+<p align="justify"><b>Bio:</b> Sofie is currently doing a PhD at the department of Data Analysis (Ghent University, Ghent, Belgium), supervised by Prof. Dr. Daniele Marinazzo. Her research focuses on the intertwined domains of (resting-state) neuroscience and lateralization/handedness. During her PhD adventure, she has also been involved in Open Science events, either as part of the organizing committee (e.g. BrainHack Ghent 2017/2018) or as a volunteer (e.g. Pint of Science, Ghent). Creating an Open Science community and communicating Open Science to a broader public is something she wants to be progressively involved in. </p>                                                                                                                                                                                
 </td>
 <td width="50%" align="left" valign="center">                                                                                                                                                                      
 <p align="justify"><b>Bio:</b> </p>
