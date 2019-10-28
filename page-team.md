@@ -7,9 +7,53 @@ show_sidebar: false
 
 ## <span style="color:#004777"> Organizing committee </span>
 
-<div style="overflow-x:auto;">
-<table border="0" cellpadding="0 15px 0 15px;">
+<html>
+<head>
+<style>
+.accordion:after {
+  content: '\002B'; /* Unicode character for "plus" sign (+) */
+  font-size: 13px;
+  color: #ffffff;
+  float: right;
+  margin-left: 5px;
+}
+.active:after {
+  content: "\2212"; /* Unicode character for "minus" sign (-) */
+  font-size: 13px;
+  color: #ffffff;
+  float: right;
+  margin-left: 5px;
+}
+/* Style the buttons that are used to open and close the accordion panel */
+.accordion {
+  background-color: #004777;
+  color: #ffffff;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .accordion:hover {
+  background-color: #004777;
+}
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+  padding: 0 18px;
+  background-color: #ffffff;
+  display: none;
+  overflow: hidden;
+}
+</style>
+</head>
+<body>
 
+<div style="overflow-x:auto;">
+  
+<table border="0" cellpadding="0 15px 0 15px;">
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="stephan"></a>
@@ -22,7 +66,6 @@ show_sidebar: false
   git="https://github.com/jsheunis/"
   twitter="https://www.twitter.com/fmrwhy"%}
 </td>
-
 <td width="500px" align="left" valign="center">
 <a name="emanoel"></a>
 {% include speaker-card.html
@@ -34,18 +77,25 @@ show_sidebar: false
   twitter="https://www.twitter.com/sabidussi"%}
 </td>
 </tr>
-
-<tr>                                                                                                                                                                                              
-<td width="50%" align="left" valign="center">
-<p align="justify"><b>Bio:</b> Stephan’s research focuses on developing new acquisition and signal processing methods for functional neuroimaging that allow the tracking and visualisation of distributed brain activity patterns in real-time, i.e. while someone is inside an MRI scanner, and applying this in clinical practice. Stephan is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the Open Science Community Eindhoven , which is part of a broad Dutch network of researchers and university employees that works on improving the way we do science, and he is the founder of OpenMR Benelux , a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons.</p>
+<tr>
+<td>
+<button class="accordion"><i class="fas fa-user" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>Stephan is a researcher and PhD candidate at the Electrical Engineering department of the Eindhoven University of Technology in the Netherlands. His research focuses on developing new acquisition and signal processing methods for functional neuroimaging that allow the real-time tracking and visualisation of distributed MRI brain activity patterns. Stephan is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the <a href="https://osceindhoven.github.io/">Open Science Community Eindhoven</a>, which is part of a wide Dutch network of researchers and university employees that focuses on improving scientific practice. He is also the founder of <a href="https://openmrbenelux.github.io/">OpenMR Benelux</a>, a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons.</p>
+</div>
 </td>
-<td width="50%" align="left" valign="center">   
-<p align="justify"><b>Bio:</b> </p>
+<td>
+<button class="accordion"><i class="fas fa-user" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>TBA</p>
+</div>
 </td>
 </tr>
-
+</table>
+    
+<table border="0" cellpadding="0 15px 0 15px;">
 <tr>
-<td width="50%" align="left" valign="center">
+<td width="500px" align="left" valign="center">
 <a name="vincenzo"></a>
 {% include speaker-card.html
   avatarurl="vincenzo.jpg"
@@ -54,8 +104,7 @@ show_sidebar: false
   city="Belgium"
   git="https://github.com/vins9100" %}
 </td>
-
-<td width="50%" align="left" valign="center"> 
+<td width="500px" align="left" valign="center">
 <a name="hannes"></a>
 {% include speaker-card.html
   avatarurl="hannes.png"
@@ -63,21 +112,28 @@ show_sidebar: false
   affiliation="Department of Data Analysis <br> Faculty of Psychology and Educational Sciences <br> Ghent University"
   city="Ghent, Belgium"
   git="https://github.com/halmgren"
-  twitter="https://www.twitter.com/Hannes_Almgren" %}  
+  twitter="https://www.twitter.com/Hannes_Almgren" %}
 </td>
 </tr>
-
 <tr>
-<td width="50%" align="left" valign="center">
-<p align="justify"><b>Bio:</b> </p> 
+<td>
+<button class="accordion"><i class="fas fa-user" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>TBA</p>
+</div>
 </td>
-<td width="50%" align="left" valign="center">
-<p align="justify"><b>Bio:</b> </p>
+<td>
+<button class="accordion"><i class="fas fa-user" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>TBA</p>
+</div>
 </td>
 </tr>
+</table>
 
+<table border="0" cellpadding="0 15px 0 15px;">
 <tr>
-<td width="50%" align="left" valign="center">
+<td width="500px" align="left" valign="center">
 <a name="sofie"></a>
 {% include speaker-card.html
   avatarurl="sofie.png"
@@ -87,8 +143,7 @@ show_sidebar: false
   git="https://github.com/sofievdbos"
   twitter="https://www.twitter.com/sofie_vdbos" %}
 </td>
-
-<td width="50%" align="left" valign="center">
+<td width="500px" align="left" valign="center">
 <a name="remi"></a>
 {% include speaker-card.html
   avatarurl="remi.png"
@@ -100,26 +155,31 @@ show_sidebar: false
   twitter="https://www.twitter.com/RemiGau"%}
 </td>
 </tr>
-
 <tr>
-<td width="50%" align="left" valign="center">
-<p align="justify"><b>Bio:</b> Sofie is currently doing a PhD at the department of Data Analysis (Ghent University, Ghent, Belgium), supervised by Prof. Dr. Daniele Marinazzo. Her research focuses on the intertwined domains of (resting-state) neuroscience and lateralization/handedness. During her PhD adventure, she has also been involved in Open Science events, either as part of the organizing committee (e.g. BrainHack Ghent 2017/2018) or as a volunteer (e.g. Pint of Science, Ghent). Creating an Open Science community and communicating Open Science to a broader public is something she wants to be progressively involved in. </p>                                                                                                                                                                                
+<td>
+<button class="accordion"><i class="fas fa-user" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>Sofie is currently doing a PhD at the department of Data Analysis (Ghent University, Ghent, Belgium), supervised by Prof. Dr. Daniele Marinazzo. Her research focuses on the intertwined domains of (resting-state) neuroscience and lateralization/handedness. During her PhD adventure, she has also been involved in Open Science events, either as part of the organizing committee (e.g. BrainHack Ghent 2017/2018) or as a volunteer (e.g. Pint of Science, Ghent). Creating an Open Science community and communicating Open Science to a broader public is something she wants to be progressively involved in.</p>
+</div>
 </td>
-<td width="50%" align="left" valign="center">                                                                                                                                                                      
-<p align="justify"><b>Bio:</b> </p>
+<td>
+<button class="accordion"><i class="fas fa-user" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>TBA</p>
+</div>
 </td>
 </tr>
-
 </table>
+
 </div>
 
 ## <span style="color:#004777"> Advisors </span>
 
 <div style="overflow-x:auto;">
-<table border="0" cellpadding="0 15px 0 15px;">
 
+<table border="0" cellpadding="0 15px 0 15px;">
 <tr>
-<td width="50%" align="left" valign="center">
+<td width="500px" align="left" valign="center">
 <a name="daniele"></a>
 {% include speaker-card.html
   avatarurl="daniele.png"
@@ -127,11 +187,11 @@ show_sidebar: false
   affiliation="Department of Data Analysis <br>Faculty of Psychology and Educational Sciences <br>Ghent University"
   city="Ghent, Belgium"
   homepage="http://users.ugent.be/~dmarinaz/"
-  twitter="https://twitter.com/dan_marinazzo"                                                           git="https://github.com/danielemarinazzo"
+  twitter="https://twitter.com/dan_marinazzo"                                                           
+  git="https://github.com/danielemarinazzo"
   researchgate="https://www.researchgate.net/profile/Daniele_Marinazzo" %}
 </td>
-
-<td width="50%" align="left" valign="center">
+<td width="500px" align="left" valign="center">
 <a name="natalia"></a>
 {% include speaker-card.html
   avatarurl="natalia.png"
@@ -140,18 +200,25 @@ show_sidebar: false
   twitter="https://www.twitter.com/nbielczyk_neuro"%}
 </td>
 </tr>
-
 <tr>
-<td width="50%" align="left" valign="center">
-<p align="justify"><b>Bio:</b> </p>
+<td>
+<button class="accordion"><i class="fas fa-user" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>Daniele Marinazzo is an associate professor in the department of Data Analysis of the Faculty of Psychology and Educational Sciences at Ghent University. His team focuses on methodological and computational aspects of neuroscience research, and on the dynamical networks subserving function, as well as thorough statistical validation of the results. They develop new techniques for inferring connectivity architectures from the dynamics of the recorded data, in challenging cases of short, noisy and redundant time series, as those encountered in neuroimaging. Daniele cares about open science and ways to improve the review/editorial process. He is an editor at several journals in his field, including PLOS Computational Biology, PLOS One, NeuroImage, Brain Topography, Network Neuroscience. Visit Daniele’s <a href="https://publons.com/researcher/663417/daniele-marinazzo">Publons review profile</a> for more.</p>
+</div>
 </td>
-<td width="50%" align="left" valign="center">
-<p align="justify"><b>Bio:</b> </p>
+<td>
+<button class="accordion"><i class="fas fa-user" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>Natalia Bielczyk has a background in Physics, Mathematics and Psychology (3 x MSc), obtained at the College of Interfaculty Studies in Mathematics and Natural Sciences, University of Warsaw. She is now completing her thesis within the Donders Graduate School, Donders Institute for Brain, Cognition and Behavior, Nijmegen, the Netherlands. Her research concerns developing new methods for connectomics in the domain of cognitive neuroimaging, i.e. for functional and effective connectivity research. Natalia also currently holds a position of a Career Development and Mentoring Manager within the <a href="https://www.ohbmtrainees.com/">Organization for Human Brain Mapping Student and Postdoc Special Interest Group</a>, and serves as an eLife Associate within the <a href="https://elifesciences.org/inside-elife/a946c355/elife-community-ambassadors-243-volunteers-join-the-programme-in-2019">eLife Ambassadors community</a>. In private, she is also a dedicated <a href="https://www.nataliabielczyk.com/">blogger</a>, and a speaker, giving workshops and talks about self-development in academia and transitions to industry. In November 2018, she founded Stichting Solaris Onderzoek en Ontwikkeling in a response to lack of assistance for early career researchers in career development in academia and beyond.</p>
+</div>
 </td>
 </tr>
+</table>
 
+<table border="0" cellpadding="0 15px 0 15px;">
 <tr>
-<td width="50%" align="left" valign="center">
+<td width="500px" align="left" valign="center">
 <a name="tim"></a>
 {% include speaker-card.html
   avatarurl="tim.png"
@@ -162,13 +229,41 @@ show_sidebar: false
   git="https://github.com/TimVanMourik"
   researchgate="https://www.researchgate.net/profile/Tim_Van_Mourik" %}
 </td>
-</tr>
-
-<tr>
-<td width="50%" align="left" valign="center">
-<p align="justify"><b>Bio:</b> </p>
+<td width="500px" align="left" valign="center">
 </td>
 </tr>
-
-</table>
+<tr>
+<td>
+<button class="accordion"><i class="fas fa-user" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>TBA</p>
 </div>
+</td>
+<td>
+</td>
+</tr>
+</table>
+  
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    /* Toggle between adding and removing the "active" class,
+    to highlight the button that controls the panel */
+    this.classList.toggle("active");
+
+   /* Toggle between hiding and showing the active panel */
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
+
+</body>
+</html>
