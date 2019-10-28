@@ -229,9 +229,6 @@ show_sidebar: false
   git="https://github.com/TimVanMourik"
   researchgate="https://www.researchgate.net/profile/Tim_Van_Mourik" %}
 </td>
-<td width="500px" align="left" valign="center">
-  
-</td>
 </tr>
 <tr>
 <td>
@@ -239,9 +236,6 @@ show_sidebar: false
 <div class="panel">
   <p align="justify" style="font-family: arial;"><br>TBA</p>
 </div>
-</td>
-<td>
-  
 </td>
 </tr>
 </table>
