@@ -5,8 +5,6 @@ show_sidebar: false
 #hero_image: assets/ext_images/Home_logo.png
 ---
 
-## <span style="color:#004777"> Organizing committee </span>
-
 <html>
 <head>
 <style>
@@ -50,6 +48,8 @@ show_sidebar: false
 </style>
 </head>
 <body>
+  
+<h2 style="color:#004777"> Organizing committee </h2>
 
 <div style="overflow-x:auto;">
   
