@@ -173,7 +173,7 @@ show_sidebar: false
 
 </div>
 
-## <span style="color:#004777"> Advisors </span>
+<h2><span style="color:#004777"> Advisors </span></h2>
 
 <div style="overflow-x:auto;">
 
