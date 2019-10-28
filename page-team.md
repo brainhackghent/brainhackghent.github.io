@@ -91,9 +91,7 @@ show_sidebar: false
 </div>
 </td>
 </tr>
-</table>
-    
-<table border="0" cellpadding="0 15px 0 15px;">
+
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="vincenzo"></a>
@@ -129,9 +127,7 @@ show_sidebar: false
 </div>
 </td>
 </tr>
-</table>
 
-<table border="0" cellpadding="0 15px 0 15px;">
 <tr>
 <td width="500px" align="left" valign="center">
 <a name="sofie"></a>
