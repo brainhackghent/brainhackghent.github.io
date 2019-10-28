@@ -334,16 +334,16 @@ show_sidebar: false
 </div>
 <button class="accordion"><i class="far fa-comments" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract: <b>Where to go next? The landscape of Post-PhD career tracks</b></button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>There is a growing disparity between the number of new PhD graduates and the available faculty positions. Effectively, most of the PhD graduates needs to find jobs outside academia. Yet, there is little amount of services dedicated to assisting early career researchers in discovering their core competencies, in searching for employers and landing their dream jobs in industry. Ideally, one should anticipate the potential future market sectors after completing the PhD, and focus on developing transferable skills during the PhD on that basis. This however, remains a rare practice in the graduate schools. Therefore, in this workshop, we will assume that you have no prior experience with job market in industry. We will discuss the following:
+  <p align="justify" style="font-family: arial;"><br>There is a growing disparity between the number of new PhD graduates and the available faculty positions. Effectively, most of the PhD graduates needs to find jobs outside academia. Yet, there is little amount of services dedicated to assisting early career researchers in discovering their core competencies, in searching for employers and landing their dream jobs in industry. Ideally, one should anticipate the potential future market sectors after completing the PhD, and focus on developing transferable skills during the PhD on that basis. This however, remains a rare practice in the graduate schools. Therefore, in this workshop, we will assume that you have no prior experience with job market in industry. We will discuss the following: <br>
  
-    •    the demand for PhDs in different branches of industry
-    •    paycheck or entrepreneurship? is a traineeship at a company a good start after a PhD?
-    •    defining your key competences, including both hard- and soft skills
-    •    searching for employers who are likely to search for these competences
-    •    searching for employers who share your personal values
-    •    the role of networking in searching for jobs
-    •    restructuring your CV and writing a competitive motivational letter 
-    •    preparing for job interviews
+    •    the demand for PhDs in different branches of industry <br>
+    •    paycheck or entrepreneurship? is a traineeship at a company a good start after a PhD? <br>
+    •    defining your key competences, including both hard- and soft skills <br>
+    •    searching for employers who are likely to search for these competences <br>
+    •    searching for employers who share your personal values <br>
+    •    the role of networking in searching for jobs <br>
+    •    restructuring your CV and writing a competitive motivational letter <br>
+    •    preparing for job interviews <br>
  
 The workshop will be interactive: we will debunk certain myths related to the job market with use of polls and quizzes. Sharing personal experience by participants will be highly encouraged. The goal of the workshop is to give the participants the information and confidence so they can further search for relevant information on their own, and take first steps towards finding their dream job in industry.</p>
 </div>
