@@ -233,7 +233,9 @@ show_sidebar: false
 </td>
 </tr>
 </table>
-  
+
+</div>
+
 <script>
 var acc = document.getElementsByClassName("accordion");
 var i;
