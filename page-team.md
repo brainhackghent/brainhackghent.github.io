@@ -64,7 +64,8 @@ show_sidebar: false
   city="Eindhoven, The Netherlands"
   homepage="https://www.fmrwhy.com/"
   git="https://github.com/jsheunis/"
-  twitter="https://www.twitter.com/fmrwhy"%}
+  twitter="https://www.twitter.com/fmrwhy"
+  researchgate="https://www.researchgate.net/profile/Stephan_Heunis2" %}
 </td>
 <td width="500px" align="left" valign="center">
 <a name="emanoel"></a>
@@ -137,7 +138,8 @@ show_sidebar: false
   affiliation="Department of Data Analysis <br> Faculty of Psychology and Educational Sciences <br> Ghent University"
   city="Ghent, Belgium"
   git="https://github.com/sofievdbos"
-  twitter="https://www.twitter.com/sofie_vdbos" %}
+  twitter="https://www.twitter.com/sofie_vdbos"
+  researchgate="https://www.researchgate.net/profile/Sofie_Van_Den_Bossche2" %}
 </td>
 <td width="500px" align="left" valign="center">
 <a name="remi"></a>
@@ -148,7 +150,8 @@ show_sidebar: false
   city="Louvain-la-Neuve, Belgium"
   homepage="https://remi-gau.github.io/"
   git="https://github.com/Remi-Gau"
-  twitter="https://www.twitter.com/RemiGau"%}
+  twitter="https://www.twitter.com/RemiGau"
+  researchgate="https://www.researchgate.net/profile/Remi_Gau" %}
 </td>
 </tr>
 <tr>
@@ -193,7 +196,9 @@ show_sidebar: false
   avatarurl="natalia.png"
   profilename="Natalia Bielczyk"
   affiliation="Founder, Director and Chairperson Stichting Solaris Onderzoek en Ontwikkeling <br> <br> eLife Associate <br> <br> Career Development and Mentoring Manager Organization for Human Brain Mapping"
-  twitter="https://www.twitter.com/nbielczyk_neuro"%}
+  homepage="https://www.nataliabielczyk.com/"
+  twitter="https://www.twitter.com/nbielczyk_neuro"
+  researchgate="https://www.researchgate.net/profile/Natalia_Bielczyk2" %}
 </td>
 </tr>
 <tr>
@@ -219,6 +224,7 @@ show_sidebar: false
   profilename="Tim van Mourik"
   affiliation="Donders Institute for Brain, Cognition and Behaviour"
   city="Nijmegen, The Netherlands"
+  homepage="https://timvanmourik.com/"
   twitter="https://twitter.com/tim_van_mourik?lang=nl"                                  
   git="https://github.com/TimVanMourik"
   researchgate="https://www.researchgate.net/profile/Tim_Van_Mourik" %}
