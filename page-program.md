@@ -97,7 +97,7 @@ The preliminary program for <i>OpenMR Benelux 2020</i> is shown below. The event
 <p><strong>10:30 &ndash; 11:00</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="66%">
-<p><strong>Coffee break</strong></p>
+<p><strong>Coffee Break</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
 <p>&nbsp;</p>
@@ -251,7 +251,7 @@ The preliminary program for <i>OpenMR Benelux 2020</i> is shown below. The event
 <p><strong>15:00 &ndash; 15:30</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="66%">
-<p><strong>Coffee break</strong></p>
+<p><strong>Coffee Break</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
 <p>&nbsp;</p>
