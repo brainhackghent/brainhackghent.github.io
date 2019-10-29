@@ -9,7 +9,7 @@ show_sidebar: false
 
 <!-- ## Information about the program -->
 
-The preliminary program for OpenMR Benelux is shown below. The event will span three days, with the first day consisting of talks by prominent researchers in the field of MRI and open science. The second and third days will be spent on workshops, hackathons and interactive discussions and training sessions. A more detailed program will follow.
+The preliminary program for <i>OpenMR Benelux 2020</i> is shown below. The event will span three days, with the first day consisting of talks by prominent researchers in the field of MRI and open science. The second and third day will be spent on workshops, hackathons, interactive discussions, and training sessions. A more detailed program will follow soon.
 
 <p>&nbsp;</p>
 <table width="100%" cellspacing="0" cellpadding="2">
@@ -23,7 +23,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong><font color="white">Program: Tuesday, 21 January 2020</font></strong></p>
 </td>
 <td style="background: #004777;" bgcolor="#004777" width="10%">
-<p><strong><font color="white">Talk/workshop</font></strong></p>
+<p><strong><font color="white">Talk/Workshop/Demo</font></strong></p>
 </td>
 <td style="background: #004777;" bgcolor="#004777" width="10%">
 <p><strong><font color="white">Slides</font></strong></p>
@@ -35,7 +35,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>8:15 &ndash; 9:00</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="66%">
-<p><strong>Registration and coffee</strong></p>
+<p><strong>Registration and Coffee</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
 <p>&nbsp;</p>
@@ -50,7 +50,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>9:00 &ndash; 9:45</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
-<p><strong>Introduction and welcome</strong></p>
+<p><strong>Introduction and Welcome</strong></p>
 <p>Stephan Heunis & Organizing Committee</p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
@@ -112,7 +112,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>11:00 &ndash; 11:30</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
-<p><strong>Analytical Flexibility and Questionable Research Practices</strong></p>
+<p><strong>Analytical Flexibility and Questionable Research Practices in MRI</strong></p>
 <p>Cassandra Gould van Praag</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -128,7 +128,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>11:30 &ndash; 11:45</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
-<p><strong>Open discussion</strong></p>
+<p><strong>Open Discussion</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
@@ -159,7 +159,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>12:15 &ndash; 12:30</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
-<p><strong>Open discussion</strong></p>
+<p><strong>Open Discussion</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
@@ -205,7 +205,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>14:00 &ndash; 14:15</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
-<p><strong>Open discussion</strong></p>
+<p><strong>Open Discussion</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
@@ -236,7 +236,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>14:45 &ndash; 15:00</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
-<p><strong>Open discussion</strong></p>
+<p><strong>Open Discussion</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
@@ -266,7 +266,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>15:30 &ndash; 16:00</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
-<p><strong>Open Publishing and Peer review - What's Next?</strong></p>
+<p><strong>Current and Future Scenarios for Open Scientific Publishing and Reviewing</strong></p>
 <p>Daniele Marinazzo</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -282,7 +282,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>16:00 &ndash; 16:15</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
-<p><strong>Open discussion</strong></p>
+<p><strong>Open Discussion</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
@@ -313,7 +313,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>16:45 &ndash; 17:00</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
-<p><strong>Open discussion</strong></p>
+<p><strong>Open Discussion</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
@@ -328,7 +328,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>17:00 &ndash; ...</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="66%">
-<p><strong>Drinks and further discussion</strong></p>
+<p><strong>Drinks and Further Discussion</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
 <p>&nbsp;</p>
@@ -358,7 +358,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p>&nbsp;</p>
 </td>
 <td style="background: #004777;" bgcolor="#004777" width="10%">
-<p><strong><font color="white">Talk/workshop</font></strong></p>
+<p><strong><font color="white">Talk/Workshop/Demo</font></strong></p>
 </td>
 <td style="background: #004777;" bgcolor="#004777" width="10%">
 <p><strong><font color="white">Slides</font></strong></p>
@@ -483,8 +483,8 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>Python and Jupyter Notebooks</strong></p>
-<p>TBA</p>
+<p><strong>The Basics of Python and Jupyter Notebooks for Medical Image Analysis</strong></p>
+<p>Serena Bonaretti</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
@@ -524,7 +524,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p>TBA</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p><strong>Workshop</strong></p>
+<p><strong>TBA</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -549,7 +549,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p>&nbsp;</p>
 </td>
 <td style="background: #004777;" bgcolor="#004777" width="10%">
-<p><strong><font color="white">Talk/workshop</font></strong></p>
+<p><strong><font color="white">Talk/Workshop/Demo</font></strong></p>
 </td>
 <td style="background: #004777;" bgcolor="#004777" width="10%">
 <p><strong><font color="white">Slides</font></strong></p>
@@ -601,7 +601,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>Practical Tips for Moving from Research to Industry</strong></p>
+<p><strong>Where to Go Next? The Landscape of Post-PhD Career Tracks</strong></p>
 <p>Natalia Bielczyk</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -638,7 +638,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>Brain Anatomy Toolbox (HBP)</strong></p>
+<p><strong>Probing Brain Organization and Function with Neuroimaging Markers of Connectivity (HBP)</strong></p>
 <p>Sarah Genon</p>
 <p><strong>Human Brain Atlas (HBP)</strong></p>
 <p>TBA</p>
@@ -646,7 +646,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
 <p>&nbsp;</p>
-<p><strong>TBA</strong></p>
+<br><p><strong>TBA</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -754,7 +754,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>General Introduction to MRI Computer Simulations, Pros and Cons of Different Software Packages, and Some Specific Examples with JEMRIS</strong></p>
+<p><strong>Numerical Simulation of MR Physics</strong></p>
 <p>Tony Stöcker</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -775,13 +775,13 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Knowledge Graph (HBP)</strong></p>
 <p>Oliver Schmid</p>
-<p><strong>Sharing GDPR compliant neuroimaging research data</strong></p>
+<p><strong>Sharing GDPR Compliant Neuroimaging Research Data</strong></p>
 <p>Stephan Heunis</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>TBA</strong></p>
 <p>&nbsp;</p>
-<p><strong>TBA</strong></p>
+<p><strong>Talk</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -793,7 +793,7 @@ The preliminary program for OpenMR Benelux is shown below. The event will span t
 <p><strong>17:00 &ndash; 18:00</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
-<p><strong>Project Wrap-ups and Overall Wrap-Up</strong></p>
+<p><strong>Project Wrap-ups and Overall Wrap-up</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
 <p><strong></strong></p>
