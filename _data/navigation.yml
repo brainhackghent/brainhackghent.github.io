@@ -3,10 +3,10 @@
   dropdown:
     - name: OpenMR Benelux 2020
       link: /page-openmrb-2020/
-    - name: Speakers
-      link: /page-speakers/
     - name: Program
       link: /page-program/
+    - name: Speakers
+      link: /page-speakers/
     - name: Location and Venue
       link: /page-location-venue/
     - name: Register here
