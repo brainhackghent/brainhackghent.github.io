@@ -119,7 +119,7 @@ show_sidebar: false
 <td width="500px" align="left" valign="center">
 <a name="joao"></a>
 {% include speaker-card.html
-  avatarurl="TBA.png"
+  avatarurl="tba.png"
   profilename="Joao Periquito" %}
 </td>
 </tr>
@@ -207,7 +207,7 @@ show_sidebar: false
 <td width="500px" align="left" valign="center">
 <a name="fatma"></a>
 {% include speaker-card.html
-  avatarurl="TBA.png"
+  avatarurl="tba.png"
   profilename="Fatma Deniz" %}
 </td>
 <td width="500px" align="left" valign="center">
@@ -304,7 +304,7 @@ show_sidebar: false
 <td width="500px" align="left" valign="center">
 <a name="malvika"></a>
 {% include speaker-card.html
-  avatarurl="TBA.png"
+  avatarurl="tba.png"
   profilename="Malvika Sharan" %}
 </td>
 <td width="500px" align="left" valign="center">
@@ -356,7 +356,7 @@ Brain & Behaviour"
   <td width="500px" align="left" valign="center">
 <a name="stephanklein"></a>
 {% include speaker-card.html
-  avatarurl="TBA.png"
+  avatarurl="tba.png"
   profilename="Stefan Klein" %}
 </td>
 </tr>
@@ -387,13 +387,13 @@ Brain & Behaviour"
 <td width="500px" align="left" valign="center">
 <a name="marcel"></a>
 {% include speaker-card.html
-  avatarurl="TBA.png"
+  avatarurl="tba.png"
   profilename="Marcel Zwiers" %}
 </td>
   <td width="500px" align="left" valign="center">
 <a name="robert"></a>
 {% include speaker-card.html
-  avatarurl="TBA.png"
+  avatarurl="tba.png"
   profilename="Robert Oostenveld" %}
 </td>
 </tr>
@@ -470,7 +470,7 @@ Brain & Behaviour"
 <td width="500px" align="left" valign="center">
 <a name="oliver"></a>
 {% include speaker-card.html
-  avatarurl="TBA.png"
+  avatarurl="tba.png"
   profilename="Oliver Schmid" %}
 </td>
 <td width="500px" align="left" valign="center">
