@@ -82,7 +82,7 @@ show_sidebar: false
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>Stephan is a researcher and PhD candidate at the Electrical Engineering department of the Eindhoven University of Technology in the Netherlands. His research focuses on developing new acquisition and signal processing methods for functional neuroimaging that allow the real-time tracking and visualisation of distributed MRI brain activity patterns. Stephan is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the <a href="https://osceindhoven.github.io/">Open Science Community Eindhoven</a>, which is part of a wide Dutch network of researchers and university employees that focuses on improving scientific practice. He is also the founder of <a href="https://openmrbenelux.github.io/">OpenMR Benelux</a>, a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons.</p>
+  <p align="justify" style="font-family: arial;"><br>Stephan is a researcher and PhD candidate at the Electrical Engineering Department of the Eindhoven University of Technology in the Netherlands. His research focuses on developing new acquisition and signal processing methods for functional neuroimaging that allow the real-time tracking and visualisation of distributed MRI brain activity patterns. Stephan is passionate about making research and scientific practice more transparent, rigorous, and inclusive. He started the <a href="https://osceindhoven.github.io/">Open Science Community Eindhoven</a>, which is part of a wide Dutch network of researchers and university employees that focuses on improving scientific practice. He is also the founder of <a href="https://openmrbenelux.github.io/">OpenMR Benelux</a>, a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops, and hackathons.</p>
 </div>
 </td>
 <td width="500px">
@@ -145,7 +145,7 @@ show_sidebar: false
 <a name="remi"></a>
 {% include speaker-card.html
   avatarurl="remi.png"
-  profilename="Rémi Gau"
+  profilename="Remi Gau"
   affiliation="Université catholique de Louvain"
   city="Louvain-la-Neuve, Belgium"
   homepage="https://remi-gau.github.io/"
@@ -158,13 +158,13 @@ show_sidebar: false
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>Sofie is currently doing a PhD at the department of Data Analysis (Ghent University, Ghent, Belgium), supervised by Prof. Dr. Daniele Marinazzo. Her research focuses on the intertwined domains of (resting-state) neuroscience and lateralization/handedness. During her PhD adventure, she has also been involved in Open Science events, either as part of the organizing committee (e.g. BrainHack Ghent 2017/2018) or as a volunteer (e.g. Pint of Science, Ghent). Creating an Open Science community and communicating Open Science to a broader public is something she wants to be progressively involved in.</p>
+  <p align="justify" style="font-family: arial;"><br>Sofie is currently doing a PhD at the Department of Data Analysis (Ghent University, Ghent, Belgium), supervised by Prof. Dr. Daniele Marinazzo. Her research focuses on the intertwined domains of (resting-state) neuroscience and lateralization/handedness. During her PhD, she has also been involved in Open Science events, either as part of the organizing committee (BrainHack Ghent <a href="https://brainhackghent.wixsite.com/brainhackghent/submitted-projects">2017</a>/<a href="https://brainhackghent.github.io/">2018</a>) or as a volunteer (Pint of Science, Ghent). Creating an Open Science community and communicating Open Science to a broader public is something she wants to be progressively involved in.</p>
 </div>
 </td>
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>TBA</p>
+  <p align="justify" style="font-family: arial;"><br>Remi is a postdoctoral fellow in the Crossmodal Perception and Plasticity laboratory (<a href="https://cpplab.be" >CPP-Lab</a>) at the Université catholique de Louvain. His work focuses on the multisensory aspects of perception and he uses high-resolution MRI to address these questions. He sees in open science a way to a) build a more inclusive research community based on cooperation rather than competition and b) addresses some of the replicability and reproducibility issues that are affecting many areas of science.</p>
 </div>
 </td>
 </tr>
@@ -205,7 +205,7 @@ show_sidebar: false
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>Daniele Marinazzo is an associate professor in the department of Data Analysis of the Faculty of Psychology and Educational Sciences at Ghent University. His team focuses on methodological and computational aspects of neuroscience research, and on the dynamical networks subserving function, as well as thorough statistical validation of the results. They develop new techniques for inferring connectivity architectures from the dynamics of the recorded data, in challenging cases of short, noisy and redundant time series, as those encountered in neuroimaging. Daniele cares about open science and ways to improve the review/editorial process. He is an editor at several journals in his field, including PLOS Computational Biology, PLOS One, NeuroImage, Brain Topography, Network Neuroscience. Visit Daniele’s <a href="https://publons.com/researcher/663417/daniele-marinazzo">Publons review profile</a> for more.</p>
+  <p align="justify" style="font-family: arial;"><br>Daniele Marinazzo is an associate professor in the Department of Data Analysis of the Faculty of Psychology and Educational Sciences at Ghent University. His team focuses on methodological and computational aspects of neuroscience research, and on the dynamical networks subserving function, as well as thorough statistical validation of the results. They develop new techniques for inferring connectivity architectures from the dynamics of the recorded data, in challenging cases of short, noisy and redundant time series, as those encountered in neuroimaging. Daniele cares about open science and ways to improve the review/editorial process. He is an editor at several journals in his field, including PLOS Computational Biology, PLOS One, NeuroImage, Brain Topography, Network Neuroscience. Visit Daniele’s <a href="https://publons.com/researcher/663417/daniele-marinazzo">Publons review profile</a> for more.</p>
 </div>
 </td>
 <td width="500px">
