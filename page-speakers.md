@@ -398,7 +398,9 @@ Brain & Behaviour"
 <a name="oliver"></a>
 {% include speaker-card.html
   avatarurl="tba.png"
-  profilename="Oliver Schmid" %}
+  profilename="Oliver Schmid"
+  affiliation="EPFL (École politechnique fédérale de Lausanne), Switzerland"
+  city = "Lausanne, Switzerland" %}
 </td>
 <td width="500px" align="left" valign="center">
 <a name="stephan"></a>
