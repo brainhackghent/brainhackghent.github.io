@@ -118,7 +118,7 @@ show_sidebar: false
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>TBA</p>
+  <p align="justify" style="font-family: arial;"><br>Hannes is a PhD candidate at the Department of Data Analysis (Ghent University, Belgium). His main research interests concern functional and effective connectivity during task execution and resting state, in both a methodological and applied context. He is a passionate proponent of open science in general, with a specific interest in open analyses (e.g., computer code) and open data. He has been previously co-organizer of Brainhack Ghent 2017 and 2018, and has given multiple talks on open science. </p>
 </div>
 </td>
 <td width="500px">
