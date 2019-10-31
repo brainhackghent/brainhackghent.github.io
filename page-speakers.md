@@ -397,7 +397,7 @@ Brain & Behaviour"
 <td width="500px" align="left" valign="center">
 <a name="oliver"></a>
 {% include speaker-card.html
-  avatarurl="tba.png"
+  avatarurl="oli.jpg"
   profilename="Oliver Schmid"
   affiliation="EPFL (École politechnique fédérale de Lausanne), Switzerland"
   city = "Lausanne, Switzerland" %}
