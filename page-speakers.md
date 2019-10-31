@@ -118,7 +118,7 @@ show_sidebar: false
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>TBA</p>
+  <p align="justify" style="font-family: arial;"><br>Pim Pullens, PhD is MR physicist in the University Hospital Ghent & Ghent Institute for functional and Metabolic Imaging. He is responsible for the management of three clinical MRs and one research system. Next to his clinical work, he is involved in various research projects, both in Ghent and internationally, on functional and structural imaging in multiple organs and body parts. Pim is co-lead of the Reproducibility and Standardisation workgroup of COST Action PARENCHIMA (CA16103) on the development of renal MRI biomarkers. After his initial training as biomedical engineer in medical image processing and biomedical NMR, Pim has worked both in industry (start-up and small business) and in academia. His main interests are functional and quantitative imaging of the brain and kidneys, standardisation of MR imaging, and validation/quality assurance in MRI.</p>
 </div>
 </td>
 <td width="500px">
