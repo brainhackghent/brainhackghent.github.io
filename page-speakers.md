@@ -182,8 +182,10 @@ show_sidebar: false
 <td width="500px" align="left" valign="center">
 <a name="fatma"></a>
 {% include speaker-card.html
-  avatarurl="tba.png"
-  profilename="Fatma Deniz" %}
+  avatarurl="FatmaDeniz.jpg"
+  profilename="Fatma Deniz" 
+  affiliation="Postdoctoral Fellow, University of California, Berkeley; Visiting Scientist, Technical University Berlin, Germany"
+  city="Berkeley, USA" %}
 </td>
 <td width="500px" align="left" valign="center">
 <a name="remi"></a>
@@ -202,7 +204,7 @@ show_sidebar: false
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>TBA</p>
+  <p align="justify" style="font-family: arial;"><br>Fatma Deniz is currently a Visiting Scientist at TU Berlin and a PostDoc at the Gallant Lab in UC Berkeley. Prior to her current position, Fatma was a Moore-Sloan Data Science Fellow at Berkeley Institute for Data Science and a fellow at the International Computer Science Institute in Berkeley. She is interested in how linguistic information is encoded in the brain and uses machine-learning approaches to fit computational models to large-scale brain data. Her current work focuses on cross-modal language representation in the human brain. She did her PhD at Bernstein Center for Computational Neuroscience in Berlin, where she studied functional connectivity changes during conscious perception in humans and got a bachelor’s and master’s degrees in Computer Science from the Technical University Munich. During her master’s work, Dr. Deniz worked with Dr. Christof Koch at Caltech, where she studied visual saliency and automated text detection. As an advocate of reproducible research practices, she is the editor of the book titled “The Practice of Reproducible Research”. In addition, she works on improving Internet security applications using the knowledge gained from cognitive neuroscience and Mooney images (mooneyauth.org). Her work is at the intersection between computer science, human cognition, and neuroscience. She is a passionate coder, baker, and loves to play the cello.</p>
 </div>
 </td>
 <td width="500px">
