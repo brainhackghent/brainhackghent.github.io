@@ -169,6 +169,21 @@ show_sidebar: false
 </div>
 </td>
 </tr>
+
+<tr>
+<td width="500px" align="left" valign="center">
+<a name="Lukas Snoek"></a>
+{% include speaker-card.html
+  avatarurl="tba.png"
+  profilename="Lukas Snoek"
+  affiliation="Department of psychology <br> University of Amsterdam"
+  city="Amsterdam, The Netherlands"
+  git="https://github.com/lukassnoek"
+  twitter="https://www.twitter.com/LukasSnoek"
+  homepage="https://lukas-snoek.com" %}
+</td>
+</tr>
+
 </table>
 
 </div>
