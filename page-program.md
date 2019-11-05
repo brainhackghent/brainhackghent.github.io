@@ -612,7 +612,7 @@ show_sidebar: false
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Introduction to Docker and Binderhub</strong></p>
-<p>TBA</p>
+<p>Lukas Snoek</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>TBA</strong></p>
