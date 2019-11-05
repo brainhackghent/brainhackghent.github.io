@@ -170,20 +170,6 @@ show_sidebar: false
 </td>
 </tr>
 
-<tr>
-<td width="500px" align="left" valign="center">
-<a name="Lukas Snoek"></a>
-{% include speaker-card.html
-  avatarurl="tba.png"
-  profilename="Lukas Snoek"
-  affiliation="Department of psychology <br> University of Amsterdam"
-  city="Amsterdam, The Netherlands"
-  git="https://github.com/lukassnoek"
-  twitter="https://www.twitter.com/LukasSnoek"
-  homepage="https://lukas-snoek.com" %}
-</td>
-</tr>
-
 </table>
 
 </div>
@@ -267,6 +253,29 @@ show_sidebar: false
 </div>
 </td>
 </tr>
+
+<tr>
+<td width="500px" align="left" valign="center">
+<a name="Lukas Snoek"></a>
+{% include speaker-card.html
+  avatarurl="tba.png"
+  profilename="Lukas Snoek"
+  affiliation="Department of psychology <br> University of Amsterdam"
+  city="Amsterdam, The Netherlands"
+  git="https://github.com/lukassnoek"
+  twitter="https://www.twitter.com/LukasSnoek"
+  homepage="https://lukas-snoek.com" %}
+</td>
+</tr>
+<tr>
+<td width="500px">
+<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>TBA.</p>
+</div>
+</td>
+</tr>
+
 </table>
 
 </div>
