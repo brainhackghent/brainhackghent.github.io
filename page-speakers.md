@@ -271,14 +271,7 @@ show_sidebar: false
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>I am PhD-student at the psychology department of the University of Amsterdam, supervised by Dr. Steven Scholte and Dr. Suzanne Oosterwijk. I’m interested in the neural representation of
-affective processes such as emotion experience and (facial) emotion perception. Additionally,
-I’m a methods nerd, interested in novel analyses and statistical methods (for fMRI). Next to my
-research, I work at the Spinoza Centre for Neuroimaging (UvA), where I provide technical
-assistance and develop software for automated data management and preprocessing (using
-Docker!). Throughout the years, I developed a passion for open and transparent (neuro)science,
-to which I aim to contribute with various open-source projects aimed at improving transparency
-and reproducibility. </p>
+  <p align="justify" style="font-family: arial;"><br>I am a PhD student at the Psychology Department of the University of Amsterdam, supervised by Dr. Steven Scholte and Dr. Suzanne Oosterwijk. I’m interested in the neural representation of affective processes such as emotion experience and (facial) emotion perception. Additionally, I’m a methods nerd, interested in novel analyses and statistical methods (for fMRI). Next to my research, I work at the Spinoza Centre for Neuroimaging (UvA), where I provide technical assistance and develop software for automated data management and preprocessing (using Docker!). Throughout the years, I developed a passion for open and transparent (neuro)science, to which I aim to contribute with various open-source projects aimed at improving transparency and reproducibility. </p>
 </div>
 </td>
 </tr>
