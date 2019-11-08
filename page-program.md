@@ -898,7 +898,8 @@ experience with the (Linux) command line interface is useful, but not strictly r
 <p>Stephan Heunis</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p><strong>TBA</strong></p>
+<p><strong>Talk & Demo</strong></p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Talk</strong></p>
 </td>
