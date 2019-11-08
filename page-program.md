@@ -763,6 +763,7 @@ experience with the (Linux) command line interface is useful, but not strictly r
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 <br><p><strong>TBA</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
