@@ -612,7 +612,7 @@ show_sidebar: false
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <div class="popup" onclick="myFunction_lukas()"><p><strong>Introduction to Docker and Binder</strong></p>  
-  <span class="popuptext" id="myPopup_lukas">With the “reproducibility crisis” in psychology and neuroscience, there is a trend towards
+<span class="popuptext" id="myPopup_lukas">With the “reproducibility crisis” in psychology and neuroscience, there is a trend towards
 publishing one’s data and code along with the associated article — which is great! Often,
 however, providing your code is not enough to reproduce your analyses, as it may depend on
 specific software versions, system requirements, or even operating systems. Docker and Binder
@@ -623,7 +623,6 @@ scikit-learn 0.21.3), and runtime executables ( entrypoint, e.g., my_analysis.py
 Binder is a less “complete” solution than Docker, but definitely less useful! With Binder, you can
 turn your Git(hub) repository into a collection of interactive Jupyter notebooks, making them
 instantly reproducibly for anyone.
-     
 In this workshop, you will get some hands-on experience with writing Dockerfiles and creating
 Docker containers in a scientific context, as well as getting started with Binder. Some
 experience with the (Linux) command line interface is useful, but not strictly required.</span>
