@@ -138,7 +138,7 @@ show_sidebar: false
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
 <p><strong>Diving Into Metascience – Doing Research on Research</strong></p> 
-<p>Marjan Bakker</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#marjan"><p>Marjan Bakker</p></a>   
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Talk</strong></p>
@@ -536,7 +536,7 @@ show_sidebar: false
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Software Version Control with git and GitHub</strong></p>
-<a href="https://openmrbenelux.github.io/page-speakers/#remi"><p>Remi Gau</p></a> & <a href="https://openmrbenelux.github.io/page-speakers/#sofie"><p>Sofie Van Den Bossche</p></a> 
+<a href="https://openmrbenelux.github.io/page-speakers/#remi"><p>Remi Gau</p></a> and <a href="https://openmrbenelux.github.io/page-speakers/#sofie"><p>Sofie Van Den Bossche</p></a> 
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
@@ -745,6 +745,7 @@ show_sidebar: false
   <span class="popuptext" id="myPopup_sarah"><b>Abstract: </b>Across the past years, many developments arose in connectivity analyses based on MRI data offering now a wide range of connectivity markers. Capitalizing on this wealth of neuroimaging markers, connectivity-based parcellation can be used to unravel the complexity of brain organization. Furthermore, large population-based neuroimaging datasets with extensive psychometric characterization now open promising perspectives to link brain organization to behavior. In particular, interindividual variability in brain’s region functional connectivity can be related to interindividual variability in psychometric data by using a connectivity-based psychometric prediction approach. Despite some challenges associated to the use of these data-driven approaches, they also offer opportunities to better understand the relationships between brain connectivity and human behavior.</span>
 </div>
 <a href="https://openmrbenelux.github.io/page-speakers/#sarah"><p>Sarah Genon</p></a>   
+<br>
 <p><strong>Human Brain Atlas (HBP)</strong></p>
 <p>TBA</p>
 </td>
@@ -804,7 +805,7 @@ show_sidebar: false
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Converting Neuroimaging Data to BIDS</strong></p>
-<a href="https://openmrbenelux.github.io/page-speakers/#marcel"><p>Marcel Zwiers</p></a> & <a href="https://openmrbenelux.github.io/page-speakers/#robert"><p>Robert Oostenveld</p></a>    
+<a href="https://openmrbenelux.github.io/page-speakers/#marcel"><p>Marcel Zwiers</p></a> and <a href="https://openmrbenelux.github.io/page-speakers/#robert"><p>Robert Oostenveld</p></a>    
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>TBA</strong></p>
@@ -884,6 +885,7 @@ show_sidebar: false
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Find, Use and Share Scientific Data with the EBRAINS Knowledge Graph (HBP)</strong></p>
 <a href="https://openmrbenelux.github.io/page-speakers/#oliver"><p>Oliver Schmid</p></a>  
+<br>
 <p><strong>Sharing GDPR Compliant Neuroimaging Research Data</strong></p>
 <a href="https://openmrbenelux.github.io/page-speakers/#stephan"><p>Stephan Heunis</p></a>  
 </td>
