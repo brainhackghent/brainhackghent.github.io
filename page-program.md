@@ -882,7 +882,7 @@ show_sidebar: false
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>Find, use and share scientific data with the EBRAINS Knowledge Graph (HBP)</strong></p>
+<p><strong>Find, Use and Share Scientific Data with the EBRAINS Knowledge Graph (HBP)</strong></p>
 <p>Oliver Schmid</p>
 <p><strong>Sharing GDPR Compliant Neuroimaging Research Data</strong></p>
 <p>Stephan Heunis</p>
