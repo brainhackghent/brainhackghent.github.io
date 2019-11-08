@@ -186,7 +186,7 @@ show_sidebar: false
 <div class="popup" onclick="myFunction_cass()"><p><strong>Analytical Flexibility and Questionable Research Practices in MRI</strong></p> 
   <span class="popuptext" id="myPopup_cass"><b>Abstract: </b>The number of methods available for MRI analysis is growing every year. Each of these methods requires the specification of a bewildering array of parameters, not all of which are amenable to optimisation by consensus. The combination of these factors leads to an almost infinite number of ways in which we may analyse our data, and accordingly and infinite number of results which we may choose to report, or not. In this talk I will discuss concerns of such analytic flexibility and the draw of questionable research practices to help uncover the "publishable story" in our data. I will present recent developments in our discipline which may assist the identification of robust effects, and what individual actions we may take in order to retain confidence in our own findings.</span>
 </div>
-<p>Cassandra Gould van Praag</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#cassandra"><p>Cassandra Gould van Praag</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Talk</strong></p>
@@ -217,7 +217,7 @@ show_sidebar: false
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
 <p><strong>How can Open Science Contribute to (Clinical) Research in Radiology?</strong></p>
-<p>Pim Pullens</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#pim"><p>Pim Pullens</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Talk</strong></p>
@@ -294,7 +294,7 @@ show_sidebar: false
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
 <p><strong>The Open Source Imaging Initiative</strong></p>
-<p>Joao Periquito</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#joao"><p>Joao Periquito</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Talk</strong></p>
@@ -342,7 +342,7 @@ show_sidebar: false
 <div class="popup" onclick="myFunction_daniele()"><p><strong>Current and Future Scenarios for Open Scientific Publishing and Reviewing</strong></p>
   <span class="popuptext" id="myPopup_daniele"><b>Abstract: </b>Communicating our research is a fundamental part of our work as scientists, and a duty towards the society. Typically this communication happens through articles published in scientific journals, after having been reviewed by our peers. We will discuss several aspects of scholarly communication and in particular of scientific publishing and peer review. Some of these aspects are (un-)surprisingly in clear contrast with the idea of science as an open and collaborative public mission. Several solutions and improvements have been proposed and sometimes implemented over the years; on some of them there’s wide consensus, on others there is not. And even when there is consensus to change, the change is slow. We will explore the state of the art and different future perspectives, and discuss our experiences and expectations.</span>
 </div>
-<p>Daniele Marinazzo</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#daniele"><p>Daniele Marinazzo</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Interactive Talk</strong></p>
@@ -378,7 +378,7 @@ show_sidebar: false
 <br><br> In this talk, Kirstie Whitaker, lead developer of The Turing Way, will take you on a whirlwind tour of the chapters that already exist, the interactive demonstrations you can use and re-use for your own research, and the directions in which we're continuing to develop. All participants will leave the talk knowing that "Every Little Helps" when making their work reproducible, where to ask for help as they start or continue their open research journey, and how they can contribute to improve The Turing Way for future readers.
 </span>
 </div>
-<p>Kirstie Whitaker</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#kirstie"><p>Kirstie Whitaker</p></a>   
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Talk</strong></p>
@@ -499,7 +499,7 @@ show_sidebar: false
 <div class="popup" onclick="myFunction_fatma()"><p><strong>Reproducibility in Decoded: Case Studies from Data-Intensive Sciences</strong></p> 
   <span class="popuptext" id="myPopup_fatma"><b>Abstract: </b>Reproducibility in research is one of the main building blocks of the scientific method. However, there is rising concern about reproducibility in current scientific research that reduces the reliability of published findings in various domains. In this workshop, we will learn about the tools and practices that will help us to improve the reproducibility of our own research pipeline. Based on the book The Practice of Reproducible research I will first introduce reproducible research workflows by providing case-study examples. In the second part, participants will walk through their own research pipeline and create their own reproducible research workflow. In small working groups, participants will reflect on their own computational practices and learn how they can improve the reproducibility of their own research workflow.</span>
 </div>
-<p>Fatma Deniz</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#fatma"><p>Fatma Deniz</p></a>   
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>TBA</strong></p>
@@ -536,7 +536,7 @@ show_sidebar: false
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Software Version Control with git and GitHub</strong></p>
-<p>Remi Gau & Sofie Van Den Bossche</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#remi"><p>Remi Gau</p></a> & <a href="https://openmrbenelux.github.io/page-speakers/#sofie"><p>Sofie Van Den Bossche</p></a> 
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
@@ -575,7 +575,7 @@ show_sidebar: false
 <div class="popup" onclick="myFunction_serena()"><p><strong>The Basics of Python and Jupyter Notebooks for Medical Image Analysis</strong></p> 
   <span class="popuptext" id="myPopup_serena"><b>Abstract: </b>Python and Jupyter notebooks are becoming more and more essential tools to conduct open and reproducible research. In this workshop, we will first briefly discuss how these tools can facilitate transparent science. Then, we will have a hands-on session where we will code in Jupyter notebook using Python. We will create reproducible workflows using packages that are both basic and specific for medical image analysis (e.g. SimpleITK). Information and materials are available at https://github.com/sbonaretti/2020_OpenMR_jupyter.</span>
 </div>
-<p>Serena Bonaretti</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#serena"><p>Serena Bonaretti</p></a>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
@@ -614,7 +614,7 @@ show_sidebar: false
 <div class="popup" onclick="myFunction_lukas()"><p><strong>Introduction to Docker and Binder</strong></p>  
 <span class="popuptext" id="myPopup_lukas"><b>Abstract: </b>With the 'reproducibility crisis' in psychology and neuroscience, there is a trend towards publishing one’s data and code along with the associated article — which is great! Often, however, providing your code is not enough to reproduce your analyses, as it may depend on specific software versions, system requirements, or even operating systems. Docker and Binder are two tools that offer a solution for this! Docker allows you to specify an environment (a Docker container) using a 'recipe' (a Dockerfile), containing the particular (Linux-based) operating system (e.g., Ubuntu 18.04), software packages (FSL 6.0.1 and Python 3.6.1 with scikit-learn 0.21.3), and runtime executables (entrypoint, e.g., my_analysis.py) of your choice. Binder is a less 'complete' solution than Docker, but definitely not less useful! With Binder, you can turn your Git(hub) repository into a collection of interactive Jupyter notebooks, making them instantly reproducibly for anyone. In this workshop, you will get some hands-on experience with writing Dockerfiles and creating Docker containers in a scientific context, as well as getting started with Binder. Some experience with the (Linux) command line interface is useful, but not strictly required.</span>
 </div>
-<p>Lukas Snoek</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#lukas"><p>Lukas Snoek</p></a> 
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
@@ -684,7 +684,7 @@ show_sidebar: false
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Building Inclusive and Open Communities</strong></p>
-<p>Malvika Sharan</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#malvika"><p>Malvika Sharan</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>TBA</strong></p>
@@ -705,7 +705,7 @@ show_sidebar: false
 <div class="popup" onclick="myFunction_natalia()"><p><strong>Where to Go Next? The Landscape of Post-PhD Career Tracks</strong></p>  
   <span class="popuptext" id="myPopup_natalia"><b>Abstract: </b>There is a growing disparity between the number of new PhD graduates and the available faculty positions. Effectively, most of the PhD graduates needs to find jobs outside academia. Yet, there is little amount of services dedicated to assisting early career researchers in discovering their core competencies, in searching for employers and landing their dream jobs in industry. Ideally, one should anticipate the potential future market sectors after completing the PhD, and focus on developing transferable skills during the PhD on that basis. This however, remains a rare practice in the graduate schools. Therefore, in this workshop, we will assume that you have no prior experience with the job market in industry. We will discuss the following: the demand for PhDs in different branches of industry; paycheck or entrepreneurship? Is a traineeship at a company a good start after a PhD?; defining your key competences, including both hard- and soft skills; searching for employers who are likely to search for these competences; searching for employers who share your personal values; the role of networking in searching for jobs; restructuring your CV and writing a competitive motivational letter; preparing for job interviews. <br><br> The workshop will be interactive: we will debunk certain myths related to the job market with the use of polls and quizzes. Sharing personal experience by participants will be highly encouraged. The goal of the workshop is to give the participants the information and confidence so they can further search for relevant information on their own, and take their first steps towards finding their dream job in industry.</span>
 </div>
-<p>Natalia Bielczyk</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#natalia"><p>Natalia Bielczyk</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Talk</strong></p>
@@ -744,7 +744,7 @@ show_sidebar: false
 <div class="popup" onclick="myFunction_sarah()"><p><strong>Probing Brain Organization and Function with Neuroimaging Markers of Connectivity (HBP)</strong></p>
   <span class="popuptext" id="myPopup_sarah"><b>Abstract: </b>Across the past years, many developments arose in connectivity analyses based on MRI data offering now a wide range of connectivity markers. Capitalizing on this wealth of neuroimaging markers, connectivity-based parcellation can be used to unravel the complexity of brain organization. Furthermore, large population-based neuroimaging datasets with extensive psychometric characterization now open promising perspectives to link brain organization to behavior. In particular, interindividual variability in brain’s region functional connectivity can be related to interindividual variability in psychometric data by using a connectivity-based psychometric prediction approach. Despite some challenges associated to the use of these data-driven approaches, they also offer opportunities to better understand the relationships between brain connectivity and human behavior.</span>
 </div>
-<p>Sarah Genon</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#sarah"><p>Sarah Genon</p></a>   
 <p><strong>Human Brain Atlas (HBP)</strong></p>
 <p>TBA</p>
 </td>
@@ -767,7 +767,7 @@ show_sidebar: false
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>MR Image Registration with Elastix and Simple Elastix</strong></p>
-<p>Stefan Klein</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#stephanklein"><p>Stefan Klein</p></a>   
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>TBA</strong></p>
@@ -804,7 +804,7 @@ show_sidebar: false
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Converting Neuroimaging Data to BIDS</strong></p>
-<p>Marcel Zwiers & Robert Oostenveld</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#marcel"><p>Marcel Zwiers</p></a> & <a href="https://openmrbenelux.github.io/page-speakers/#robert"><p>Robert Oostenveld</p></a>    
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>TBA</strong></p>
@@ -825,7 +825,7 @@ show_sidebar: false
    <div class="popup" onclick="myFunction_tim()"><p><strong>Open Source Neuroimaging Pipelines with GiraffeTools</strong></p>
   <span class="popuptext" id="myPopup_tim"><b>Abstract: </b>How do we share and communicate our analysis pathways? By means of a text-description in a paper, or are there other ways? In this day and age where everything happens online, it should be possible to leverage web technologies for neuroimaging. Indeed, there is a growing number of web tools to share and communicate project information, data sets, and entire interactive workflows online. In this talk I will discuss a variety of these projects, how to get started or even involved in them, and what I believe is the future of data analysis and neuroimaging.</span>
 </div>
-<p>Tim van Mourik</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#tim"><p>Tim van Mourik</p></a> 
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
@@ -864,7 +864,7 @@ show_sidebar: false
 <div class="popup" onclick="myFunction_tony()"><p><strong>Numerical Simulation of MR Physics</strong></p>
   <span class="popuptext" id="myPopup_tony"><b>Abstract: </b>MR simulations based on the Bloch Equations are of high educational value. Further, they serve as essential tools in MRI method development, e.g. for MR sequence design and protocol optimization or generating ground truth data for image reconstruction and post-processing algorithms. This lecture provides insight into practical implementation of computer simulations based on classical MR physics. Analytical solutions versus numerical implementations will be discussed. Based on pictorial examples, an introduction to various MRI simulator software packages will be given. The JEMRIS simulation environment will serve for most of the examples shown in this lecture.</span>
 </div>
-<p>Tony Stöcker</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#tony"><p>Tony Stöcker</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>TBA</strong></p>
@@ -883,9 +883,9 @@ show_sidebar: false
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Find, Use and Share Scientific Data with the EBRAINS Knowledge Graph (HBP)</strong></p>
-<p>Oliver Schmid</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#oliver"><p>Oliver Schmid</p></a>  
 <p><strong>Sharing GDPR Compliant Neuroimaging Research Data</strong></p>
-<p>Stephan Heunis</p>
+<a href="https://openmrbenelux.github.io/page-speakers/#stephan"><p>Stephan Heunis</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Talk-Demo</strong></p>
