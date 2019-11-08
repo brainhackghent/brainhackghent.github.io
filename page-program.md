@@ -536,7 +536,7 @@ show_sidebar: false
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Software Version Control with git and GitHub</strong></p>
-<a href="https://openmrbenelux.github.io/page-speakers/#remi"><p>Remi Gau</p></a> and <a href="https://openmrbenelux.github.io/page-speakers/#sofie"><p>Sofie Van Den Bossche</p></a> 
+<a href="https://openmrbenelux.github.io/page-speakers/#remi"><p>Remi Gau & Sofie Van Den Bossche</p></a>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
@@ -751,7 +751,7 @@ show_sidebar: false
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
-<p>&nbsp;<br/>&nbsp;</p>
+<p>&nbsp;</p>
 <br><p><strong>TBA</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -805,7 +805,7 @@ show_sidebar: false
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Converting Neuroimaging Data to BIDS</strong></p>
-<a href="https://openmrbenelux.github.io/page-speakers/#marcel"><p>Marcel Zwiers</p></a> and <a href="https://openmrbenelux.github.io/page-speakers/#robert"><p>Robert Oostenveld</p></a>    
+<a href="https://openmrbenelux.github.io/page-speakers/#marcel"><p>Marcel Zwiers & Robert Oostenveld</p></a>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>TBA</strong></p>
