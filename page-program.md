@@ -886,8 +886,8 @@ show_sidebar: false
 <p>Stephan Heunis</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p><strong>TBA</strong></p>
-<p>&nbsp;</p>
+<p><strong>Talk-Demo</strong></p>
+<p>&nbsp;<br/>&nbsp;</p>
 <p><strong>Talk</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
