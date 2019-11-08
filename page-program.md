@@ -122,7 +122,7 @@ show_sidebar: false
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
 <p><strong>Introduction and Welcome</strong></p>
-<p>Stephan Heunis & Organizing Committee</p>
+<a href="https://openmrbenelux.github.io/page-team/"><p>Stephan Heunis & Organizing Committee</p></a> 
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
