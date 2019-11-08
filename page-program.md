@@ -612,19 +612,7 @@ show_sidebar: false
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <div class="popup" onclick="myFunction_lukas()"><p><strong>Introduction to Docker and Binder</strong></p>  
-<span class="popuptext" id="myPopup_lukas">With the 'reproducibility crisis' in psychology and neuroscience, there is a trend towards
-publishing one’s data and code along with the associated article — which is great! Often,
-however, providing your code is not enough to reproduce your analyses, as it may depend on
-specific software versions, system requirements, or even operating systems. Docker and Binder
-are two tools that offer a solution for this! Docker allows you to specify an environment (a
-Docker container ) using a 'recipe' (a Dockerfile ), containing the particular (Linux-based)
-operating system (e.g., Ubuntu 18.04), software packages (FSL 6.0.1 and Python 3.6.1 with
-scikit-learn 0.21.3), and runtime executables ( entrypoint, e.g., my_analysis.py) of your choice.
-Binder is a less 'complete' solution than Docker, but definitely less useful! With Binder, you can
-turn your Git(hub) repository into a collection of interactive Jupyter notebooks, making them
-instantly reproducibly for anyone. In this workshop, you will get some hands-on experience with writing Dockerfiles and creating
-Docker containers in a scientific context, as well as getting started with Binder. Some
-experience with the (Linux) command line interface is useful, but not strictly required.</span>
+<span class="popuptext" id="myPopup_lukas"><b>Abstract: </b>With the 'reproducibility crisis' in psychology and neuroscience, there is a trend towards publishing one’s data and code along with the associated article — which is great! Often, however, providing your code is not enough to reproduce your analyses, as it may depend on specific software versions, system requirements, or even operating systems. Docker and Binder are two tools that offer a solution for this! Docker allows you to specify an environment (a Docker container ) using a 'recipe' (a Dockerfile ), containing the particular (Linux-based) operating system (e.g., Ubuntu 18.04), software packages (FSL 6.0.1 and Python 3.6.1 with scikit-learn 0.21.3), and runtime executables ( entrypoint, e.g., my_analysis.py) of your choice. Binder is a less 'complete' solution than Docker, but definitely less useful! With Binder, you can turn your Git(hub) repository into a collection of interactive Jupyter notebooks, making them instantly reproducibly for anyone. In this workshop, you will get some hands-on experience with writing Dockerfiles and creating Docker containers in a scientific context, as well as getting started with Binder. Some experience with the (Linux) command line interface is useful, but not strictly required.</span>
 </div>
 <p>Lukas Snoek</p>
 </td>
@@ -715,7 +703,7 @@ experience with the (Linux) command line interface is useful, but not strictly r
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <div class="popup" onclick="myFunction_natalia()"><p><strong>Where to Go Next? The Landscape of Post-PhD Career Tracks</strong></p>  
-  <span class="popuptext" id="myPopup_natalia">There is a growing disparity between the number of new PhD graduates and the available faculty positions. Effectively, most of the PhD graduates needs to find jobs outside academia. Yet, there is little amount of services dedicated to assisting early career researchers in discovering their core competencies, in searching for employers and landing their dream jobs in industry. Ideally, one should anticipate the potential future market sectors after completing the PhD, and focus on developing transferable skills during the PhD on that basis. This however, remains a rare practice in the graduate schools. Therefore, in this workshop, we will assume that you have no prior experience with the job market in industry. We will discuss the following: the demand for PhDs in different branches of industry; paycheck or entrepreneurship? Is a traineeship at a company a good start after a PhD?; defining your key competences, including both hard- and soft skills; searching for employers who are likely to search for these competences; searching for employers who share your personal values; the role of networking in searching for jobs; restructuring your CV and writing a competitive motivational letter; preparing for job interviews. <br><br> The workshop will be interactive: we will debunk certain myths related to the job market with the use of polls and quizzes. Sharing personal experience by participants will be highly encouraged. The goal of the workshop is to give the participants the information and confidence so they can further search for relevant information on their own, and take their first steps towards finding their dream job in industry.</span>
+  <span class="popuptext" id="myPopup_natalia"><b>Abstract: </b>There is a growing disparity between the number of new PhD graduates and the available faculty positions. Effectively, most of the PhD graduates needs to find jobs outside academia. Yet, there is little amount of services dedicated to assisting early career researchers in discovering their core competencies, in searching for employers and landing their dream jobs in industry. Ideally, one should anticipate the potential future market sectors after completing the PhD, and focus on developing transferable skills during the PhD on that basis. This however, remains a rare practice in the graduate schools. Therefore, in this workshop, we will assume that you have no prior experience with the job market in industry. We will discuss the following: the demand for PhDs in different branches of industry; paycheck or entrepreneurship? Is a traineeship at a company a good start after a PhD?; defining your key competences, including both hard- and soft skills; searching for employers who are likely to search for these competences; searching for employers who share your personal values; the role of networking in searching for jobs; restructuring your CV and writing a competitive motivational letter; preparing for job interviews. <br><br> The workshop will be interactive: we will debunk certain myths related to the job market with the use of polls and quizzes. Sharing personal experience by participants will be highly encouraged. The goal of the workshop is to give the participants the information and confidence so they can further search for relevant information on their own, and take their first steps towards finding their dream job in industry.</span>
 </div>
 <p>Natalia Bielczyk</p>
 </td>
@@ -762,7 +750,6 @@ experience with the (Linux) command line interface is useful, but not strictly r
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <br><p><strong>TBA</strong></p>
 </td>
@@ -899,8 +886,7 @@ experience with the (Linux) command line interface is useful, but not strictly r
 <p>Stephan Heunis</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p><strong>Talk & Demo</strong></p>
-<p>&nbsp;</p>
+<p><strong>TBA</strong></p>
 <p>&nbsp;</p>
 <p><strong>Talk</strong></p>
 </td>
