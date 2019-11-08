@@ -256,7 +256,7 @@ show_sidebar: false
 
 <tr>
 <td width="500px" align="left" valign="center">
-<a name="Lukas Snoek"></a>
+<a name="lukas"></a>
 {% include speaker-card.html
   avatarurl="Lukas_Snoek.png"
   profilename="Lukas Snoek"
