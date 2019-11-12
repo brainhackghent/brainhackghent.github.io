@@ -458,6 +458,28 @@ Brain & Behaviour"
 </td>
 </tr>
 
+<tr>
+<td width="500px" align="left" valign="center">
+<a name="lyuba"></a>
+{% include speaker-card.html
+  avatarurl="tba.png"
+  profilename="Lyuba Zehl"
+  affiliation="Jülich Research Centre, Institute of Neuroscience and Medicine (INM-1), Jülich, Germany"
+  city="Jülich, Germany"
+  git="https://github.com/lzehl"
+  twitter="https://twitter.com/LyubaZehl"
+  researchgate="https://www.researchgate.net/profile/Lyuba_Zehl" %}
+</td>
+</tr>
+<tr>
+<td width="500px">
+<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>Lyuba Zehl studied Biology and Neuroscience at the University of Cologne. During this time of study, she worked on kinematic of insect legs during locomotion (BSc thesis, supervisor: Prof. Ansgar Büschges), and the anatomical cartography of auditory nuclei in the brain stem of toothed whales using cluster analysis (Msc thesis, supervisor: Prof. Wolfgang Walkowiak). For her doctoral studies, she switched to the RWTH Aachen University and joint the Statistical Neuroscience Group of Prof. Sonja Grün at the Institute for Neuroscience and Medicine (INM-6) of the Jülich Research Centre. In her thesis, she worked on analysing multi-electrode array recordings of monkey motor cortex and, in particular, on data and metadata management of complex neuroscience experiments. After receiving her doctorate degree (Dr. rer. nat.) in 2017, she started working as a junior scientist in the curation team of the Neuroinformatics Platform of the Human Brain Project (HBP), located at the Jülich Research Centre as part of the Big Data Analytics Group from Timo Dickscheid at the Institute for Structural and Functional Organisation of the Brain (INM-1) led by Prof. Katrin Amunts. Having a high interdisciplinary orientation towards computational neuroscience and software development for data and metadata management and a broad experience in various neuroscience laboratories, she focuses now on developing and implementing concepts, standards and tools for neuroscience data and metadata management. With her current work, she strongly supports the integration of heterogeneous neuroscience data into the unified data sharing platform and the interactive atlas viewers of the HBP. </p>
+</div>
+</td>
+</tr>
+
 </table>
 
 </div>
