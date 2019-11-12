@@ -508,7 +508,7 @@ show_sidebar: false
 <a href="https://openmrbenelux.github.io/page-speakers/#fatma"><p>Fatma Deniz</p></a>   
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p><strong>TBA</strong></p>
+<p><strong>Workshop</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
