@@ -216,7 +216,9 @@ show_sidebar: false
 <p><strong>11:45 &ndash; 12:15</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
-<p><strong>How can Open Science Contribute to (Clinical) Research in Radiology?</strong></p>
+<div class="popup" onclick="myFunction_pim()"><p><strong>How can Open Science Contribute to (Clinical) Research in Radiology?</strong></p> 
+  <span class="popuptext" id="myPopup_pim"><b>Abstract: </b>TBA.</span>
+</div>
 <a href="https://openmrbenelux.github.io/page-speakers/#pim"><p>Pim Pullens</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
