@@ -293,8 +293,10 @@ show_sidebar: false
 <p><strong>14:15 &ndash; 14:45</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
-<p><strong>The Open Source Imaging Initiative</strong></p>
-<a href="https://openmrbenelux.github.io/page-speakers/#joao"><p>Joao Periquito</p></a>  
+<div class="popup" onclick="myFunction_joao()"><p><strong>The Open Source Imaging Initiative</strong></p> 
+  <span class="popuptext" id="myPopup_joao"><b>Abstract: </b>MR technology is one of the most powerful medical tool ever made, yet it is not available in many places around the world. How can we change that? Make the technology cheaper? Would be a good start, but it is not enough! We need sustainable long term solutions. By applying the open-source strategy it is possible to use the immense potential of the research community in a more efficient way by means of collaboration. This will trigger innovation, customization and cost-efficiency, but will also lead to local/regional production and knowhow transfer into regions, that desperately need it. An open source strategy would furthermore diffuse into all important areas of our healthcare system, such as: technological optimization, scientific progress, regulatory harmonization, democratized markets, device safety, global health, education and many more. Not less than that is our vision of the open source imaging initiative (OSI²) with our communication platform around www.opensourceimaging.org. We focus on sharing and not competing, because this is healthier to all of us. In this presentation we will give an update on the workings of OSI², what happened so far, what is about to happen very soon. /* spoiler alert */ The worlds first open source hardware standard will be released soon and we are preparing the open source documentation of a first open source hardware MRI that makes quite decent images. Our efforts are on voluntary basis and we are open to all who want to join and who support our vision.</span>
+</div>
+<a href="https://openmrbenelux.github.io/page-speakers/#joao"><p>Joao Periquito</p></a>   
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Talk</strong></p>
