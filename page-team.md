@@ -99,7 +99,7 @@ show_sidebar: false
 {% include speaker-card.html
   avatarurl="vincenzo.jpg"
   profilename="Vincenzo Anania"
-  affiliation="University of Antwerp, Antwerp <br> icometrix, Leuven"
+  affiliation="icometrix, Leuven<br> imec-Visionlab, University of Antwerp, Antwerp"
   city="Belgium"
   git="https://github.com/vins9100" %}
 </td>
@@ -118,7 +118,7 @@ show_sidebar: false
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>TBA</p>
+  <p align="justify" style="font-family: arial;"><br>Vincenzo Anania is a PhD researcher at icometrix (Leuven, Belgium) and imec-Visionlab (University of Antwerp, Belgium). His research focuses on robust parameter estimation from diffusion weighted MR images. He is one of the 15 early stage researchers of the B-Q Minded EU H2020 project which combines research, innovation, and education in the field of quantitative MRI.</p>
 </div>
 </td>
 <td width="500px">
