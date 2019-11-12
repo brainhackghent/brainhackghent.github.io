@@ -462,7 +462,7 @@ Brain & Behaviour"
 <td width="500px" align="left" valign="center">
 <a name="lyuba"></a>
 {% include speaker-card.html
-  avatarurl="tba.png"
+  avatarurl="zehl.png"
   profilename="Lyuba Zehl"
   affiliation="Jülich Research Centre, Institute of Neuroscience and Medicine (INM-1), Jülich, Germany"
   city="Jülich, Germany"
