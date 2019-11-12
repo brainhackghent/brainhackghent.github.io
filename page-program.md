@@ -752,8 +752,8 @@ show_sidebar: false
 </div>
 <a href="https://openmrbenelux.github.io/page-speakers/#sarah"><p>Sarah Genon</p></a>   
 <br>
-<p><strong>Human Brain Atlas (HBP)</strong></p>
-<p>TBA</p>
+<p><strong>HBP Human Brain Atlas</strong></p>
+<a href="https://openmrbenelux.github.io/page-speakers/#lyuba"><p>Lyuba Zehl</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
