@@ -136,8 +136,10 @@ show_sidebar: false
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong>9:45 &ndash; 10:15</strong></p>
 </td>
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
-<p><strong>Diving Into Metascience – Doing Research on Research</strong></p> 
+   <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
+<div class="popup" onclick="myFunction_marjan()"><p><strong>Diving Into Metascience – Doing Research on Research</strong></p> 
+  <span class="popuptext" id="myPopup_marjan"><b>Abstract: </b>TBA.</span>
+</div>
 <a href="https://openmrbenelux.github.io/page-speakers/#marjan"><p>Marjan Bakker</p></a>   
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
