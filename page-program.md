@@ -918,8 +918,8 @@ show_sidebar: false
 <a href="https://openmrbenelux.github.io/page-speakers/#stephan"><p>Stephan Heunis</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p><strong>Talk/Demo</strong></p>
-<p>&nbsp;<br/>&nbsp;</p>
+<p><strong>Talk - Demo</strong></p>
+<p>&nbsp;<br/>&nbsp;<br/>&nbsp;</p>
 <p><strong>Talk</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
