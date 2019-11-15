@@ -11,12 +11,12 @@ show_sidebar: false
 
 ## <span style="color:#004777"> Nijmegen, The Netherlands </span> 
 
-<img style="float: left;" src="../assets/ext_images/location-doodle.jpg" width="500" height="80"> 
+<img style="float: right;" src="../assets/ext_images/location-doodle.jpg" width="500" height="80"> 
 
 <br>
 <br>
 <br>
-<div style="text-align: right">OpenMR Benelux 2020 will take place at the <b> Donders Institute, Nijmegen, The Netherlands </b>. <br> More details about the exact times and locations will follow closer to the event.
+<div style="text-align: left">OpenMR Benelux 2020 will take place at the <b> Donders Institute, Nijmegen, The Netherlands </b>. <br> More details about the exact times and locations will follow closer to the event.
 <br>
 <br>
 <br>
@@ -35,10 +35,10 @@ show_sidebar: false
     float: left;
 }
 .text-style{
-    float: right;
+    float: left;
 }
 .padding {
-  padding-left: 19cm;
+  padding-left: 0cm;
 </style>
 
 <div class="map-responsive">
@@ -48,13 +48,13 @@ show_sidebar: false
     Amongst a lot more information about Nijmegen, the <b><a href="https://en.visitnijmegen.com/traveller-information/getting-here" style="color:#004777">rijkvannijmegen.com</a></b>, the website of the official tourist office of Nijmegen, has very clear information on getting here! Check some of the tips below:
     <div style="color:#004777">
         <img style="float: right;" src="../assets/ext_images/post_separator.png" width="100" height="20"> <br>
-        <div class="padding" style="text-align: center;">To travel by public transport in the Netherlands, you need a ticket known as an OV-Chipkaart. You can buy an <b>OV-Chipkaart</b> with a starting price of €7.50 from ticket machines at larger railway stations, from newsagents and a large number of supermarkets in the Netherlands.</div><br><br>
+        <div class="padding" style="text-align: left;">To travel by public transport in the Netherlands, you need a ticket known as an OV-Chipkaart. You can buy an <b>OV-Chipkaart</b> with a starting price of €7.50 from ticket machines at larger railway stations, from newsagents and a large number of supermarkets in the Netherlands.</div><br><br>
         <img style="float: right;" src="../assets/ext_images/post_separator.png" width="100" height="20"> <br>
-        <div class="padding" style="text-align: center;">It’s also possible to buy a slightly more expensive <b>single-use day ticket</b> from the ticket machines at NS railway stations.</div><br><br>
+        <div class="padding" style="text-align: left;">It’s also possible to buy a slightly more expensive <b>single-use day ticket</b> from the ticket machines at NS railway stations.</div><br><br>
         <img style="float: right;" src="../assets/ext_images/post_separator.png" width="100" height="20"> <br>
-        <div class="padding" style="text-align: center;">Before you get on the train, you need to check in at the station/on the platform by holding your ticket against one of the card-readers.</div><br><br>
+        <div class="padding" style="text-align: left;">Before you get on the train, you need to check in at the station/on the platform by holding your ticket against one of the card-readers.</div><br><br>
         <img style="float: right;" src="../assets/ext_images/post_separator.png" width="100" height="20"> <br>
-        <div class="padding" style="text-align: center;">Remember! You also need to check out again at one of the card-readers when you arrive at your destination. If you are travelling by bus, tram or metro, <b>you should check in and out as you get on and off</b>.</div>
+        <div class="padding" style="text-align: left;">Remember! You also need to check out again at one of the card-readers when you arrive at your destination. If you are travelling by bus, tram or metro, <b>you should check in and out as you get on and off</b>.</div>
     </div>
     </p>
 </div>
