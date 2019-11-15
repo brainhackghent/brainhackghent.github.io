@@ -14,7 +14,7 @@ show_sidebar: false
 <img style="float: right;" src="../assets/ext_images/location-doodle.jpg" width="300" height="60"> 
 
 <br>
-<div style="text-align: left">OpenMR Benelux 2020 will take place at the <b> Donders Institute, Nijmegen, The Netherlands </b>. <br> More details about the exact times and locations will follow closer to the event.
+<div style="text-align: left">OpenMR Benelux 2020 will take place at the <b> Donders Institute, Nijmegen, The Netherlands </b>. <br> More details about the exact times and locations will follow closer to the event. </div>
 <br>
 <br>
 
@@ -39,6 +39,7 @@ show_sidebar: false
 </style>
 
 <p> Amongst a lot more information about Nijmegen, the <b><a href="https://en.visitnijmegen.com/traveller-information/getting-here" style="color:#004777">rijkvannijmegen.com</a></b>, the website of the official tourist office of Nijmegen, has very clear information on getting here! Check some of the tips below:
+    
 <div style="color:#000000">
 <br>
 <div class="padding" style="text-align: left;">To travel by public transport in the Netherlands, you need a ticket known as an OV-Chipkaart. You can buy an <b>OV-Chipkaart</b> with a starting price of €7.50 from ticket machines at larger railway stations, from newsagents and a large number of supermarkets in the Netherlands.</div>
