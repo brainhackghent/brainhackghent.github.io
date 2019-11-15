@@ -77,7 +77,7 @@ show_sidebar: false
 <p align=" justify">The preliminary program for OpenMR Benelux 2020 is shown below. <br><br> The event will span three days during which participants can take part in the following main activities:
 <UL>
 <LI>Tuesday 21 January - Talks: the opening day of OpenMR Benelux will be filled with talks and discussions on a variety of topics applicable to open science in MRI, similar to OpenMR Benelux 2019.</LI>
-<LI>Wednesday and Thursday 22+23 January - HackTrack: this year, we will also host a hackathon! Participants are welcome to suggest their own projects or join an existing project. Head over to our <a href="https://github.com/OpenMRBenelux/openmrb2020-hackathon"><p>hackathon repository</p></a> to browse project or suggest your own.</LI>
+<LI>Wednesday and Thursday 22+23 January - HackTrack: this year, we will also host a hackathon! Participants are welcome to suggest their own projects or join an existing project. Head over to our <a href="https://github.com/OpenMRBenelux/openmrb2020-hackathon">hackathon repository</a> to browse project or suggest your own.</LI>
 <LI>Wednesday and Thursday 22+23 January - TrainTrack: In parallel to the HackTrack, we have worked out a full program for those who want to get more hands-on experience with tools for conducting open research in MRI, including version control with git, Python, Jupyter Notebooks, Docker, and a treasure-trove of toolbox demos.</LI>
 </UL>
 </p>
