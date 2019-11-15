@@ -10,7 +10,7 @@ show_sidebar: false
 
 ## <span style="color:#004777"> This year's event will be awesome! </span> 
 
-[**Register now**](./page-registration)!
+[**Register now**](https://openmrbenelux.github.io/page-registration/)!
 
 Like many other fields, MRI research greatly profits from the collaboration between researchers, users, developers, and industry. With OpenMR Benelux 2020, we want to demonstrate how an increasingly open network can help us create innovative solutions to problems we face.
 
@@ -40,10 +40,10 @@ We specifically chose the venue and dates to be close to the annual meeting of t
 
 ## <span style="color:#004777"> Program </span>
 
-To get a sense of the talk topics, speakers, TrainTrack workshops, demos, and hackathon projects, head over to the [**Program Page**](./page-program).
+To get a sense of the talk topics, speakers, TrainTrack workshops, demos, and hackathon projects, head over to the [**Program Page**](https://openmrbenelux.github.io/page-program).
 
 ## <span style="color:#004777"> Registration </span> 
 
-Registration for OpenMR Benelux is OPEN! It closes on 20 December 2019 and we have limited space, so don't waste time: [**Register now**](./page-registration)!
+Registration for OpenMR Benelux is OPEN! It closes on 20 December 2019 and we have limited space, so don't waste time: [**Register now**](https://openmrbenelux.github.io/page-registration)!
 
 This year, we charge a registration fee of €50, which covers attendance costs including lunch, coffee/tea, and snacks over the course of the event. You will have to take care of travelling and accommodation yourself or through your research institution. Attendance certificates will be sent out electronically after the event to assist with your expense claims.
