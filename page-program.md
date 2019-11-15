@@ -760,7 +760,9 @@ show_sidebar: false
 </div>
 <a href="https://openmrbenelux.github.io/page-speakers/#sarah"><p>Sarah Genon</p></a>   
 <br>
-<p><strong>HBP Human Brain Atlas</strong></p>
+<div class="popup" onclick="myFunction_lyuba()"><p><strong>The HBP Human Brain Atlas</strong></p>
+  <span class="popuptext" id="myPopup_lyuba"><b>Abstract: </b>The Human Brain Project (HBP) provides access to a comprehensive, multi-level Human Brain Atlas which includes different brain parcellations and template spaces. In particular, it integrates the 20 micron BigBrain model with 3D maps of cytoarchitectonic areas and cortical layers at microscopic detail, with the JuBrain probabilistic cytoarchitectonic atlas which covers variability across 10+ postmortem brains, as well as with a probabilistic fibre bundle atlas derived from in-vivo neuroimaging studies. HBP’s brain atlases are exposed through a set of web-based services that allow users to discover, explore and access not only the reference atlases themselves, but also a range of well curated human brain data at different scales and modalities that were linked to atlas regions in a well structured data integration process. The most intuitive interface to these atlas services is a freely accessible, web-based interactive atlas viewer, which allows intuitive visual navigation of brain anatomy and atlas regions in 3D, down to the microscopic resolution.</span>
+</div>
 <a href="https://openmrbenelux.github.io/page-speakers/#lyuba"><p>Lyuba Zehl</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -991,6 +993,10 @@ function myFunction_natalia() {
 }
 function myFunction_sarah() {
   var popup = document.getElementById("myPopup_sarah");
+  popup.classList.toggle("show");
+}
+function myFunction_lyuba() {
+  var popup = document.getElementById("myPopup_lyuba");
   popup.classList.toggle("show");
 }
 function myFunction_stefan() {
