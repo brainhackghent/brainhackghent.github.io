@@ -14,7 +14,7 @@ Interested in an open world, where ideas and tools are shared and collaboration-
 
 Us too! And that is what the OpenMR Benelux is all about. Let’s open up this discussion!
 
-[**Registration**]](./page-registration.md) **is open!**
+[**Registration**](./page-registration.md) **is open!**
 
 We invite you to join us and a team of amazing MRI researchers and developers to learn, speak up, develop, and discuss open (MRI) science practices! OpenMR Benelux 2020 will be hosted at the Donders Institute for Cognition, Brain and Behaviour in Nijmegen, The Netherlands, on 21-23 January, 2020. Head over to the [**Event Page**](./page-openmrb-2020) for an overview of what to expect. 
 
