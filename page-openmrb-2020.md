@@ -18,8 +18,6 @@ With a wide range of topics, our goal is to welcome attendees from technical or 
 
 Our goal is to have something for everyone and to create enough opportunities for discussion, learning from each other, and working together on innovative solutions.
 
-![alt text](assets/ext_images/post_separator.png)
-
 ## <span style="color:#004777"> Event format </span>
 
 OpenMR Benelux 2020 is not a typical academic conference. We take inspiration from the hacking culture and the unconventional styles of [BrainHack](http://www.brainhack.org/about.html) and [SIPS](https://improvingpsych.org/). Instead of only listening to talks, we encourage you to participate in open discussion. In contrast to purely consuming information, we encourage participants to work together and generate new information. Instead of the standard "keynote, symposium, poster session" scenario, we offer a collaborative environment with a variety of activities.
@@ -32,8 +30,6 @@ OpenMR Benelux will span 3 days, 21-23 January 2020, during which participants c
 
 Apart from the talks on the opening day and the planned time slots for the TrainTrack sessions, there's no defined structure to the event. Participants are welcome to use the collaborative environment to start their own unconference-like discussions in parallel to the TrainTrack or HackTrack, or start off with a hackathon project and later join the toolbox demos in the HackTrack. We want you to enjoy yourself, learn, and collaborate in whichever way works for you!
 
-![alt text](assets/ext_images/post_separator.png)
-
 ## <span style="color:#004777"> Venue and dates </span>
 
 We are happy to host this year's event at the **Donders Institute for Cognition, Brain and Behaviour in Nijmegen, The Netherlands**.
@@ -42,13 +38,9 @@ OpenMR Benelux will span 3 days, 21-23 January 2020.
 
 We specifically chose the venue and dates to be close to the annual meeting of the [ISMRM Benelux chapter](https://www.ismrm-benelux.org/), which takes place on 24 January at the Burgers' Zoo in Arnhem. So come to Nijmegen to share, collaborate, and learn, and then hop on a quick train to Arnhem to continue your journey through the interesting world of MRI!
 
-![alt text](assets/ext_images/post_separator.png)
-
 ## <span style="color:#004777"> Program </span>
 
 To get a sense of the talk topics, speakers, TrainTrack workshops, demos, and hackathon projects, head over to the [**Program Page**](../page-program.md).
-
-![alt text](assets/ext_images/post_separator.png)
 
 ## <span style="color:#004777"> Registration </span> 
 
