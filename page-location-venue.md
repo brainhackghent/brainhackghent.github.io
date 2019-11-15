@@ -11,14 +11,12 @@ show_sidebar: false
 
 ## <span style="color:#004777"> Nijmegen, The Netherlands </span> 
 
-<img style="float: right;" src="../assets/ext_images/location-doodle.jpg" width="300" height="60"> 
-
 <br>
 <div style="text-align: left">OpenMR Benelux 2020 will take place at the <b> Donders Institute, Nijmegen, The Netherlands </b>. <br> More details about the exact times and locations will follow closer to the event. </div>
 <br>
 <br>
 
-<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d811.1005985695383!2d5.863392750261673!3d51.82609157689127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7b612535b3a8c312!2sDonders%20Centre%20for%20Cognitive%20Neuroimaging!5e0!3m2!1sen!2sbe!4v1573846631888!5m2!1sen!2sbe" width="600" height="600" frameborder="0" style="border:0;" allowfullscreen=""></iframe></p>
+<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d811.1005985695383!2d5.863392750261673!3d51.82609157689127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7b612535b3a8c312!2sDonders%20Centre%20for%20Cognitive%20Neuroimaging!5e0!3m2!1sen!2sbe!4v1573846631888!5m2!1sen!2sbe" width="800" height="600" frameborder="0" style="border:0;" allowfullscreen=""></iframe></p>
 
 ## <span style="color:#004777"> How to get there? </span> 
 
