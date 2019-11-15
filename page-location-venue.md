@@ -14,10 +14,11 @@ show_sidebar: false
 <img style="float: right;" src="../assets/ext_images/location-doodle.jpg" width="300" height="60"> 
 
 <br>
-
 <div style="text-align: left">OpenMR Benelux 2020 will take place at the <b> Donders Institute, Nijmegen, The Netherlands </b>. <br> More details about the exact times and locations will follow closer to the event.
 <br>
 <br>
+
+## <span style="color:#004777"> How to get there? </span> 
 
 <style>
 .map-responsive{
@@ -36,9 +37,6 @@ show_sidebar: false
 .padding {
   padding-left: 0cm;
 </style>
-
-
-## <span style="color:#004777"> How to get there? </span> 
 
 <p> Amongst a lot more information about Nijmegen, the <b><a href="https://en.visitnijmegen.com/traveller-information/getting-here" style="color:#004777">rijkvannijmegen.com</a></b>, the website of the official tourist office of Nijmegen, has very clear information on getting here! Check some of the tips below:
 <div style="color:#000000">
