@@ -11,6 +11,8 @@ show_sidebar: false
 
 ## <span style="color:#004777"> Nijmegen, The Netherlands </span> 
 
+<img style="float: right;" src="../assets/ext_images/nijmegen_doodle_big.jpg" width="240" height="80"> 
+
 <br>
 <div style="text-align: left">OpenMR Benelux 2020 will take place at the <b> Donders Institute, Nijmegen, The Netherlands </b>. <br> More details about the exact times and locations will follow closer to the event. </div>
 <br>
@@ -22,6 +24,7 @@ show_sidebar: false
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
 ## <span style="color:#004777"> How to get there? </span> 
 
 <style>
