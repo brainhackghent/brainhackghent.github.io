@@ -8,3 +8,5 @@ show_sidebar: false
 ---
 
 ## They helped us make this event for you
+
+<img style="float: left;" src="../assets/ext_images/Sponsor_page.png" width="1230" height="190"> 
