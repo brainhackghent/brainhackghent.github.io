@@ -10,22 +10,48 @@ show_sidebar: false
 
 ## <span style="color:#004777"> This year's event will be awesome! </span> 
 
+[**Register now**](../page-registration.md)!
 
+Like many other fields, MRI research greatly profits from the collaboration between researchers, users, developers, and industry. With OpenMR Benelux 2020, we want to demonstrate how an increasingly open network can help us create innovative solutions to problems we face.
 
-Come to the OpenMR Benelux 2020! 
+With a wide range of topics, our goal is to welcome attendees from technical or clinical backgrounds and to discuss open science practices in magnetic resonance imaging research. Topics will range from open data science practices and new initiatives in scientific publishing to practical introductions to open source software, version control, and a variety of open source MRI toolboxes.
 
-Like many other fields, MRI research profits greatly from the collaboration between researchers, developers and industry. <br /> <br />
-In the OpenMR Benelux 2020, we want to demonstrate how an increasingly open network can help us create innovative solutions to problems we face. <br />
+Our goal is to have something for everyone and to create enough opportunities for discussion, learning from each other, and working together on innovative solutions.
 
-With a wide range of topics, our goal is to welcome attendees from technical or clinical backgrounds, and discuss topics related to open science practices in magnetic resonance imaging, including open tools for machine learning applications in MRI, data and code sharing practices, the role of mentoring in facilitating academic careers and the future of open access publishing.
+![alt text](assets/ext_images/post_separator.png)
 
-Check our [**program**](../page-program) for more information on our exciting talks and workshops!
+## <span style="color:#004777"> Event format </span>
 
-You can also contact us at: <openmrbenelux@gmail.com>, or via our contact page: [Contact us](../page-contact). 
+OpenMR Benelux 2020 is not a typical academic conference. We take inspiration from the hacking culture and the unconventional styles of [BrainHack](http://www.brainhack.org/about.html) and [SIPS](https://improvingpsych.org/). Instead of only listening to talks, we encourage you to participate in open discussion. In contrast to purely consuming information, we encourage participants to work together and generate new information. Instead of the standard "keynote, symposium, poster session" scenario, we offer a collaborative environment with a variety of activities.
 
-## <span style="color:#004777"> Location </span> 
-This year's event will happen in [**Nijmegen**](../page-location-venue) during the 21-23 of January 2020.
+OpenMR Benelux will span 3 days, 21-23 January 2020, during which participants can take part in the following main activities:
+
+* **Talks**: the opening day of OpenMR Benelux will be filled with talks and discussions on a variety of topics applicable to open science in MRI, similar to OpenMR Benelux 2019.
+* **HackTrack**: this year, we will also host a hackathon! Participants are welcome to suggest their own projects or join an existing project. Hacking will take place on days 2 to 3.
+* **TrainTrack**: in parallel to the HackTrack, we have worked out a full program for those who want to get more hands-on experience with tools for conducting open research in MRI, including version control with git, Python, Jupyter Notebooks, Docker, and a treasure-trove of toolbox demos.
+
+Apart from the talks on the opening day and the planned time slots for the TrainTrack sessions, there's no defined structure to the event. Participants are welcome to use the collaborative environment to start their own unconference-like discussions in parallel to the TrainTrack or HackTrack, or start off with a hackathon project and later join the toolbox demos in the HackTrack. We want you to enjoy yourself, learn, and collaborate in whichever way works for you!
+
+![alt text](assets/ext_images/post_separator.png)
+
+## <span style="color:#004777"> Venue and dates </span>
+
+We are happy to host this year's event at the **Donders Institute for Cognition, Brain and Behaviour in Nijmegen, The Netherlands**.
+
+OpenMR Benelux will span 3 days, 21-23 January 2020.
+
+We specifically chose the venue and dates to be close to the annual meeting of the [ISMRM Benelux chapter](https://www.ismrm-benelux.org/), which takes place on 24 January at the Burgers' Zoo in Arnhem. So come to Nijmegen to share, collaborate, and learn, and then hop on a quick train to Arnhem to continue your journey through the interesting world of MRI!
+
+![alt text](assets/ext_images/post_separator.png)
+
+## <span style="color:#004777"> Program </span>
+
+To get a sense of the talk topics, speakers, TrainTrack workshops, demos, and hackathon projects, head over to the [**Program Page**](../page-program.md).
+
+![alt text](assets/ext_images/post_separator.png)
 
 ## <span style="color:#004777"> Registration </span> 
 
-The registration is super easy, and, in line with open collaboration, the OpenMR Benelux 2020 is completely cost-free! Register now, we have limited places! [Register here](../page-registration).
+Registration for OpenMR Benelux is OPEN! It closes on 20 December 2019 and we have limited space, so don't waste time: [**Register now**](../page-registration.md)!
+
+This year, we charge a registration fee of €50, which covers attendance costs including lunch, coffee/tea, and snacks over the course of the event. You will have to take care of travelling and accommodation yourself or through your research institution. Attendance certificates will be sent out electronically after the event to assist with your expense claims.
