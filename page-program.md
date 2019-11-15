@@ -919,7 +919,7 @@ show_sidebar: false
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Talk - Demo</strong></p>
-<p>&nbsp;<br/>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Talk</strong></p>
 </td>
