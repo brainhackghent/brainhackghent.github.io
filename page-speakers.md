@@ -110,7 +110,7 @@ show_sidebar: false
 <td width="500px" align="left" valign="center">
 <a name="joao"></a>
 {% include speaker-card.html
-  avatarurl="tba.png"
+  avatarurl="Joao.jpg"
   profilename="Joao Periquito" 
   affiliation="Berlin Ultrahigh Field Facility (B.U.F.F.), Berlin, Germany"
   city="Berlin, Germany" %}
@@ -291,7 +291,9 @@ show_sidebar: false
 <td width="500px" align="left" valign="center">
 <a name="malvika"></a>
 {% include speaker-card.html
-  avatarurl="tba.png"
+  avatarurl="Malvika.png"
+  affiliation="European Molecular Biology Laboratory (EMBL) Heidelberg"
+  city="Heidelberg, Germany"
   profilename="Malvika Sharan" %}
 </td>
 <td width="500px" align="left" valign="center">
@@ -309,7 +311,7 @@ show_sidebar: false
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>TBA</p>
+  <p align="justify" style="font-family: arial;"><br>Malvika is a computational biologist at the European Molecular Biology Laboratory, Heidelberg, Germany, where she coordinates the Bio-IT project, a community-driven platform for bioinformaticians. She organizes training activities and events for EMBL, de.NBI/ELIXIR Germany and other open source communities such as The Carpentries. She promotes Open Science and inclusiveness through her work as a community outreach coordinator.</p>
 </div>
 </td>
 <td width="500px">
@@ -358,13 +360,18 @@ Brain & Behaviour"
 <td width="500px" align="left" valign="center">
 <a name="marcel"></a>
 {% include speaker-card.html
-  avatarurl="tba.png"
+  avatarurl="Marcel.png"
+  affiliation="Donders Institute for Brain, Cognition and Behaviour"
+  city="Nijmegen, The Netherlands"
   profilename="Marcel Zwiers" %}
 </td>
   <td width="500px" align="left" valign="center">
 <a name="robert"></a>
 {% include speaker-card.html
-  avatarurl="tba.png"
+  avatarurl="Robert.png"
+  affiliation="Donders Institute for Brain, Cognition and Behaviour"
+  city="Nijmegen, The Netherlands"
+  homepage="https://robertoostenveld.nl/research/"
   profilename="Robert Oostenveld" %}
 </td>
 </tr>
@@ -372,13 +379,15 @@ Brain & Behaviour"
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>TBA</p>
+  <p align="justify" style="font-family: arial;"><br>Marcel is a physicist and has a PhD in auditory neuroscience. His main research interest is in MR physics and MR image analysis, particularly in the field of diffusion imaging, brain connectivity and morphometry, and in the application of these techniques to clinical samples. He has extensive experience with analyzing large datasets and merging data from multi-center studies.</p>
 </div>
 </td>
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>TBA</p>
+  <p align="justify" style="font-family: arial;"><br>Robert's main interest is in developing novel methods for the analysis of MEG and EEG data with applications in cognitive neuroimaging. His scientific contributions include signal processing, source reconstruction, connectivity analysis and statistical analysis. Furthermore, Robert is interested in improving the methodological aspects of cognitive neuroimaging at the meta level: he contributes to the dissemination of state-of-the-art analysis methods by developing open-source software, by data sharing and by organizing educational and scientific workshops.
+
+His contributions to the methodological advancement of the field of non-invasive electrophysiology are exemplified by FieldTrip, a project that he started about 10 years ago and that he has been heading since. To strengthen the MEG and EEG research community, Robert is not managing FieldTrip only as a data analysis toolbox, but also as a platform for the exchange of ideas and expertise.</p>
 </div>
 </td>
 </tr>
@@ -401,8 +410,10 @@ Brain & Behaviour"
 {% include speaker-card.html
   avatarurl="tony.png"
   profilename="Tony Stöcker" 
+  git=" https://github.com/JEMRIS/jemris"
   affiliation="MR physics group German Center for Neurodegenerative Diseases"
   city="Bonn, Germany"
+  homepage="http://www.dzne.de/en/sites/bonn/research-groups/stoecker.html"
   researchgate="https://www.researchgate.net/profile/Tony_Stoecker" %}
 </td>
 </tr>
@@ -416,7 +427,8 @@ Brain & Behaviour"
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>TBA</p>
+  <p align="justify" style="font-family: arial;"><br>Tony Stöcker has been Professor of Medical Physics at Bonn University since 2014 and Head of MR Physics Research Group (DZNE-Bonn) since 2012. 
+His research focus is MRI sequence development at 7 Tesla, probing for neurodegeneration with high sensitivity and resolution, and the development of high-throughput and high-quality neuroimaging protocols for large-scale patient and population studies. Together with his group, he investigates novel medical imaging methods for biomarkers of neurodegenerative diseases.</p>
 </div>
 </td>
 </tr>
