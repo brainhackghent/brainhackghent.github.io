@@ -831,6 +831,7 @@ show_sidebar: false
 </div>
 <a href="https://openmrbenelux.github.io/page-speakers/#marcel"><p>Marcel Zwiers & Robert Oostenveld</p></a>
 </td>
+<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>TBA</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
