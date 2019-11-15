@@ -459,7 +459,7 @@ His research focus is MRI sequence development at 7 Tesla, probing for neurodege
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>TBA</p>
+  <p align="justify" style="font-family: arial;"><br>Oliver Schmid is the Product Owner of the EBRAINS Knowledge Graph developed by EPFL for the Human Brain Project. Oliver has worked as a Software Engineer and Software Architect in different companies for many years and has studied Computer Science (PhD), Information Management (MA) and Educational Sciences (BSc) at the University of Fribourg, Switzerland. His main interest is to improve existing processes by the application of interdisciplinary knowledge - accordingly, he contributes to the creation of a (neuro-)scientific IT infrastructure for data sharing and Open Science in his current position.</p>
 </div>
 </td>
 <td width="500px">
