@@ -48,4 +48,4 @@ Registration for OpenMR Benelux is OPEN! It closes on 20 December 2019 and we ha
 
 This year, we charge a registration fee of €50, which covers attendance costs including lunch, coffee/tea, and snacks over the course of the event. You will have to take care of travelling and accommodation yourself or through your research institution. Attendance certificates will be sent out electronically after the event to assist with your expense claims.
 
-<img style="float: left;" src="../assets/ext_images/Sponsor_page.png" width="1000" height="200"> 
+<img style="float: left;" src="../assets/ext_images/Sponsor_page.png" width="1230" height="190"> 
