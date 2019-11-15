@@ -43,7 +43,7 @@ show_sidebar: false
     </span><br><br>
     Amongst a lot more information about Nijmegen, the <b><a href="https://en.visitnijmegen.com/traveller-information/getting-here" style="color:#004777">rijkvannijmegen.com</a></b>, the website of the official tourist office of Nijmegen, has very clear information on getting here! Check some of the tips below:
     <div style="color:#000000">
-        <img style="float: right;" src="../assets/ext_images/post_separator.png" width="100" height="20"> <br>
+         <br>
         <div class="padding" style="text-align: left;">To travel by public transport in the Netherlands, you need a ticket known as an OV-Chipkaart. You can buy an <b>OV-Chipkaart</b> with a starting price of €7.50 from ticket machines at larger railway stations, from newsagents and a large number of supermarkets in the Netherlands.</div><br><br>
         <img style="float: right;" src="../assets/ext_images/post_separator.png" width="100" height="20"> <br>
         <div class="padding" style="text-align: left;">It’s also possible to buy a slightly more expensive <b>single-use day ticket</b> from the ticket machines at NS railway stations.</div><br><br>
