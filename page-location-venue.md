@@ -16,8 +16,12 @@ show_sidebar: false
 <br>
 <br>
 
+<div class="icontain">
 <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d811.1005985695383!2d5.863392750261673!3d51.82609157689127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7b612535b3a8c312!2sDonders%20Centre%20for%20Cognitive%20Neuroimaging!5e0!3m2!1sen!2sbe!4v1573846631888!5m2!1sen!2sbe" width="800" height="600" frameborder="0" style="border:0;" allowfullscreen=""></iframe></p>
+</div>
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 ## <span style="color:#004777"> How to get there? </span> 
 
 <style>
