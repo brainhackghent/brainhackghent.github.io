@@ -144,7 +144,7 @@ show_sidebar: false
 </td>
    <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
 <div class="popup" onclick="myFunction_marjan()"><p><strong>Diving Into Metascience – Doing Research on Research</strong></p> 
-  <span class="popuptext" id="myPopup_marjan"><b>Abstract: </b>TBA.</span>
+  <span class="popuptext" id="myPopup_marjan"><b>Abstract: </b>Marjan Bakker will build her talk around the replication crisis in science. She will show examples of p-hacking and will discuss the surprising fraction of confirmed hypotheses. This is not only a problem in psychology attest examples of failure to replicate studies in other fields. She pleads for preregistration of hypothesis, study-design and analysis plan to minimize the researcher’s degrees of freedom.</span>
 </div>
 <a href="https://openmrbenelux.github.io/page-speakers/#marjan"><p>Marjan Bakker</p></a>   
 </td>
@@ -225,7 +225,7 @@ show_sidebar: false
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
 <div class="popup" onclick="myFunction_pim()"><p><strong>How can Open Science Contribute to (Clinical) Research in Radiology?</strong></p> 
-  <span class="popuptext" id="myPopup_pim"><b>Abstract: </b>TBA.</span>
+  <span class="popuptext" id="myPopup_pim"><b>Abstract: </b>This talk will be geared towards the question on how open science can contribute to applied research in neuroscience and radiology.</span>
 </div>
 <a href="https://openmrbenelux.github.io/page-speakers/#pim"><p>Pim Pullens</p></a>  
 </td>
@@ -549,7 +549,9 @@ show_sidebar: false
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>Software Version Control with git and GitHub</strong></p>
+<div class="popup" onclick="myFunction_remi()"><p><strong>Software Version Control with git and GitHub</strong></p> 
+  <span class="popuptext" id="myPopup_remi"><b>Abstract: </b>TBA.</span>
+</div>
 <a href="https://openmrbenelux.github.io/page-speakers/#remi"><p>Remi Gau & Sofie Van Den Bossche</p></a>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -697,8 +699,10 @@ show_sidebar: false
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>Fostering Open and Inclusive Communities</strong></p>
-<a href="https://openmrbenelux.github.io/page-speakers/#malvika"><p>Malvika Sharan</p></a>  
+<div class="popup" onclick="myFunction_malvika()"><p><strong>Fostering Open and Inclusive Communities</strong></p> 
+  <span class="popuptext" id="myPopup_malvika"><b>Abstract: </b>TBA.</span>
+</div>
+<a href="https://openmrbenelux.github.io/page-speakers/#malvika"><p>Malvika Sharan</p></a> 
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Talk</strong></p>
@@ -783,7 +787,9 @@ show_sidebar: false
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>MR Image Registration with Elastix and Simple Elastix</strong></p>
+<div class="popup" onclick="myFunction_stefan()"><p><strong>MR Image Registration with Elastix and Simple Elastix</strong></p> 
+  <span class="popuptext" id="myPopup_stefan"><b>Abstract: </b>TBA.</span>
+</div>
 <a href="https://openmrbenelux.github.io/page-speakers/#stephanklein"><p>Stefan Klein</p></a>   
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -820,10 +826,11 @@ show_sidebar: false
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>Converting Neuroimaging Data to BIDS</strong></p>
+<div class="popup" onclick="myFunction_marcel()"><p><strong>Converting Neuroimaging Data to BIDS</strong></p> 
+  <span class="popuptext" id="myPopup_marcel"><b>Abstract: </b>TBA.</span>
+</div>
 <a href="https://openmrbenelux.github.io/page-speakers/#marcel"><p>Marcel Zwiers & Robert Oostenveld</p></a>
 </td>
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>TBA</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
