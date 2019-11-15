@@ -266,7 +266,9 @@ show_sidebar: false
 <p><strong>13:30 &ndash; 14:00</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
-<p><strong>Open Science in the Context of Companies, Intellectual Property, and Collaborative Research</strong></p>
+<div class="popup" onclick="myFunction_lawyer()"><p><strong>Open Science in the Context of Companies, Intellectual Property, and Collaborative Research</strong></p> 
+  <span class="popuptext" id="myPopup_lawyer"><b>Abstract: </b>There is an interesting interplay between open science practices in publicly funded research and intellectual property and patenting in for-profit companies. This especially comes to light when such research institutions and companies collaborate, which is often the case in MRI-related work. For example, both companies and universities could be doing interesting and important work together, but apparent goals might differ: for universities it might be to publish papers and adhere to funding criteria; for companies it might be to secure a patent and monetize the work.Do these approaches necessarily contradict each other? How should they co-exist (if they can)? What should companies be doing, if anything, to improve or interact with open science practices? What should universities and research institutions be doing, if anything, to engage with companies in open science practices. This talk will explore these questions.</span>
+</div>
 <p>TBA</p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
@@ -689,11 +691,11 @@ show_sidebar: false
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>Building Inclusive and Open Communities</strong></p>
+<p><strong>Fostering Open and Inclusive Communities</strong></p>
 <a href="https://openmrbenelux.github.io/page-speakers/#malvika"><p>Malvika Sharan</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p><strong>TBA</strong></p>
+<p><strong>Talk</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -874,7 +876,7 @@ show_sidebar: false
 <a href="https://openmrbenelux.github.io/page-speakers/#tony"><p>Tony Stöcker</p></a>  
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p><strong>TBA</strong></p>
+<p><strong>Talk - Demo</strong></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p>&nbsp;</p>
@@ -935,6 +937,10 @@ function myFunction_marjan() {
 }
 function myFunction_cass() {
   var popup = document.getElementById("myPopup_cass");
+  popup.classList.toggle("show");
+}
+function myFunction_lawyer() {
+  var popup = document.getElementById("myPopup_lawyer");
   popup.classList.toggle("show");
 }
 function myFunction_pim() {
