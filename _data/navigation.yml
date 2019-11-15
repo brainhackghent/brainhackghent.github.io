@@ -1,7 +1,7 @@
 - name: OpenMR Benelux
   link: ##
   dropdown:
-    - name: OpenMR Benelux 2020
+    - name: Events
       link: /page-openmrb-2020/
     - name: Program
       link: /page-program/
