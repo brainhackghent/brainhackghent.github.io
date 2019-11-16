@@ -30,7 +30,7 @@ show_sidebar: false
 
 <div style="text-align: justify">OpenMR Benelux 2020 will take place at the <a href="https://www.ru.nl/donders/"><b>Donders Institute for Cognition, Brain and Behaviour</b></a> in <b>Nijmegen, The Netherlands</b>.</div>
 
-<img style="float: right;" src="../assets/ext_images/nijmegen_doodle_big.jpg" width="16%" height="38%">
+<img style="float: right;" src="../assets/ext_images/nijmegen_doodle_big.jpg" width="16%" height="38%" vspace="1%">
 
 <div class="google-maps">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7284.6116696731115!2d5.854683034990987!3d51.818830478283964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c708eeef1a7ddf%3A0x3383a57205a4a83e!2sDonders!5e0!3m2!1snl!2sbe!4v1565820333583!5m2!1snl!2sbe" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
