@@ -76,3 +76,5 @@ show_sidebar: false
 <li><div class="padding" style="text-align: left;"><div style="text-align: justify">Before you get on the train, you need to check in at the station/on the platform by holding your ticket against one of the card-readers.</div></div></li>
 <li><div class="padding" style="text-align: left;"><div style="text-align: justify">Remember! You also need to check out again at one of the card-readers when you arrive at your destination. If you are travelling by bus, tram, or metro, <b>you should check in and out as you get on and off</b>.</div></div></li>
 </ul>
+
+![alt text](../assets/ext_images/post_separator.png)
