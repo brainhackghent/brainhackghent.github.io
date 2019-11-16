@@ -23,7 +23,7 @@ show_sidebar: false
 
 * <p><div style="text-align: justify"><b>Talks</b>: the opening day of OpenMR Benelux will be filled with talks and discussions on a variety of topics applicable to open science in MRI, similar to OpenMR Benelux 2019.</div></p>
 * <p><div style="text-align: justify"><b>HackTrack</b>: this year, we will also host a hackathon! Participants are welcome to suggest their own projects or join an existing project. Hacking will take place on days 2 to 3.</div></p>
-* <p><div style="text-align: justify">TrainTrack</b>: in parallel to the HackTrack, we have worked out a full program for those who want to get more hands-on experience with tools for conducting open research in MRI, including version control with git, Python, Jupyter Notebooks, Docker, and a treasure-trove of toolbox demos.</div></p>
+* <p><div style="text-align: justify"><b>TrainTrack</b>: in parallel to the HackTrack, we have worked out a full program for those who want to get more hands-on experience with tools for conducting open research in MRI, including version control with git, Python, Jupyter Notebooks, Docker, and a treasure-trove of toolbox demos.</div></p>
 
 <p><div style="text-align: justify">Apart from the talks on the opening day and the planned time slots for the TrainTrack sessions, there's no defined structure to the event. Participants are welcome to use the collaborative environment to start their own unconference-like discussions in parallel to the TrainTrack or HackTrack, or start off with a hackathon project and later join the toolbox demos in the HackTrack. We want you to enjoy yourself, learn, and collaborate in whichever way works for you!</div></p>
 
