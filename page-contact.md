@@ -1,53 +1,168 @@
----
-title: OpenMR Benelux 2020
-subtitle: Open Science in focus
+--- 
+title: Contact
+subtitle: We would love to hear from you!
 layout: page
 show_sidebar: false
+#tabs: example_tabs
 #hero_image: assets/ext_images/Home_logo.png
 ---
 
-## <span style="color:#004777"> This year's event will be awesome! </span> 
+## <span style="color:#004777"> Contact us at openmrbenelux@gmail.com </span>
+<p><div style="text-align: justify">Questions or feedback? Do not hesitate and use the <i>Contact Form</i> to send us an e-mail at openmrbenelux@gmail.com. We will answer you as soon as possible, to the best of our abilities! 
+You are also welcome to subscribe to our <i>Newsletter</i> to receive the latest updates regarding the program and more. You will also be among the first to know when registration opens!</div></p>
+<p><div style="text-align: justify"><b>IMPORTANT</b>: Please disable AdBlock or Privacy Badger when submitting the <i>Contact Form</i> or subscribing to the <i>Newsletter</i>! If you don't, we won't receive your request.</div></p>
+<br>
 
-<!-- <img style="float: right;" src="../assets/ext_images/nijmegen_doodle_big.jpg" width="20%" height="42%" vspace="0%"> -->
+<!-- ### <span style="color:#004777"> Contact Form </span> -->
 
-[**Register now**](https://openmrbenelux.github.io/page-registration/)!
+<html>
 
-<p><div style="text-align: justify">Like many other fields, MRI research greatly profits from the collaboration between researchers, users, developers, and industry. With OpenMR Benelux 2020, we want to demonstrate how an increasingly open network can help us create innovative solutions to problems we face.</div></p>
-<p><div style="text-align: justify">With a wide range of topics, our goal is to welcome attendees from technical or clinical backgrounds and to discuss open science practices in magnetic resonance imaging research. Topics will range from open data science practices and new initiatives in scientific publishing to practical introductions to open source software, version control, and a variety of open source MRI toolboxes.</div></p>
-<p><div style="text-align: justify">Our goal is to have something for everyone and to create enough opportunities for discussion, learning from each other, and working together on innovative solutions.</div></p>
+<head>
+    <script type="text/JavaScript">
+        function showMessage(){
+            //window.alert("Done"); 
+            //$("#contact-form")[0].reset();
+            // var message = document.getElementById("message").value; 
+            // display_message.innerHTML= message; 
+        }
+    </script>
 
-![alt text](../assets/ext_images/post_separator.png)
+    <style>
+    <!-- body {font-family: Arial, Helvetica, sans-serif;} -->
 
-## <span style="color:#004777"> Event format </span>
+    form {
+      display: block;
+      width: 50%;
+      float: left;
+      padding-right: 4%;
+      <!-- border: 3px solid #f1f1f1; -->
+      <!-- font-family: Arial; -->
+    }
 
-<p><div style="text-align: justify">OpenMR Benelux 2020 is not a typical academic conference. We take inspiration from the hacking culture and the unconventional styles of <a href="http://www.brainhack.org/about.html">BrainHack</a> and <a href="https://improvingpsych.org/">SIPS</a>. Instead of only listening to talks, we encourage you to participate in open discussion. In contrast to purely consuming information, we encourage participants to work together and generate new information. Instead of the standard "keynote, symposium, poster session" scenario, we offer a collaborative environment with a variety of activities.</div></p>
-<p><div style="text-align: justify">OpenMR Benelux will span 3 days, 21-23 January 2020, during which participants can take part in the following main activities:</div></p>
+    .container {
+      padding: 20px;
+      <!-- background-color: #f1f1f1;-->
+    }
 
-* <p><div style="text-align: justify"><b>Talks</b>: the opening day of OpenMR Benelux will be filled with talks and discussions on a variety of topics applicable to open science in MRI, similar to OpenMR Benelux 2019.</div></p>
-* <p><div style="text-align: justify"><b>HackTrack</b>: this year, we will also host a hackathon! Participants are welcome to suggest their own projects or join an existing project. Hacking will take place on days 2 to 3.</div></p>
-* <p><div style="text-align: justify"><b>TrainTrack</b>: in parallel to the HackTrack, we have worked out a full program for those who want to get more hands-on experience with tools for conducting open research in MRI, including version control with git, Python, Jupyter Notebooks, Docker, and a treasure-trove of toolbox demos.</div></p>
+    input[type=text], input[type=email], textarea {
+      width: 100%;
+      padding: 12px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+    }
 
-<p><div style="text-align: justify">Apart from the talks on the opening day and the planned time slots for the TrainTrack sessions, there's no defined structure to the event. Participants are welcome to use the collaborative environment to start their own unconference-like discussions in parallel to the TrainTrack or HackTrack, or start off with a hackathon project and later join the toolbox demos in the HackTrack. We want you to enjoy yourself, learn, and collaborate in whichever way works for you!</div></p>
+    input[type=submit], input[type=reset] {
+      width: 20%;
+      padding: 12px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+    }
 
-![alt text](../assets/ext_images/post_separator.png)
+    input[type=checkbox] {
+      margin-top: 16px;
+    }
 
-## <span style="color:#004777"> Venue and dates </span>
+    input[type=submit] {
+      background-color: #004777;
+      color: white;
+      border: none;
+    }
 
-<p><div style="text-align: justify">We are happy to host this year's event at the <b>Donders Institute for Cognition, Brain and Behaviour in Nijmegen, The Netherlands</b>.</div></p>
-<p><div style="text-align: justify">OpenMR Benelux will span 3 days, 21-23 January 2020.</div></p>
-<p><div style="text-align: justify">We specifically chose the venue and dates to be close to the annual meeting of the <a href="https://www.ismrm-benelux.org/">ISMRM Benelux chapter</a>, which takes place on 24 January at the Burgers' Zoo in Arnhem. So come to Nijmegen to share, collaborate, and learn, and then hop on a quick train to Arnhem to continue your journey through the interesting world of MRI!</div></p>
+    input[type=submit]:hover {
+      opacity: 0.8;
+    }
+ 
+    .line { 
+      height: 75%; 
+      position:absolute; 
+      left: 48%;
+      width: 1px;
+      background: #ccc;
+      z-index: 1; 
+     } 
 
-![alt text](../assets/ext_images/post_separator.png)
+    </style>
 
-## <span style="color:#004777"> Program </span>
+</head>
+<body>
 
-<p><div style="text-align: justify">To get a sense of the talk topics, speakers, TrainTrack workshops, demos, and hackathon projects, head over to the <a href="https://openmrbenelux.github.io/page-program"><b>Program Page</b></a>.</div></p>
+<div class="line"></div>
 
-![alt text](../assets/ext_images/post_separator.png)
+<form id="contact-form" action="https://script.google.com/macros/s/AKfycbxFvlT1LVB4mrKHuMl0-HkOb62QP4n_rFHm8-6vH7Zhe_CcQ8XX/exec">
 
-## <span style="color:#004777"> Registration </span> 
+<h2 style="font-family:Courier New; color:#004777; opacity:0.7">Contact Form</h2>
+  
+  <div class="form-group">
+    <label>Name:</label>
+    <input type="text" name="Name" placeholder="Name" class="form-control" required>
+  </div>
 
-<p><div style="text-align: justify">Registration for OpenMR Benelux is OPEN! It closes on 20 December 2019 and we have limited space, so don't waste time: <a href="https://openmrbenelux.github.io/page-registration"><b>Register now</b></a>!</div></p>
-<p><div style="text-align: justify">This year, we charge a registration fee of €50, which covers attendance costs including lunch, coffee/tea, and snacks over the course of the event. You will have to take care of travelling and accommodation yourself or through your research institution. Attendance certificates will be sent out electronically after the event to assist with your expense claims.</div></p>
+  <div class="form-group">
+    <label>Surname:</label>
+    <input type="text" name="Surname" placeholder="Surname" class="form-control" required>
+  </div>
+  
+  <div class="form-group">
+    <label>E-mail:</label>
+    <input type="email" name="E-mail" placeholder="E-mail" class="form-control" required>
+  </div>
+  
+  <div class="form-group">
+    <label>Questions or feedback?</label>
+    <!-- <input type="text" name="Message" placeholder="Message" required> -->
+    <textarea rows="5" name="Message" placeholder="Questions or feedback?" class="form-control" required></textarea>
+  </div>
 
-![alt text](../assets/ext_images/post_separator.png)
+  <div class="form-group">
+    <input id="Newsletter" type="checkbox" checked="checked" name="Newsletter" value="true" class="form-control"><label for="Newsletter"> Subscribe to our Newsletter to receive the latest updates.</label>
+  </div>
+
+  <br>
+
+  <div>
+    <!-- Enter message: <input type="text" id = "message"> -->
+    <!-- <button type="submit" id="submit-form" value="Submit" onclick="showMessage()" >Submit</button> -->
+    <input type="submit" id="submit-form" value="Submit" class="form-control">
+    <input type="reset" id="reset-form" value="Reset" class="form-control">
+ </div>
+
+</form>
+
+<!-- ### <span style="color:#004777"> Newsletter </span> -->
+
+<form id="subscribe-form" action="https://script.google.com/macros/s/AKfycbxFvlT1LVB4mrKHuMl0-HkOb62QP4n_rFHm8-6vH7Zhe_CcQ8XX/exec">
+
+<h2 style="font-family:Courier New; color:#004777; opacity:0.7">Newsletter</h2> 
+
+  <div class="form-group">
+    <label>E-mail:</label>
+    <input type="email" name="E-mail" placeholder="E-mail" class="form-control" required>
+  </div>
+
+  <div class="form-group">
+    <input id="Newsletter" type="checkbox" checked="checked" name="Newsletter" value="true" class="form-control" required><label for="Newsletter"> Subscribe to our Newsletter to receive the latest updates.</label>
+  </div>
+  
+  <br>
+
+  <div>
+    <!-- Enter message: <input type="text" id = "message"> -->
+    <!-- <button type="submit" id="submit-form" value="Submit" onclick="showMessage()" >Submit</button> -->
+    <input type="submit" id="submit-form" value="Subscribe" class="form-control">
+    <input type="reset" id="reset-form" value="Reset" class="form-control">
+ </div>
+
+</form>
+
+<!-- <p> Message is: <span id = "display_message"></span> </p> -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src='../contact.js'></script>
+<script src='../subscribe.js'></script>
+
+</body>
+</html>
