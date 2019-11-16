@@ -76,14 +76,15 @@ show_sidebar: false
 
 <p align=" justify">The preliminary program for OpenMR Benelux 2020 is shown below. <br><br> The event will span three days during which participants can take part in the following main activities:
 <UL>
-   <LI><b>Tuesday 21 January</b> - <b>Talks</b>: the opening day of OpenMR Benelux will be filled with talks and discussions on a variety of topics applicable to open science in MRI, similar to OpenMR Benelux 2019.</LI>
-<LI><b>Wednesday and Thursday 22+23 January</b> - <b>HackTrack</b>: this year, we will also host a hackathon! Participants are welcome to suggest their own projects or join an existing project. Head over to our <a href="https://github.com/OpenMRBenelux/openmrb2020-hackathon">hackathon repository</a> to browse projects or to suggest your own.</LI>
-<LI><b>Wednesday and Thursday 22+23 January</b> - <b>TrainTrack</b>: In parallel to the HackTrack, we have worked out a full program for those who want to get more hands-on experience with tools for conducting open research in MRI, including version control with git, Python, Jupyter Notebooks, Docker, and a treasure-trove of toolbox demos.</LI>
+   <LI><b>Tuesday <a href="https://openmrbenelux.github.io/page-program#day1">21 January</a></b> - <b>Talks</b>: the opening day of OpenMR Benelux will be filled with talks and discussions on a variety of topics applicable to open science in MRI, similar to OpenMR Benelux 2019.</LI>
+<LI><b>Wednesday and Thursday <a href="https://openmrbenelux.github.io/page-program#day2">22</a>+<a href="https://openmrbenelux.github.io/page-program#day3">23</a> January</b> - <b>HackTrack</b>: this year, we will also host a hackathon! Participants are welcome to suggest their own projects or join an existing project. Head over to our <a href="https://github.com/OpenMRBenelux/openmrb2020-hackathon">hackathon repository</a> to browse projects or to suggest your own.</LI>
+<LI><b>Wednesday and Thursday <a href="https://openmrbenelux.github.io/page-program#day2">22</a>+<a href="https://openmrbenelux.github.io/page-program#day3">23</a> January</b> - <b>TrainTrack</b>: in parallel to the HackTrack, we have worked out a full program for those who want to get more hands-on experience with tools for conducting open research in MRI, including version control with git, Python, Jupyter Notebooks, Docker, and a treasure-trove of toolbox demos.</LI>
 </UL>
 </p>
 
 <p>&nbsp;</p>
 
+<a name="day1"></a>
 <div style="overflow-x:auto;">
 <table width="100%" cellspacing="0" cellpadding="2" class="fixed">
     <col width="150px" />
@@ -439,6 +440,7 @@ show_sidebar: false
 <!--<p><br><br><strong>Wednesday and Thursday, 22-23 January 2020 </strong>: Parallel sessions for <strong>hackathons</strong> and <strong>training workshops</strong> will take place.</p>-->
 
 <p>&nbsp;</p>
+<a name="day2"></a>
 <div style="overflow-x:auto;">  
 <table width="100%" cellspacing="0" cellpadding="2" class="fixed">
     <col width="150px" />
@@ -645,7 +647,7 @@ show_sidebar: false
 </div>
 
 <p>&nbsp;</p>
-
+<a name="day3"></a>
 <div style="overflow-x:auto;">  
 <table width="100%" cellspacing="0" cellpadding="2" class="fixed">
     <col width="150px" />
