@@ -8,13 +8,15 @@ show_sidebar: false
 
 ## <span style="color:#004777"> This year's event will be awesome! </span> 
 
-<img style="float: right;" src="../assets/ext_images/nijmegen_doodle_big.jpg" width="20%" height="42%" vspace="0%">
+<!-- <img style="float: right;" src="../assets/ext_images/nijmegen_doodle_big.jpg" width="20%" height="42%" vspace="0%"> -->
 
 [**Register now**](https://openmrbenelux.github.io/page-registration/)!
 
 <p><div style="text-align: justify">Like many other fields, MRI research greatly profits from the collaboration between researchers, users, developers, and industry. With OpenMR Benelux 2020, we want to demonstrate how an increasingly open network can help us create innovative solutions to problems we face.</div></p>
 <p><div style="text-align: justify">With a wide range of topics, our goal is to welcome attendees from technical or clinical backgrounds and to discuss open science practices in magnetic resonance imaging research. Topics will range from open data science practices and new initiatives in scientific publishing to practical introductions to open source software, version control, and a variety of open source MRI toolboxes.</div></p>
 <p><div style="text-align: justify">Our goal is to have something for everyone and to create enough opportunities for discussion, learning from each other, and working together on innovative solutions.</div></p>
+
+![alt text](../assets/ext_images/post_separator.png)
 
 ## <span style="color:#004777"> Event format </span>
 
@@ -27,17 +29,25 @@ show_sidebar: false
 
 <p><div style="text-align: justify">Apart from the talks on the opening day and the planned time slots for the TrainTrack sessions, there's no defined structure to the event. Participants are welcome to use the collaborative environment to start their own unconference-like discussions in parallel to the TrainTrack or HackTrack, or start off with a hackathon project and later join the toolbox demos in the HackTrack. We want you to enjoy yourself, learn, and collaborate in whichever way works for you!</div></p>
 
+![alt text](../assets/ext_images/post_separator.png)
+
 ## <span style="color:#004777"> Venue and dates </span>
 
 <p><div style="text-align: justify">We are happy to host this year's event at the <b>Donders Institute for Cognition, Brain and Behaviour in Nijmegen, The Netherlands</b>.</div></p>
 <p><div style="text-align: justify">OpenMR Benelux will span 3 days, 21-23 January 2020.</div></p>
 <p><div style="text-align: justify">We specifically chose the venue and dates to be close to the annual meeting of the <a href="https://www.ismrm-benelux.org/">ISMRM Benelux chapter</a>, which takes place on 24 January at the Burgers' Zoo in Arnhem. So come to Nijmegen to share, collaborate, and learn, and then hop on a quick train to Arnhem to continue your journey through the interesting world of MRI!</div></p>
 
+![alt text](../assets/ext_images/post_separator.png)
+
 ## <span style="color:#004777"> Program </span>
 
 <p><div style="text-align: justify">To get a sense of the talk topics, speakers, TrainTrack workshops, demos, and hackathon projects, head over to the <a href="https://openmrbenelux.github.io/page-program"><b>Program Page</b></a>.</div></p>
+
+![alt text](../assets/ext_images/post_separator.png)
 
 ## <span style="color:#004777"> Registration </span> 
 
 <p><div style="text-align: justify">Registration for OpenMR Benelux is OPEN! It closes on 20 December 2019 and we have limited space, so don't waste time: <a href="https://openmrbenelux.github.io/page-registration"><b>Register now</b></a>!</div></p>
 <p><div style="text-align: justify">This year, we charge a registration fee of €50, which covers attendance costs including lunch, coffee/tea, and snacks over the course of the event. You will have to take care of travelling and accommodation yourself or through your research institution. Attendance certificates will be sent out electronically after the event to assist with your expense claims.</div></p>
+
+![alt text](../assets/ext_images/post_separator.png)
