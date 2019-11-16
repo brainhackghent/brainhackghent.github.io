@@ -7,10 +7,9 @@ show_sidebar: false
 ---
 
 ## <span style="color:#004777"> Contact us at openmrbenelux@gmail.com </span>
-Questions or feedback? Do not hesitate and use the *Contact Form* to send us an e-mail at openmrbenelux@gmail.com. We will answer you as soon as possible, to the best of our abilities! 
-You are also welcome to subscribe to our *Newsletter* to receive the latest updates regarding the program and more. You will also be among the first to know when registration opens!  
-<br>
-**IMPORTANT**: Please disable AdBlock or Privacy Badger when submitting the *Contact Form* or subscribing to the *Newsletter*! If you don't, we won't receive your request.  
+<p><div style="text-align: justify">Questions or feedback? Do not hesitate and use the <i>Contact Form</i> to send us an e-mail at openmrbenelux@gmail.com. We will answer you as soon as possible, to the best of our abilities! 
+You are also welcome to subscribe to our <i>Newsletter</i> to receive the latest updates regarding the program and more. You will also be among the first to know when registration opens!</div></p>
+<p><div style="text-align: justify"><b>IMPORTANT</b>: Please disable AdBlock or Privacy Badger when submitting the <i>Contact Form</i> or subscribing to the <i>Newsletter</i>! If you don't, we won't receive your request.</div></p>
 <br>
 
 <!-- ### <span style="color:#004777"> Contact Form </span> -->
