@@ -20,7 +20,7 @@ hero_image: assets/ext_images/home_logo.jpg
 
 ## <span style="color:#004777"> Who are we? </span>  
 
-<img style="float: right;" src="assets/ext_images/side-column-team.jpg" width="30%" height="20%" vspace="0%" padding-left="2%">
+<img style="float: right;" src="assets/ext_images/side-column-team.jpg" width="30%" height="20%" vspace="1%">
 
 <p><div style="text-align: justify">We are a community of students, research faculty and professionals who want to create an open forum for people working in MRI research to learn about and discuss open science practices.</div></p> 
 <p><div style="text-align: justify">We focus on working together on implementable solutions in all forms: software toolboxes, process descriptions, community projects, knowledge-sharing initiatives and more. Open discussion is central to our event and we foster open-minded attitudes and a readiness to participate. Interested in joining? See our next event! Want to see the people working hard in the background to make this a success? Meet the <a href="./page-team">Team</a>!</div></p> 
