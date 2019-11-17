@@ -15,6 +15,11 @@ show_sidebar: false
 table.fixed { table-layout: fixed; }
 
 img {
+  width: 30%;
+  height: auto;
+  display: inline-block;
+}
+.img1 {
   width: 18%;
   height: auto;
   display: inline-block;
@@ -36,7 +41,7 @@ img {
 
 <a name="top"></a>
 <p align=" justify">The preliminary program for OpenMR Benelux 2020 is shown below.</p>
-<img style="float: right;" src="../assets/ext_images/interaction.jpg" width="560" height="560" vspace="10px" hspace="20px">
+<img class="img1" style="float: right;" src="../assets/ext_images/interaction.jpg" width="560" height="560" vspace="10px" hspace="20px">
 <p align=" justify">The event will span three days during which participants can take part in the following main activities:
 <UL>
 <LI><b>Tuesday <a href="../page-program#day1">21</a> January</b> - <b>Talks</b>: the opening day of OpenMR Benelux will be filled with talks and discussions on a variety of topics applicable to open science in MRI, similar to OpenMR Benelux 2019.</LI>
