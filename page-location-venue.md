@@ -9,9 +9,20 @@ show_sidebar: false
 
 <!-- ## Location and venue information -->
 
+<a name="top"></a>
 ## <span style="color:#004777"> Nijmegen, The Netherlands </span> 
 
 <style>
+img {
+  width: 30%;
+  height: auto;
+  display: inline-block;
+}
+.img1 {
+  width: 20%;
+  height: auto;
+  display: inline-block;
+}
 .google-maps {
     position: relative;
     padding-bottom: 40%; // This is the aspect ratio
@@ -30,13 +41,13 @@ show_sidebar: false
 
 <div style="text-align: justify">OpenMR Benelux 2020 will take place at the <a href="https://www.ru.nl/donders/"><b>Donders Institute for Cognition, Brain and Behaviour</b></a> in <b>Nijmegen, The Netherlands</b>.</div>
 
-<img style="float: right;" src="../assets/ext_images/nijmegen_doodle_big.jpg" width="16%" height="38%" vspace="1%">
+<img class="img1" style="float: right;" src="../assets/ext_images/nijmegen_doodle_big.jpg" width="240" height="80" vspace="20px">
 
 <div class="google-maps">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7284.6116696731115!2d5.854683034990987!3d51.818830478283964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c708eeef1a7ddf%3A0x3383a57205a4a83e!2sDonders!5e0!3m2!1snl!2sbe!4v1565820333583!5m2!1snl!2sbe" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
-![alt text](../assets/ext_images/post_separator.png)
+<img src="../assets/ext_images/post_separator.png" alt="text"> 
 
 ## <span style="color:#004777"> How to get there? </span> 
 
@@ -56,10 +67,7 @@ show_sidebar: false
 }
 .padding {
   padding-left: 0cm;
-
-}
-
-}                                                                                                 
+}                                                    
 </style>
 
 <div style="text-align: justify">In addition to interesting information about Nijmegen, the <a href="https://en.visitnijmegen.com/traveller-information/getting-here">website of the official tourist office of Nijmegen</a>, has very clear information on getting there! 
@@ -77,4 +85,6 @@ show_sidebar: false
 <li><div class="padding" style="text-align: left;"><div style="text-align: justify">Remember! You also need to check out again at one of the card-readers when you arrive at your destination. If you are travelling by bus, tram, or metro, <b>you should check in and out as you get on and off</b>.</div></div></li>
 </ul>
 
-![alt text](../assets/ext_images/post_separator.png)
+<img src="../assets/ext_images/post_separator.png" alt="text"> 
+<br>
+<a href="../page-location-venue#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
