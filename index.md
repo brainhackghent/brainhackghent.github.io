@@ -14,6 +14,7 @@ img {
 }
 </style>
 
+<a name="top"></a>
 ## <span style="color:#004777"> OpenMR Benelux 2020 </span> 
 
 <img style="float: right;" src="assets/ext_images/side-column-openmr2020.jpg" width="400" height="80" vspace="10px">
@@ -35,3 +36,5 @@ img {
 <p><div style="text-align: justify">The first edition of OpenMR Benelux in 2019 was a blast! You can check out last year’s program, speakers, and more at <a href="https://openmrbenelux.github.io/openmrb2019/">OpenMR Benelux 2019</a>.</div></p> 
 
 <img src="assets/ext_images/post_separator.png" alt="text">
+<br>
+<a href="../index#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
