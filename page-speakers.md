@@ -12,6 +12,10 @@ show_sidebar: false
 <html>
 <head>
 <style>
+table tr:nth-of-type(3n) td {
+    border-bottom: 2px solid #004777;
+}
+
 .accordion:after {
   content: '\002B'; /* Unicode character for "plus" sign (+) */
   font-size: 13px;
@@ -95,6 +99,20 @@ show_sidebar: false
   <p align="justify" style="font-family: arial;"><br>Cass is a postdoctoral researcher at the University of Oxford Department of Psychiatry. She provides support for (f)MRI experimental design and analysis in the investigation of treatments for mood disorders. In this role, she has to stay up to speed with the leading edge of analytic tools, and is constantly on the lookout for tips, tricks, and techniques to make this research quicker, slicker, and more effective. This goes hand-in-hand with making the research more transparent and reproducible, and freely sharing the outputs of our labour. She is a contributor to <a href="https://the-turing-way.netlify.com/introduction/introduction">The Turing Way</a> and works with the <a href="https://www.win.ox.ac.uk/open-neuroimaging/open-neuroimaging-project">Wellcome Centre for Integrative Neuroimaging Open Community Team</a>. She is a passionate believer in accessibility and the equitable dissemination of knowledge, and spends a lot of time showing people that programming isn’t scary.</p>
 </div>
 </td>
+</tr>                                                                                                                                  
+<tr> 
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>Diving Into Metascience – Doing Research on Research</b><br><br>Marjan Bakker will build her talk around the replication crisis in science. She will show examples of p-hacking and will discuss the surprising fraction of confirmed hypotheses. This is not only a problem in psychology attest examples of failure to replicate studies in other fields. She pleads for preregistration of hypothesis, study-design and analysis plan to minimize the researcher’s degrees of freedom.</p>
+</div>
+</td>
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>Analytical Flexibility and Questionable Research Practices in MRI</b><br><br>The number of methods available for MRI analysis is growing every year. Each of these methods requires the specification of a bewildering array of parameters, not all of which are amenable to optimisation by consensus. The combination of these factors leads to an almost infinite number of ways in which we may analyse our data, and accordingly and infinite number of results which we may choose to report, or not. In this talk I will discuss concerns of such analytic flexibility and the draw of questionable research practices to help uncover the "publishable story" in our data. I will present recent developments in our discipline which may assist the identification of robust effects, and what individual actions we may take in order to retain confidence in our own findings.</p>
+</div>
+</td>
 </tr>
 
 <tr>
@@ -108,12 +126,10 @@ show_sidebar: false
   twitter="https://www.twitter.com/pim_pullens" %}
 </td>
 <td width="500px" align="left" valign="center">
-<a name="joao"></a>
+<a name="law"></a>
 {% include speaker-card.html
-  avatarurl="Joao.jpg"
-  profilename="Joao Periquito" 
-  affiliation="Berlin Ultrahigh Field Facility (B.U.F.F.), Berlin, Germany"
-  city="Berlin, Germany" %}
+  avatarurl="tba.png"
+  profilename="TBA" %}
 </td>
 </tr>
 <tr>
@@ -126,12 +142,34 @@ show_sidebar: false
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>João is currently finishing his PhD at Berlin Ultrahigh Field Facility (B.U.F.F.), Berlin, Germany. His research is focused on development of new diagnosis techniques for renal MRI. Open-source invaded his heart when he realized that he did not need to spend 1 year implementing an algorithm because someone kind went the extra mile and publish a well documented open-source tool that others can use to their purposes. João is also involved in the project: Opensourceimaging.org (OSI²), a creative community of volunteers with the aim of facilitate medical devices to more people all around the world.</p>
+  <p align="justify" style="font-family: arial;"><br>TBA</p>
+</div>
+</td>
+</tr>                                                                                                                                  
+<tr> 
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>How can Open Science Contribute to (Clinical) Research in Radiology?</b><br><br>This talk will be geared towards the question on how open science can contribute to applied research in neuroscience and radiology.</p>
+</div>
+</td>
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>Open Science in the Context of Companies, Intellectual Property, and Collaborative Research</b><br><br>There is an interesting interplay between open science practices in publicly funded research and intellectual property and patenting in for-profit companies. This especially comes to light when such research institutions and companies collaborate, which is often the case in MRI-related work. For example, both companies and universities could be doing interesting and important work together, but apparent goals might differ: for universities it might be to publish papers and adhere to funding criteria; for companies it might be to secure a patent and monetize the work.Do these approaches necessarily contradict each other? How should they co-exist (if they can)? What should companies be doing, if anything, to improve or interact with open science practices? What should universities and research institutions be doing, if anything, to engage with companies in open science practices. This talk will explore these questions.</p>
 </div>
 </td>
 </tr>
 
 <tr>
+<td width="500px" align="left" valign="center">
+<a name="joao"></a>
+{% include speaker-card.html
+  avatarurl="Joao.jpg"
+  profilename="Joao Periquito" 
+  affiliation="Berlin Ultrahigh Field Facility (B.U.F.F.), Berlin, Germany"
+  city="Berlin, Germany" %}
+</td>
 <td width="500px" align="left" valign="center">
 <a name="daniele"></a>
 {% include speaker-card.html
@@ -144,6 +182,37 @@ show_sidebar: false
   git="https://github.com/danielemarinazzo"
   researchgate="https://www.researchgate.net/profile/Daniele_Marinazzo" %}
 </td>
+</tr>
+<tr>
+<td width="500px">
+<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>João is currently finishing his PhD at Berlin Ultrahigh Field Facility (B.U.F.F.), Berlin, Germany. His research is focused on development of new diagnosis techniques for renal MRI. Open-source invaded his heart when he realized that he did not need to spend 1 year implementing an algorithm because someone kind went the extra mile and publish a well documented open-source tool that others can use to their purposes. João is also involved in the project: Opensourceimaging.org (OSI²), a creative community of volunteers with the aim of facilitate medical devices to more people all around the world.</p>
+</div>
+</td>
+<td width="500px">
+<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>Daniele Marinazzo is an associate professor in the Department of Data Analysis of the Faculty of Psychology and Educational Sciences at Ghent University. His team focuses on methodological and computational aspects of neuroscience research, and on the dynamical networks subserving function, as well as thorough statistical validation of the results. They develop new techniques for inferring connectivity architectures from the dynamics of the recorded data, in challenging cases of short, noisy and redundant time series, as those encountered in neuroimaging. Daniele cares about open science and ways to improve the review/editorial process. He is an editor at several journals in his field, including PLOS Computational Biology, PLOS One, NeuroImage, Brain Topography, Network Neuroscience. Visit Daniele’s <a href="https://publons.com/researcher/663417/daniele-marinazzo">Publons review profile</a> for more.</p>
+</div>
+</td>
+</tr>
+<tr> 
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>The Open Source Imaging Initiative</b><br><br>MR technology is one of the most powerful medical tool ever made, yet it is not available in many places around the world. How can we change that? Make the technology cheaper? Would be a good start, but it is not enough! We need sustainable long term solutions. By applying the open-source strategy it is possible to use the immense potential of the research community in a more efficient way by means of collaboration. This will trigger innovation, customization and cost-efficiency, but will also lead to local/regional production and knowhow transfer into regions, that desperately need it. An open source strategy would furthermore diffuse into all important areas of our healthcare system, such as: technological optimization, scientific progress, regulatory harmonization, democratized markets, device safety, global health, education and many more. Not less than that is our vision of the open source imaging initiative (OSI²) with our communication platform around <a href="http://www.opensourceimaging.org./">www.opensourceimaging.org</a>. We focus on sharing and not competing, because this is healthier to all of us. In this presentation we will give an update on the workings of OSI², what happened so far, what is about to happen very soon.<br><br>/* spoiler alert */ The world's first open source hardware standard will be released soon and we are preparing the open source documentation of a first open source hardware MRI that makes quite decent images. Our efforts are on voluntary basis and we are open to all who want to join and who support our vision.</p>
+</div>
+</td>
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>Current and Future Scenarios for Open Scientific Publishing and Reviewing</b><br><br>Communicating our research is a fundamental part of our work as scientists, and a duty towards the society. Typically this communication happens through articles published in scientific journals, after having been reviewed by our peers. We will discuss several aspects of scholarly communication and in particular of scientific publishing and peer review. Some of these aspects are (un-)surprisingly in clear contrast with the idea of science as an open and collaborative public mission. Several solutions and improvements have been proposed and sometimes implemented over the years; on some of them there’s wide consensus, on others there is not. And even when there is consensus to change, the change is slow. We will explore the state of the art and different future perspectives, and discuss our experiences and expectations.</p>
+</div>
+</td>
+</tr>
+
+<tr>
 <td width="500px" align="left" valign="center">
 <a name="kirstie"></a>
 {% include speaker-card.html
@@ -161,19 +230,19 @@ show_sidebar: false
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>Daniele Marinazzo is an associate professor in the Department of Data Analysis of the Faculty of Psychology and Educational Sciences at Ghent University. His team focuses on methodological and computational aspects of neuroscience research, and on the dynamical networks subserving function, as well as thorough statistical validation of the results. They develop new techniques for inferring connectivity architectures from the dynamics of the recorded data, in challenging cases of short, noisy and redundant time series, as those encountered in neuroimaging. Daniele cares about open science and ways to improve the review/editorial process. He is an editor at several journals in his field, including PLOS Computational Biology, PLOS One, NeuroImage, Brain Topography, Network Neuroscience. Visit Daniele’s <a href="https://publons.com/researcher/663417/daniele-marinazzo">Publons review profile</a> for more.</p>
-</div>
-</td>
-<td width="500px">
-<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
-<div class="panel">
   <p align="justify" style="font-family: arial;"><br>TBA</p>
 </div>
 </td>
+</tr>                                                                                                                                  
+<tr> 
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>The Turing Way: Reproducible, Inclusive, Collaborative Data Science</b><br><br>Reproducible research is necessary to ensure that scientific work can be trusted. By sharing data, analysis code, and the computational environment used to generate the results, researchers can more effectively stand on the shoulders of their peers and colleagues and deliver high quality, trustworthy, and verifiable outputs. This requires skills in data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers. Skills that are unreasonable, in fact, to expect in one individual team member.<br><br>The Turing Way is a handbook to support students, their supervisors, funders, and journal editors in ensuring that reproducible research is "too easy not to do". It includes training material on version control, analysis testing, collaborating in distributed groups, open and transparent communication skills, and effective management of diverse research projects. The Turing Way is openly developed and any and all questions, comments, and recommendations are welcome at our GitHub repository: <a href="https://github.com/alan-turing-institute/the-turing-way">https://github.com/alan-turing-institute/the-turing-way</a>.<br><br>In this talk, Kirstie Whitaker, lead developer of The Turing Way, will take you on a whirlwind tour of the chapters that already exist, the interactive demonstrations you can use and re-use for your own research, and the directions in which we're continuing to develop. All participants will leave the talk knowing that "Every Little Helps" when making their work reproducible, where to ask for help as they start or continue their open research journey, and how they can contribute to improve The Turing Way for future readers.</p>
+</div>
+</td>
 </tr>
-
 </table>
-
 </div>
 
 <h3 style="color:#004777"> Wednesday, 22 January 2020 </h3>
@@ -216,6 +285,20 @@ show_sidebar: false
   <p align="justify" style="font-family: arial;"><br>Remi is a postdoctoral fellow in the Crossmodal Perception and Plasticity laboratory (<a href="https://cpplab.be" >CPP-Lab</a>) at the Université catholique de Louvain. His work focuses on the multisensory aspects of perception and he uses high-resolution MRI to address these questions. He sees in open science a way to a) build a more inclusive research community based on cooperation rather than competition and b) addresses some of the replicability and reproducibility issues that are affecting many areas of science.</p>
 </div>
 </td>
+</tr>                                                                                                                                  
+<tr> 
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>Reproducibility in Decoded: Case Studies from Data-Intensive Sciences</b><br><br>Reproducibility in research is one of the main building blocks of the scientific method. However, there is rising concern about reproducibility in current scientific research that reduces the reliability of published findings in various domains. In this workshop, we will learn about the tools and practices that will help us to improve the reproducibility of our own research pipeline. Based on the book <a href="https://www.practicereproducibleresearch.org/">The Practice of Reproducible research</a>, I will first introduce reproducible research workflows by providing case-study examples. In the second part, participants will walk through their own research pipeline and create their own reproducible research workflow. In small working groups, participants will reflect on their own computational practices and learn how they can improve the reproducibility of their own research workflow.</p>
+</div>
+</td>
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>Software Version Control with git and GitHub</b><br><br>TBA</p>
+</div>
+</td>
 </tr>
 
 <tr>
@@ -254,6 +337,20 @@ show_sidebar: false
   <p align="justify" style="font-family: arial;"><br>Serena Bonaretti is founder and research scientist at <a href="https://sbonaretti.github.io/transparentMSKresearch.html">Transparent MSK Research</a>. Previously, she was research scientist and postdoctoral fellow at the Departments of Radiology at Stanford University and University of California, San Francisco. She holds a PhD in Biomedical Engineering from the University of Bern, Switzerland. Her background is image acquisition, image processing, and biomechanics to investigate aging diseases of the musculoskeletal system. She has recently released <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsbonaretti.github.io%2FpyKNEEr%2F&data=02%7C01%7Ce.oei%40erasmusmc.nl%7C6137dad6bbfd42f536c408d6d3bc5313%7C526638ba6af34b0fa532a1a511f4ac80%7C0%7C0%7C636929203142714487&sdata=kWnO3g%2F3wM%2F0vQJmjgETe6wJVf%2Fxi2BxmkSS4%2F4f2Sk%3D&reserved=0">pyKNEEr</a>, an image analysis workflow for open and reproducible research on femoral knee cartilage. Previously, she developed <a href="https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwebapps.radiology.ucsf.edu%2Frefline%2F&data=02%7C01%7Ce.oei%40erasmusmc.nl%7C6137dad6bbfd42f536c408d6d3bc5313%7C526638ba6af34b0fa532a1a511f4ac80%7C0%7C0%7C636929203142724500&sdata=kjT0exJ6lnMijM1Gd8CnYyUV7nKUy15PYM%2F6Hn0RINo%3D&reserved=0">Reference line</a>, a web application to train and evaluate HR-pQCT operators. As a member of the quantitative musculoskeletal imaging (QMSKI) working group for transparent research, she is creating hands-on <a href="https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FQMSKI%2FTransparentQMSKI%2Fwiki&data=02%7C01%7Ce.oei%40erasmusmc.nl%7C6137dad6bbfd42f536c408d6d3bc5313%7C526638ba6af34b0fa532a1a511f4ac80%7C0%7C0%7C636929203142734504&sdata=vCR7GAdJJOzI4JoiJSvH66D%2BO2iQDyP18pPaLFh5%2FcI%3D&reserved=0">guidelines</a> on how to conduct open and reproducible research.</p>
 </div>
 </td>
+</tr>                                                                                                                                  
+<tr> 
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>Software Version Control with git and GitHub</b><br><br>TBA</p> 
+</div>
+</td>
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>The Basics of Python and Jupyter Notebooks for Medical Image Analysis</b><br><br>Python and Jupyter notebooks are becoming more and more essential tools to conduct open and reproducible research. In this workshop, we will first briefly discuss how these tools can facilitate transparent science. Then, we will have a hands-on session where we will code in Jupyter notebook using Python. We will create reproducible workflows using packages that are both basic and specific for medical image analysis (e.g. SimpleITK). Information and materials are available at <a href="https://github.com/sbonaretti/2020_OpenMR_jupyter">https://github.com/sbonaretti/2020_OpenMR_jupyter</a>.</p>
+</div>
+</td>
 </tr>
 
 <tr>
@@ -274,6 +371,14 @@ show_sidebar: false
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
   <p align="justify" style="font-family: arial;"><br>I am a PhD student at the Psychology Department of the University of Amsterdam, supervised by Dr. Steven Scholte and Dr. Suzanne Oosterwijk. I’m interested in the neural representation of affective processes such as emotion experience and (facial) emotion perception. Additionally, I’m a methods nerd, interested in novel analyses and statistical methods (for fMRI). Next to my research, I work at the Spinoza Centre for Neuroimaging (UvA), where I provide technical assistance and develop software for automated data management and preprocessing (using Docker!). Throughout the years, I developed a passion for open and transparent (neuro)science, to which I aim to contribute with various open-source projects aimed at improving transparency and reproducibility. </p>
+</div>
+</td>
+</tr>                                                                                                                                  
+<tr> 
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>Introduction to Docker and Binder</b><br><br>With the 'reproducibility crisis' in psychology and neuroscience, there is a trend towards publishing one’s data and code along with the associated article — which is great! Often, however, providing your code is not enough to reproduce your analyses, as it may depend on specific software versions, system requirements, or even operating systems. Docker and Binder are two tools that offer a solution for this! Docker allows you to specify an environment (a Docker container) using a 'recipe' (a Dockerfile), containing the particular (Linux-based) operating system (e.g., Ubuntu 18.04), software packages (FSL 6.0.1 and Python 3.6.1 with scikit-learn 0.21.3), and runtime executables (entrypoint, e.g., my_analysis.py) of your choice. Binder is a less 'complete' solution than Docker, but definitely not less useful! With Binder, you can turn your Git(hub) repository into a collection of interactive Jupyter notebooks, making them instantly reproducibly for anyone. In this workshop, you will get some hands-on experience with writing Dockerfiles and creating Docker containers in a scientific context, as well as getting started with Binder. Some experience with the (Linux) command line interface is useful, but not strictly required.</p>
 </div>
 </td>
 </tr>
@@ -320,6 +425,20 @@ show_sidebar: false
   <p align="justify" style="font-family: arial;"><br>Natalia Bielczyk has a background in Physics, Mathematics and Psychology (3 x MSc), obtained at the College of Interfaculty Studies in Mathematics and Natural Sciences, University of Warsaw. She is now completing her thesis within the Donders Graduate School, Donders Institute for Brain, Cognition and Behavior, Nijmegen, the Netherlands. Her research concerns developing new methods for connectomics in the domain of cognitive neuroimaging, i.e. for functional and effective connectivity research. Natalia also currently holds a position of a Career Development and Mentoring Manager within the <a href="https://www.ohbmtrainees.com/">Organization for Human Brain Mapping Student and Postdoc Special Interest Group</a>, and serves as an eLife Associate within the <a href="https://elifesciences.org/inside-elife/a946c355/elife-community-ambassadors-243-volunteers-join-the-programme-in-2019">eLife Ambassadors community</a>. In private, she is also a dedicated <a href="https://www.nataliabielczyk.com/">blogger</a>, and a speaker, giving workshops and talks about self-development in academia and transitions to industry. In November 2018, she founded Stichting Solaris Onderzoek en Ontwikkeling in a response to lack of assistance for early career researchers in career development in academia and beyond.</p>
 </div>
 </td>
+</tr>                                                                                                                                  
+<tr> 
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>Fostering Open and Inclusive Communities</b><br><br>TBA</p>
+</div>
+</td>
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>Where to Go Next? The Landscape of Post-PhD Career Tracks</b><br><br>There is a growing disparity between the number of new PhD graduates and the available faculty positions. Effectively, most of the PhD graduates needs to find jobs outside academia. Yet, there is little amount of services dedicated to assisting early career researchers in discovering their core competencies, in searching for employers and landing their dream jobs in industry. Ideally, one should anticipate the potential future market sectors after completing the PhD, and focus on developing transferable skills during the PhD on that basis. This however, remains a rare practice in the graduate schools. Therefore, in this workshop, we will assume that you have no prior experience with the job market in industry. We will discuss the following: the demand for PhDs in different branches of industry; paycheck or entrepreneurship? Is a traineeship at a company a good start after a PhD?; defining your key competences, including both hard- and soft skills; searching for employers who are likely to search for these competences; searching for employers who share your personal values; the role of networking in searching for jobs; restructuring your CV and writing a competitive motivational letter; preparing for job interviews.<br><br>The workshop will be interactive: we will debunk certain myths related to the job market with the use of polls and quizzes. Sharing personal experience by participants will be highly encouraged. The goal of the workshop is to give the participants the information and confidence so they can further search for relevant information on their own, and take their first steps towards finding their dream job in industry.</p>
+</div>
+</td>
 </tr>
 
 <tr>
@@ -334,11 +453,16 @@ Brain & Behaviour"
   homepage="https://www.fz-juelich.de/SharedDocs/Personen/INM/INM-7/EN/genon_s.html?nn=654218"
   researchgate="https://www.researchgate.net/profile/Sarah_Genon" %}
 </td>
-  <td width="500px" align="left" valign="center">
-<a name="stephanklein"></a>
+<td width="500px" align="left" valign="center">
+<a name="lyuba"></a>
 {% include speaker-card.html
-  avatarurl="tba.png"
-  profilename="Stefan Klein" %}
+  avatarurl="zehl.png"
+  profilename="Lyuba Zehl"
+  affiliation="Jülich Research Centre, Institute of Neuroscience and Medicine (INM-1), Jülich, Germany"
+  city="Jülich, Germany"
+  git="https://github.com/lzehl"
+  twitter="https://twitter.com/LyubaZehl"
+  researchgate="https://www.researchgate.net/profile/Lyuba_Zehl" %}
 </td>
 </tr>
 <tr>
@@ -351,12 +475,32 @@ Brain & Behaviour"
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>TBA</p>
+  <p align="justify" style="font-family: arial;"><br>Lyuba Zehl studied Biology and Neuroscience at the University of Cologne. During this time of study, she worked on kinematic of insect legs during locomotion (BSc thesis, supervisor: Prof. Ansgar Büschges), and the anatomical cartography of auditory nuclei in the brain stem of toothed whales using cluster analysis (Msc thesis, supervisor: Prof. Wolfgang Walkowiak). For her doctoral studies, she switched to the RWTH Aachen University and joined the Statistical Neuroscience Group of Prof. Sonja Grün at the Institute for Neuroscience and Medicine (INM-6) of the Jülich Research Centre. In her thesis, she worked on analysing multi-electrode array recordings of monkey motor cortex and, in particular, on data and metadata management of complex neuroscience experiments. After receiving her doctorate degree (Dr. rer. nat.) in 2017, she started working as a junior scientist in the curation team of the Neuroinformatics Platform of the Human Brain Project (HBP), located at the Jülich Research Centre as part of the Big Data Analytics Group from Timo Dickscheid at the Institute for Structural and Functional Organisation of the Brain (INM-1) led by Prof. Katrin Amunts. Having a high interdisciplinary orientation towards computational neuroscience and software development for data and metadata management and a broad experience in various neuroscience laboratories, she focuses now on developing and implementing concepts, standards and tools for neuroscience data and metadata management. With her current work, she strongly supports the integration of heterogeneous neuroscience data into the unified data sharing platform and the interactive atlas viewers of the HBP. </p>
+</div>
+</td>
+</tr>                                                                                                                                  
+<tr> 
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>Probing Brain Organization and Function with Neuroimaging Markers of Connectivity (HBP)</b><br><br>Across the past years, many developments arose in connectivity analyses based on MRI data offering now a wide range of connectivity markers. Capitalizing on this wealth of neuroimaging markers, connectivity-based parcellation can be used to unravel the complexity of brain organization. Furthermore, large population-based neuroimaging datasets with extensive psychometric characterization now open promising perspectives to link brain organization to behavior. In particular, interindividual variability in brain’s region functional connectivity can be related to interindividual variability in psychometric data by using a connectivity-based psychometric prediction approach. Despite some challenges associated to the use of these data-driven approaches, they also offer opportunities to better understand the relationships between brain connectivity and human behavior.</p>
+</div>
+</td>
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>The HBP Human Brain Atlas</b><br><br>The Human Brain Project (HBP) provides access to a comprehensive, multi-level Human Brain Atlas which includes different brain parcellations and template spaces. In particular, it integrates the 20 micron BigBrain model with 3D maps of cytoarchitectonic areas and cortical layers at microscopic detail, with the JuBrain probabilistic cytoarchitectonic atlas which covers variability across 10+ postmortem brains, as well as with a probabilistic fibre bundle atlas derived from in-vivo neuroimaging studies. HBP’s brain atlases are exposed through a set of web-based services that allow users to discover, explore and access not only the reference atlases themselves, but also a range of well curated human brain data at different scales and modalities that were linked to atlas regions in a well structured data integration process. The most intuitive interface to these atlas services is a freely accessible, web-based interactive atlas viewer, which allows intuitive visual navigation of brain anatomy and atlas regions in 3D, down to the microscopic resolution.</p>
 </div>
 </td>
 </tr>
 
 <tr>
+<td width="500px" align="left" valign="center">
+<a name="stephanklein"></a>
+{% include speaker-card.html
+  avatarurl="tba.png"
+  profilename="Stefan Klein" %}
+</td>
 <td width="500px" align="left" valign="center">
 <a name="marcel"></a>
 {% include speaker-card.html
@@ -365,7 +509,38 @@ Brain & Behaviour"
   city="Nijmegen, The Netherlands"
   profilename="Marcel Zwiers" %}
 </td>
-  <td width="500px" align="left" valign="center">
+</tr>
+<tr>
+<td width="500px">
+<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>TBA</p>
+</div>
+</td>
+<td width="500px">
+<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>Marcel is a physicist and has a PhD in auditory neuroscience. His main research interest is in MR physics and MR image analysis, particularly in the field of diffusion imaging, brain connectivity and morphometry, and in the application of these techniques to clinical samples. He has extensive experience with analyzing large datasets and merging data from multi-center studies.</p>
+</div>
+</td>
+</tr>                                                                                                                                  
+<tr> 
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>MR Image Registration with Elastix and Simple Elastix</b><br><br>TBA</p>
+</div>
+</td>
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>Converting Neuroimaging Data to BIDS</b><br><br>TBA</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="500px" align="left" valign="center">
 <a name="robert"></a>
 {% include speaker-card.html
   avatarurl="Robert.png"
@@ -374,25 +549,6 @@ Brain & Behaviour"
   homepage="https://robertoostenveld.nl/research/"
   profilename="Robert Oostenveld" %}
 </td>
-</tr>
-<tr>
-<td width="500px">
-<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
-<div class="panel">
-  <p align="justify" style="font-family: arial;"><br>Marcel is a physicist and has a PhD in auditory neuroscience. His main research interest is in MR physics and MR image analysis, particularly in the field of diffusion imaging, brain connectivity and morphometry, and in the application of these techniques to clinical samples. He has extensive experience with analyzing large datasets and merging data from multi-center studies.</p>
-</div>
-</td>
-<td width="500px">
-<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
-<div class="panel">
-  <p align="justify" style="font-family: arial;"><br>Robert's main interest is in developing novel methods for the analysis of MEG and EEG data with applications in cognitive neuroimaging. His scientific contributions include signal processing, source reconstruction, connectivity analysis and statistical analysis. Furthermore, Robert is interested in improving the methodological aspects of cognitive neuroimaging at the meta level: he contributes to the dissemination of state-of-the-art analysis methods by developing open-source software, by data sharing and by organizing educational and scientific workshops.
-
-His contributions to the methodological advancement of the field of non-invasive electrophysiology are exemplified by FieldTrip, a project that he started about 10 years ago and that he has been heading since. To strengthen the MEG and EEG research community, Robert is not managing FieldTrip only as a data analysis toolbox, but also as a platform for the exchange of ideas and expertise.</p>
-</div>
-</td>
-</tr>
-
-<tr>
 <td width="500px" align="left" valign="center">
 <a name="tim"></a>
 {% include speaker-card.html
@@ -405,7 +561,38 @@ His contributions to the methodological advancement of the field of non-invasive
   git="https://github.com/TimVanMourik"
   researchgate="https://www.researchgate.net/profile/Tim_Van_Mourik" %}
 </td>
-  <td width="500px" align="left" valign="center">
+</tr>
+<tr>
+<td width="500px">
+<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>Robert's main interest is in developing novel methods for the analysis of MEG and EEG data with applications in cognitive neuroimaging. His scientific contributions include signal processing, source reconstruction, connectivity analysis and statistical analysis. Furthermore, Robert is interested in improving the methodological aspects of cognitive neuroimaging at the meta level: he contributes to the dissemination of state-of-the-art analysis methods by developing open-source software, by data sharing and by organizing educational and scientific workshops. His contributions to the methodological advancement of the field of non-invasive electrophysiology are exemplified by FieldTrip, a project that he started about 10 years ago and that he has been heading since. To strengthen the MEG and EEG research community, Robert is not managing FieldTrip only as a data analysis toolbox, but also as a platform for the exchange of ideas and expertise.</p>
+</div>
+</td>
+<td width="500px">
+<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>Tim van Mourik is a PostDoc at the Donders Centre for Cognitive Neuroimaging. During his PhD he developed analysis tools to analyse fMRI scans at an even finer level of detail: that of the cortical layers. In doing so, he not only developed the new tools for obtaining laminar signals, but also applications to build graphical pipelines with these tools (<a href="https://timvanmourik.github.io/Porcupine/">Porcupine</a>). In addition, he set up web applications to facilitate sharing fMRI results in augmented reality (<a href="https://armadillo-brain.herokuapp.com">ARmadillo</a>) and improved collaboration on interactive workflows (<a href="https://giraffe.tools">GiraffeTools</a>). At the OHBM conference 2019, Tim was the chair of the Open Science Room and in charge of organising a week long program with talks, discussions, and demos towards open and reproducible research practices.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>Converting Neuroimaging Data to BIDS</b><br><br>TBA</p>
+</div>
+</td>
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>Open Source Neuroimaging Pipelines with GiraffeTools</b><br><br>How do we share and communicate our analysis pathways? By means of a text-description in a paper, or are there other ways? In this day and age where everything happens online, it should be possible to leverage web technologies for neuroimaging. Indeed, there is a growing number of web tools to share and communicate project information, data sets, and entire interactive workflows online. In this talk I will discuss a variety of these projects, how to get started or even involved in them, and what I believe is the future of data analysis and neuroimaging.</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="500px" align="left" valign="center">
 <a name="tony"></a>
 {% include speaker-card.html
   avatarurl="tony.png"
@@ -416,24 +603,6 @@ His contributions to the methodological advancement of the field of non-invasive
   homepage="http://www.dzne.de/en/sites/bonn/research-groups/stoecker.html"
   researchgate="https://www.researchgate.net/profile/Tony_Stoecker" %}
 </td>
-</tr>
-<tr>
-<td width="500px">
-<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
-<div class="panel">
-  <p align="justify" style="font-family: arial;"><br>Tim van Mourik is a PostDoc at the Donders Centre for Cognitive Neuroimaging. During his PhD he developed analysis tools to analyse fMRI scans at an even finer level of detail: that of the cortical layers. In doing so, he not only developed the new tools for obtaining laminar signals, but also applications to build graphical pipelines with these tools (<a href="https://timvanmourik.github.io/Porcupine/">Porcupine</a>). In addition, he set up web applications to facilitate sharing fMRI results in augmented reality (<a href="https://armadillo-brain.herokuapp.com">ARmadillo</a>) and improved collaboration on interactive workflows (<a href="https://giraffe.tools">GiraffeTools</a>). At the OHBM conference 2019, Tim was the chair of the Open Science Room and in charge of organising a week long program with talks, discussions, and demos towards open and reproducible research practices.</p>
-</div>
-</td>
-<td width="500px">
-<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
-<div class="panel">
-  <p align="justify" style="font-family: arial;"><br>Tony Stöcker has been Professor of Medical Physics at Bonn University since 2014 and Head of MR Physics Research Group (DZNE-Bonn) since 2012. 
-His research focus is MRI sequence development at 7 Tesla, probing for neurodegeneration with high sensitivity and resolution, and the development of high-throughput and high-quality neuroimaging protocols for large-scale patient and population studies. Together with his group, he investigates novel medical imaging methods for biomarkers of neurodegenerative diseases.</p>
-</div>
-</td>
-</tr>
-
-<tr>
 <td width="500px" align="left" valign="center">
 <a name="oliver"></a>
 {% include speaker-card.html
@@ -442,6 +611,38 @@ His research focus is MRI sequence development at 7 Tesla, probing for neurodege
   affiliation="EPFL (École politechnique fédérale de Lausanne), Switzerland"
   city = "Lausanne, Switzerland" %}
 </td>
+</tr>
+<tr>
+<td width="500px">
+<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>Tony Stöcker has been Professor of Medical Physics at Bonn University since 2014 and Head of MR Physics Research Group (DZNE-Bonn) since 2012. 
+His research focus is MRI sequence development at 7 Tesla, probing for neurodegeneration with high sensitivity and resolution, and the development of high-throughput and high-quality neuroimaging protocols for large-scale patient and population studies. Together with his group, he investigates novel medical imaging methods for biomarkers of neurodegenerative diseases.</p>
+</div>
+</td>
+<td width="500px">
+<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>Oliver Schmid is the Product Owner of the EBRAINS Knowledge Graph developed by EPFL for the Human Brain Project. Oliver has worked as a Software Engineer and Software Architect in different companies for many years and has studied Computer Science (PhD), Information Management (MA) and Educational Sciences (BSc) at the University of Fribourg, Switzerland. His main interest is to improve existing processes by the application of interdisciplinary knowledge - accordingly, he contributes to the creation of a (neuro-)scientific IT infrastructure for data sharing and Open Science in his current position.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>Numerical Simulation of MR Physics</b><br><br>MR simulations based on the Bloch Equations are of high educational value. Further, they serve as essential tools in MRI method development, e.g. for MR sequence design and protocol optimization or generating ground truth data for image reconstruction and post-processing algorithms. This lecture provides insight into practical implementation of computer simulations based on classical MR physics. Analytical solutions versus numerical implementations will be discussed. Based on pictorial examples, an introduction to various MRI simulator software packages will be given. The JEMRIS simulation environment will serve for most of the examples shown in this lecture.</p>
+</div>
+</td>
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>Find, Use and Share Scientific Data with the EBRAINS Knowledge Graph (HBP)</b><br><br>The EBRAINS Knowledge Graph (KG) has been built to easily find, use and share neuroscientific data originating from the Human Brain Project as well as other data providers. In this talk / demo, we present the various tools built to simplify and standardize the annotation of data, to find published and citable data sets and to use the available resources in automated and semi-automated scientific workflows.</p>
+</div>
+</td>
+</tr>
+
+<tr>
 <td width="500px" align="left" valign="center">
 <a name="stephan"></a>
 {% include speaker-card.html
@@ -459,35 +660,15 @@ His research focus is MRI sequence development at 7 Tesla, probing for neurodege
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>Oliver Schmid is the Product Owner of the EBRAINS Knowledge Graph developed by EPFL for the Human Brain Project. Oliver has worked as a Software Engineer and Software Architect in different companies for many years and has studied Computer Science (PhD), Information Management (MA) and Educational Sciences (BSc) at the University of Fribourg, Switzerland. His main interest is to improve existing processes by the application of interdisciplinary knowledge - accordingly, he contributes to the creation of a (neuro-)scientific IT infrastructure for data sharing and Open Science in his current position.</p>
-</div>
-</td>
-<td width="500px">
-<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
-<div class="panel">
   <p align="justify" style="font-family: arial;"><br>Stephan is a researcher and PhD candidate at the Electrical Engineering Department of the Eindhoven University of Technology in the Netherlands. His research focuses on developing new acquisition and signal processing methods for functional neuroimaging that allow the real-time tracking and visualisation of distributed MRI brain activity patterns. Stephan is passionate about making research and scientific practice more transparent, rigorous, and inclusive. He started the <a href="https://osceindhoven.github.io/">Open Science Community Eindhoven</a>, which is part of a wide Dutch network of researchers and university employees that focuses on improving scientific practice. He is also the founder of <a href="https://openmrbenelux.github.io/">OpenMR Benelux</a>, a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops, and hackathons.</p>
 </div>
 </td>
 </tr>
-
-<tr>
-<td width="500px" align="left" valign="center">
-<a name="lyuba"></a>
-{% include speaker-card.html
-  avatarurl="zehl.png"
-  profilename="Lyuba Zehl"
-  affiliation="Jülich Research Centre, Institute of Neuroscience and Medicine (INM-1), Jülich, Germany"
-  city="Jülich, Germany"
-  git="https://github.com/lzehl"
-  twitter="https://twitter.com/LyubaZehl"
-  researchgate="https://www.researchgate.net/profile/Lyuba_Zehl" %}
-</td>
-</tr>
 <tr>
 <td width="500px">
-<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>Lyuba Zehl studied Biology and Neuroscience at the University of Cologne. During this time of study, she worked on kinematic of insect legs during locomotion (BSc thesis, supervisor: Prof. Ansgar Büschges), and the anatomical cartography of auditory nuclei in the brain stem of toothed whales using cluster analysis (Msc thesis, supervisor: Prof. Wolfgang Walkowiak). For her doctoral studies, she switched to the RWTH Aachen University and joined the Statistical Neuroscience Group of Prof. Sonja Grün at the Institute for Neuroscience and Medicine (INM-6) of the Jülich Research Centre. In her thesis, she worked on analysing multi-electrode array recordings of monkey motor cortex and, in particular, on data and metadata management of complex neuroscience experiments. After receiving her doctorate degree (Dr. rer. nat.) in 2017, she started working as a junior scientist in the curation team of the Neuroinformatics Platform of the Human Brain Project (HBP), located at the Jülich Research Centre as part of the Big Data Analytics Group from Timo Dickscheid at the Institute for Structural and Functional Organisation of the Brain (INM-1) led by Prof. Katrin Amunts. Having a high interdisciplinary orientation towards computational neuroscience and software development for data and metadata management and a broad experience in various neuroscience laboratories, she focuses now on developing and implementing concepts, standards and tools for neuroscience data and metadata management. With her current work, she strongly supports the integration of heterogeneous neuroscience data into the unified data sharing platform and the interactive atlas viewers of the HBP. </p>
+  <p align="justify" style="font-family: arial;"><br><b>Sharing GDPR Compliant Neuroimaging Research Data</b><br><br>Personal data privacy and research data sharing seem, on the surface, to be at odds. On the one hand the European General Data Protection Regulation provides important regulations for protecting personal information to a high standard, something that we should uphold in multiple facets of life. On the other hand, current principles of transparency and reproducibility in research (in short, open science) suggests that we should publicly share the data underlying our scientific findings. This leaves us with a conundrum: how do we protect the individual's privacy, while allowing others to access and process their data? In this talk I will provide an overview of what has been done at several EU institutions to enable neuroimaging data sharing under GDPR. We will also look at the progress made with a collaborative and open project that aims to provide open templates and resources for informed consent forms, data anonymization techniques, data usage agreements, and more.</p>
 </div>
 </td>
 </tr>
