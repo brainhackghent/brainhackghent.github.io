@@ -47,7 +47,7 @@ img {
 
 <tr valign="top">
 <td style="background: #004777;" bgcolor="#004777" width="14%">
-<p></i><strong><font color="white">&nbsp; Time</font></strong></a></p>
+<p><strong><font color="white">&nbsp; Time</font></strong></p>
 </td>
 <td style="background: #004777;" bgcolor="#004777" width="66%">
 <p><strong><font color="white">Program: Tuesday, 21 January 2020</font></strong></p>
