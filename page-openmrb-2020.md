@@ -14,6 +14,7 @@ img {
 }
 </style>
 
+<a name="top"></a>
 ## <span style="color:#004777"> This year's event will be awesome! </span> 
 
 <!-- <img style="float: right;" src="../assets/ext_images/nijmegen_doodle_big.jpg" width="20%" height="42%" vspace="0%"> -->
@@ -61,3 +62,5 @@ img {
 <p><div style="text-align: justify">This year, we charge a registration fee of €50, which covers attendance costs including lunch, coffee/tea, and snacks over the course of the event. You will have to take care of travelling and accommodation yourself or through your research institution. Attendance certificates will be sent out electronically after the event to assist with your expense claims.</div></p>
 
 <img src="../assets/ext_images/post_separator.png" alt="text"> 
+
+<a href="../page-openmrb-2020#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
