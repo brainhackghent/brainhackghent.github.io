@@ -62,7 +62,7 @@ img {
 <p><strong><font color="white">Program: Tuesday, 21 January 2020</font></strong></p>
 </th>
 <th style="background: #004777;" bgcolor="#004777" width="10%">
-<p><strong><font color="white">Talk/Workshop/Demo</font></strong></p>
+<p><strong><font color="white">Talk Workshop Demo</font></strong></p>
 </th>
 <th style="background: #004777;" bgcolor="#004777" width="10%">
 <p><strong><font color="white">Slides</font></strong></p>
@@ -401,10 +401,10 @@ img {
 <p><strong><font color="white">Program: Wednesday, 22 January 2020</font></strong></p>
 </th>
 <th style="background: #004777;" bgcolor="#004777" width="33%">
-<p><strong><font color="white"></font></strong></p> 
+<p><strong><font color="#004777">Program: Wednesday, 22 January 2020</font></strong></p> 
 </th>
 <th style="background: #004777;" bgcolor="#004777" width="10%">
-<p><strong><font color="white">Talk/Workshop/Demo</font></strong></p>
+<p><strong><font color="white">Talk Workshop Demo</font></strong></p>
 </th>
 <th style="background: #004777;" bgcolor="#004777" width="10%">
 <p><strong><font color="white">Slides</font></strong></p>
@@ -596,13 +596,13 @@ img {
 <p><strong><font color="white">Time</font></strong></p>
 </th>
 <th style="background: #004777;" bgcolor="#004777" width="33%">
-<p><strong><font color="white"></font></strong></p>                                                                                                     
+<p><strong><font color="white">Program: Thursday, 23 January 2020</font></strong></p>                                                                                                     
 </th> 
 <th style="background: #004777;" bgcolor="#004777" width="33%">
-<p><strong><font color="white">Program: Thursday, 23 January 2020</font></strong></p>
+<p><strong><font color="004777">Program: Thursday, 23 January 2020</font></strong></p>
 </th>
 <th style="background: #004777;" bgcolor="#004777" width="10%">
-<p><strong><font color="white">Talk/Workshop/Demo</font></strong></p>
+<p><strong><font color="white">Talk Workshop Demo</font></strong></p>
 </th>
 <th style="background: #004777;" bgcolor="#004777" width="10%">
 <p><strong><font color="white">Slides</font></strong></p>
