@@ -38,6 +38,7 @@ img {
 <p>&nbsp;</p>
 
 <a name="day1"></a>
+<div style="overflow-x:auto;">
 <table width="100%" cellspacing="0" cellpadding="2" class="fixed">
     <col width="150px" />
     <col width="650px" />
@@ -61,6 +62,7 @@ img {
 </tr>
 </tbody>
 </table>
+</div>
 
 <div style="overflow-x:auto; max-height:400px;">
 <table width="100%" cellspacing="0" cellpadding="2" class="fixed">
@@ -387,6 +389,7 @@ img {
 <!--<p><br><br><strong>Wednesday and Thursday, 22-23 January 2020 </strong>: Parallel sessions for <strong>hackathons</strong> and <strong>training workshops</strong> will take place.</p>-->
 
 <a name="day2"></a>
+<div style="overflow-x:auto;"> 
 <table width="100%" cellspacing="0" cellpadding="2" class="fixed">
     <col width="150px" />
     <col width="650px" />
@@ -409,6 +412,7 @@ img {
 </tr>
 </tbody>
 </table>
+</div>
 
 <div style="overflow-x:auto; max-height:400px;">  
 <table width="100%" cellspacing="0" cellpadding="2" class="fixed">
@@ -592,6 +596,7 @@ img {
 <img src="../assets/ext_images/post_separator.png" alt="text">
 
 <a name="day3"></a>
+<div style="overflow-x:auto;"> 
 <table width="100%" cellspacing="0" cellpadding="2" class="fixed">
     <col width="150px" />
     <col width="650px" />
@@ -614,6 +619,7 @@ img {
 </tr>
 </tbody>
 </table>
+</div>
 
 <div style="overflow-x:auto; max-height:400px;">  
 <table width="100%" cellspacing="0" cellpadding="2" class="fixed">
