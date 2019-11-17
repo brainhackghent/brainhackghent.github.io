@@ -18,11 +18,11 @@ img {
 
 <img style="float: right;" src="assets/ext_images/side-column-openmr2020.jpg" width="400" height="80" vspace="10px">
 
-<p><div style="text-align: justify">Interested in an open world, where ideas and tools are shared, and collaboration-based development is standard in the magnetic resonance imaging (MRI) community?</div></p> 
+<p><div style="text-align: justify">Excited about an open world, where ideas and tools are shared, and collaboration-based development is standard in the magnetic resonance imaging (MRI) community?</div></p> 
 <p><div style="text-align: justify">Us too! And that is what the OpenMR Benelux is all about. Let’s open up this discussion!</div></p>
-<p><div style="text-align: justify"><a href="./page-registration"><b>Registration</b></a> <b>is open</b>!</div></p>
-<p><div style="text-align: justify">We invite you to join us and a team of amazing MRI researchers and developers to learn, speak up, develop, and discuss open (MRI) science practices! OpenMR Benelux 2020 will be hosted at the <a href="https://www.ru.nl/donders/">Donders Institute for Cognition, Brain and Behaviour</a> in Nijmegen, The Netherlands, on 21-23 January, 2020. Head over to the <a href="./page-openmrb-2020"><b>Event Page</b></a> for an overview of what to expect.</div></p>
 <p><div style="text-align: justify">Interested in hacking, learning, discussing, or a healthy dose of all of them? OpenMR Benelux 2020 is ready for you! We have an exciting 3-day program lined up with talks, workshops, training sessions, and hackathons! <b>Check out the <a href="./page-program">Program</a> for more details</b> or <a href="./page-registration"><b>Register now</b></a>!</div></p>
+<p><div style="text-align: justify">We invite you to join us and a team of amazing MRI researchers and developers to learn, speak up, develop, and discuss open (MRI) science practices! OpenMR Benelux 2020 will be hosted at the <a href="https://www.ru.nl/donders/">Donders Institute for Cognition, Brain and Behaviour</a> in Nijmegen, The Netherlands, on 21-23 January, 2020. Head over to the <a href="./page-openmrb-2020"><b>Event Page</b></a> for an overview of what to expect.</div></p>
+<p><div style="text-align: justify"><a href="./page-registration"><b>Registration</b></a> <b>is open</b>!</div></p>
 
 <img src="assets/ext_images/post_separator.png" alt="text"> 
 
