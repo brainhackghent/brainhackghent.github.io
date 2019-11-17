@@ -13,7 +13,6 @@ img {
   display: inline-block;
 }
 </style>
-
 ## <span style="color:#004777"> OpenMR Benelux 2020 </span> 
 
 <img style="float: right;" src="assets/ext_images/side-column-openmr2020.jpg" width="400" height="80">
