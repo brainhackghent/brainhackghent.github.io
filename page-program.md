@@ -56,10 +56,12 @@ img {
 <thead>
 <tr valign="top" position="fixed">
 <th style="background: #004777;" bgcolor="#004777" width="14%">
-<p><strong><font color="white">&nbsp; Time</font></strong></p>
+<p><strong><font color="white">Time</font></strong></p>
+<p><strong><font color="#004777">00:00</font></strong></p>
 </th>
 <th style="background: #004777;" bgcolor="#004777" width="66%">
 <p><strong><font color="white">Program: Tuesday, 21 January 2020</font></strong></p>
+<p><strong><font color="#004777">Collaborative</font></strong></p>
 </th>
 <th style="background: #004777;" bgcolor="#004777" width="10%">
 <p><strong><font color="white">Talk Workshop Demo</font></strong></p>
