@@ -246,6 +246,9 @@ table tr:nth-of-type(3n) td {
 </table>
 </div>
 
+<br>
+<a href="../page-speakers#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
+
 <h3 style="color:#004777"> Wednesday, 22 January 2020 </h3>
 
 <div style="overflow-x:auto;">
@@ -387,6 +390,9 @@ table tr:nth-of-type(3n) td {
 </table>
 
 </div>
+
+<br>
+<a href="../page-speakers#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 
 <h3 style="color:#004777"> Thursday, 23 January 2020 </h3>
 
@@ -677,8 +683,8 @@ His research focus is MRI sequence development at 7 Tesla, probing for neurodege
 </table>
 
 </div>
-<br>
 
+<br>
 <a href="../page-speakers#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 
 <script>
