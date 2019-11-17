@@ -19,6 +19,15 @@ img {
   height: auto;
   display: inline-block;
 }
+.fixed_header tbody{
+  display:block;
+  overflow:auto;
+  height:400px;
+  width:100%;
+}
+.fixed_header thead tr{
+  display:block;
+}
 </style>
 </head>
 
@@ -38,40 +47,30 @@ img {
 <p>&nbsp;</p>
 
 <a name="day1"></a>
-<div style="overflow-x:auto;">
-<table width="100%" cellspacing="0" cellpadding="2" class="fixed">
+<table width="100%" cellspacing="0" cellpadding="2" class="fixed" class="fixed_header">
     <col width="150px" />
     <col width="650px" />
     <col width="200px" />
     <col width="100px" />
-<tbody>
 
-<tr valign="top">
-<td style="background: #004777;" bgcolor="#004777" width="14%">
+<thead>
+<tr valign="top" position="fixed">
+<th style="background: #004777;" bgcolor="#004777" width="14%">
 <p><strong><font color="white">&nbsp; Time</font></strong></p>
-</td>
-<td style="background: #004777;" bgcolor="#004777" width="66%">
+</th>
+<th style="background: #004777;" bgcolor="#004777" width="66%">
 <p><strong><font color="white">Program: Tuesday, 21 January 2020</font></strong></p>
-</td>
-<td style="background: #004777;" bgcolor="#004777" width="10%">
+</th>
+<th style="background: #004777;" bgcolor="#004777" width="10%">
 <p><strong><font color="white">Talk/Workshop/Demo</font></strong></p>
-</td>
-<td style="background: #004777;" bgcolor="#004777" width="10%">
+</th>
+<th style="background: #004777;" bgcolor="#004777" width="10%">
 <p><strong><font color="white">Slides</font></strong></p>
-</td>
+</th>
 </tr>
-</tbody>
-</table>
-</div>
+</thead>
 
-<div style="overflow-x:auto; max-height:400px;">
-<table width="100%" cellspacing="0" cellpadding="2" class="fixed">
-    <col width="150px" />
-    <col width="650px" />
-    <col width="200px" />
-    <col width="100px" />
 <tbody>
-
 <tr valign="top">
 <td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
 <p><strong>8:15 &ndash; 9:00</strong></p>
@@ -382,47 +381,38 @@ img {
 
 </tbody>
 </table>
-</div>
 
 <img src="../assets/ext_images/post_separator.png" alt="text">
 
 <!--<p><br><br><strong>Wednesday and Thursday, 22-23 January 2020 </strong>: Parallel sessions for <strong>hackathons</strong> and <strong>training workshops</strong> will take place.</p>-->
 
 <a name="day2"></a>
-<div style="overflow-x:auto;"> 
-<table width="100%" cellspacing="0" cellpadding="2" class="fixed">
+<table width="100%" cellspacing="0" cellpadding="2" class="fixed" class="fixed_header">
     <col width="150px" />
     <col width="650px" />
     <col width="200px" />
     <col width="100px" />
-<tbody>
+<thead>
 <tr valign="top">
-<td style="background: #004777;" bgcolor="#004777" width="14%">
+<th style="background: #004777;" bgcolor="#004777" width="14%">
 <p><strong><font color="white">Time</font></strong></p>
-</td>
-<td style="background: #004777;" bgcolor="#004777" width="33%">
+</th>
+<th style="background: #004777;" bgcolor="#004777" width="33%">
 <p><strong><font color="white">Program: Wednesday, 22 January 2020</font></strong></p>
-</td>
-<td style="background: #004777;" bgcolor="#004777" width="10%">
+</th>
+<th style="background: #004777;" bgcolor="#004777" width="33%">
+<p><strong><font color="white"></font></strong></p> 
+</th>
+<th style="background: #004777;" bgcolor="#004777" width="10%">
 <p><strong><font color="white">Talk/Workshop/Demo</font></strong></p>
-</td>
-<td style="background: #004777;" bgcolor="#004777" width="10%">
+</th>
+<th style="background: #004777;" bgcolor="#004777" width="10%">
 <p><strong><font color="white">Slides</font></strong></p>
-</td>
+</th>
 </tr>
-</tbody>
-</table>
-</div>
+</thead>
 
-<div style="overflow-x:auto; max-height:400px;">  
-<table width="100%" cellspacing="0" cellpadding="2" class="fixed">
-    <col width="150px" />
-    <col width="325px" />
-    <col width="325px" />
-    <col width="200px" />
-    <col width="100px" />
 <tbody>
-
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
 <p><strong></strong></p>
@@ -591,43 +581,35 @@ img {
 
 </tbody>
 </table>
-</div>
 
 <img src="../assets/ext_images/post_separator.png" alt="text">
 
 <a name="day3"></a>
-<div style="overflow-x:auto;"> 
-<table width="100%" cellspacing="0" cellpadding="2" class="fixed">
+<table width="100%" cellspacing="0" cellpadding="2" class="fixed" class="fixed_header">
     <col width="150px" />
     <col width="650px" />
     <col width="200px" />
     <col width="100px" />
-<tbody>
+<thead>
 <tr valign="top">
-<td style="background: #004777;" bgcolor="#004777" width="14%">
+<th style="background: #004777;" bgcolor="#004777" width="14%">
 <p><strong><font color="white">Time</font></strong></p>
-</td>
-<td style="background: #004777;" bgcolor="#004777" width="33%">
+</th>
+<th style="background: #004777;" bgcolor="#004777" width="33%">
+<p><strong><font color="white"></font></strong></p>                                                                                                     
+</th> 
+<th style="background: #004777;" bgcolor="#004777" width="33%">
 <p><strong><font color="white">Program: Thursday, 23 January 2020</font></strong></p>
-</td>
-<td style="background: #004777;" bgcolor="#004777" width="10%">
+</th>
+<th style="background: #004777;" bgcolor="#004777" width="10%">
 <p><strong><font color="white">Talk/Workshop/Demo</font></strong></p>
-</td>
-<td style="background: #004777;" bgcolor="#004777" width="10%">
+</th>
+<th style="background: #004777;" bgcolor="#004777" width="10%">
 <p><strong><font color="white">Slides</font></strong></p>
-</td>
+</th>
 </tr>
-</tbody>
-</table>
-</div>
+</thead>
 
-<div style="overflow-x:auto; max-height:400px;">  
-<table width="100%" cellspacing="0" cellpadding="2" class="fixed">
-    <col width="150px" />
-    <col width="325px" />
-    <col width="325px" />
-    <col width="200px" />
-    <col width="100px" />  
 <tbody>
 
 <tr valign="top">
@@ -886,7 +868,6 @@ img {
 
 </tbody>
 </table>
-</div>
 
 <img src="../assets/ext_images/post_separator.png" alt="text">
 <br>
