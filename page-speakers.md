@@ -56,7 +56,8 @@ table tr:nth-of-type(3n) td {
 </style>
 </head>
 <body>
-  
+
+<a name="top"></a>  
 <h2 style="color:#004777"> Speakers </h2>
 <h3 style="color:#004777"> Tuesday, 21 January 2020 </h3>
 
@@ -676,6 +677,9 @@ His research focus is MRI sequence development at 7 Tesla, probing for neurodege
 </table>
 
 </div>
+<br>
+
+<a href="../page-speakers#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 
 <script>
 var acc = document.getElementsByClassName("accordion");
