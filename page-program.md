@@ -264,7 +264,7 @@ img {
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
 <p><strong>The Open Source Imaging Initiative</strong></p> 
-<a href="../page-speakers/#joao"><p>Joao Periquito</p></a>   
+<a href="../page-speakers/#joao"><p>João Periquito</p></a>   
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Talk</strong></p>
