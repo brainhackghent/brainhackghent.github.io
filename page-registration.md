@@ -9,4 +9,13 @@ show_sidebar: false
 
 <!-- ## Register here! -->
 
-Registration is not open yet. Watch this space for updates!
+<a name="top"></a>
+## <span style="color:#004777"> Registration is open! </span> 
+
+<style>
+img {
+  width: 30%;
+  height: auto;
+  display: inline-block;
+}
+</style> 
