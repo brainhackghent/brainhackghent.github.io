@@ -500,7 +500,7 @@ img {
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Software Version Control with git and GitHub</strong></p> 
-<a href="../page-speakers/#remi"><p>Remi Gau & Sofie Van Den Bossche</p></a>
+<p><a href="../page-speakers/#remi">Remi Gau</a> & <a href="../page-speakers/#sofie">Sofie Van Den Bossche</a></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
@@ -765,7 +765,7 @@ img {
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Converting Neuroimaging Data to BIDS</strong></p> 
-<a href="../page-speakers/#marcel"><p>Marcel Zwiers & Robert Oostenveld</p></a>
+<p><a href="../page-speakers/#marcel">Marcel Zwiers</a> & <a href="../page-speakers/#robert">Robert Oostenveld</a></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>TBA</strong></p>
