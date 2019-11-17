@@ -18,11 +18,11 @@ img {
 
 <!-- <img style="float: right;" src="../assets/ext_images/nijmegen_doodle_big.jpg" width="20%" height="42%" vspace="0%"> -->
 
-<a href="../page-registration/"><b>Register now</b>!
-
 <p><div style="text-align: justify">Like many other fields, MRI research greatly profits from the collaboration between researchers, users, developers, and industry. With OpenMR Benelux 2020, we want to demonstrate how an increasingly open network can help us create innovative solutions to problems we face.</div></p>
 <p><div style="text-align: justify">With a wide range of topics, our goal is to welcome attendees from technical or clinical backgrounds and to discuss open science practices in magnetic resonance imaging research. Topics will range from open data science practices and new initiatives in scientific publishing to practical introductions to open source software, version control, and a variety of open source MRI toolboxes.</div></p>
 <p><div style="text-align: justify">Our goal is to have something for everyone and to create enough opportunities for discussion, learning from each other, and working together on innovative solutions.</div></p>
+
+<a href="../page-registration/"><b>Register now</b>!
 
 <img src="../assets/ext_images/post_separator.png" alt="text"> 
 
