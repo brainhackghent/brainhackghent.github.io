@@ -28,7 +28,7 @@ img {
   position: absolute;
   top: 30px;
   left: 1px;
-  width: 50% !important;
+  width: 100% !important;
   height: 100% !important;
 }
 </style>
