@@ -8,7 +8,7 @@ show_sidebar: false
 ---
 
 <a name="top"></a>
-## <span style="color:#004777"> They helped us make this event for you! </span>
+## <span style="color:#004777"> A special thanks to our sponsors and partners without whom this event wouldn't be possible! </span>
 
 <style>
 img {
