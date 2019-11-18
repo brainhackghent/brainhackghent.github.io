@@ -511,7 +511,7 @@ Brain & Behaviour"
 <td width="500px" align="left" valign="center">
 <a name="stephanklein"></a>
 {% include speaker-card.html
-  avatarurl="stefan.png"
+  avatarurl="stefan.jpg"
   profilename="Stefan Klein" 
   affiliation="Biomedical Imaging Group Rotterdam - Eramus Medical Center"
   city="Rotterdam, The Netherlands"
