@@ -36,7 +36,7 @@ $("#contact-form").submit(function(event){
         console.log(response);
         console.log(textStatus);
         console.log(jqXHR);
-        window.alert("Submitted! We will answer you as soon as possible, to the best of our abilities!");
+        window.alert("Submitted! We will answer you as soon as possible to the best of our abilities!");
 	$("#contact-form")[0].reset();
     });
 
