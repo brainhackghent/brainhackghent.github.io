@@ -7,9 +7,26 @@ show_sidebar: false
 #hero_image: assets/ext_images/Home_logo.png
 ---
 
-## They helped us make this event for you
+<a name="top"></a>
+## <span style="color:#004777"> They helped us make this event for you! </span>
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<style>
+img {
+  width: 30%;
+  height: auto;
+  display: inline-block;
+}
+.img1 {
+  width: 80%;
+  height: auto;
+  display: inline-block;
+}
+</style>
 
-<img style="float: left;" src="../assets/ext_images/Sponsor_page.png" width="1230" height="190"> 
+&nbsp;
+
+<img class="img1" style="float: left;" src="../assets/ext_images/Sponsor_page.png" width="1230px" height="190px"> 
+
+<img src="../assets/ext_images/post_separator.png" alt="text"> 
+<br>
+<a href="../page-sponsors#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
