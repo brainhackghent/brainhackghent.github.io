@@ -1,5 +1,5 @@
 ---
-title: ""
+title: Home
 subtitle: ""
 layout: page
 show_sidebar: false
