@@ -13,6 +13,8 @@ show_sidebar: false
 ## <span style="color:#004777"> Registration is now open for OpenMR Benelux 2020! </span>
 <br>
 
+<p><div style="text-align: justify"><b>Please read the information below and complete the form at the <a href="../page-registration#locreg">bottom of the page</a>.</b></div></p>
+
 <h2 style="color:#004777"><i class="fas fa-lightbulb" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; Event Format</h2>
 <p><div style="text-align: justify">OpenMR Benelux 2020 is an unconference and hackathon style event focusing on inclusive, transparent, and reproducible science in the field of Magnetic Resonance Imaging. It spans three days of talks, discussions, workshops, demos, and hackathons. Please refer to the detailed <a href="../page-program"><b>Program</b></a> for more information about these activities.</div></p>
 
@@ -48,6 +50,7 @@ show_sidebar: false
 
 <p><div style="text-align: justify"><b>Registration closes on 20 December 2019 at 23h59 CET.</b></div></p>
 
+<a name="locreg"></a>
 <style>
 img {
   width: 30%;
