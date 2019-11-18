@@ -9,16 +9,12 @@ show_sidebar: false
 
 <!-- ### <span style="color:#004777"> Contact Form </span> -->
 
-<script type="text/JavaScript">
-    function showMessage(){
-         //window.alert("Done"); 
-         //$("#contact-form")[0].reset();
-         // var message = document.getElementById("message").value; 
-         // display_message.innerHTML= message; 
-    }
-</script>
-
 <style>
+img {
+  width: 30%;
+  height: auto;
+  display: inline-block;
+}
 form {
     display: block;
     width: 100%;
@@ -26,7 +22,7 @@ form {
     padding-right: 4%;
 }
 .container-form {
-    padding:20px;
+    padding:1px;
 }
 input[type=text], input[type=email], textarea {
     width: 100%;
@@ -57,13 +53,16 @@ input[type=submit]:hover {
 }    
 </style>
 
+<a name="top"></a>
 <p><div style="text-align: justify">Questions or feedback? Do not hesitate and use the <i>Contact Form</i> below to contact us. We will answer you as soon as possible to the best of our abilities! 
 You are also welcome to subscribe to our <i>Newsletter</i> to receive the latest updates.</div></p>
 <p><div style="text-align: justify"><b>IMPORTANT</b>: Please disable AdBlock or Privacy Badger when submitting the <i>Contact Form</i>! If you don't, we won't receive your request.</div></p>
 
+<h2 style="color:#004777"> Contact Form </h2>
+
 <form class="container-form" id="contact-form" action="https://script.google.com/macros/s/AKfycbxFvlT1LVB4mrKHuMl0-HkOb62QP4n_rFHm8-6vH7Zhe_CcQ8XX/exec">
 
-<h2 style="font-family:Courier New; color:#004777; opacity:0.7">Contact Form</h2>
+<!-- <h2 style="font-family:Courier New; color:#004777; opacity:0.7">Contact Form</h2> -->
   
   <div class="form-group">
     <label>Name:</label>
@@ -101,8 +100,20 @@ You are also welcome to subscribe to our <i>Newsletter</i> to receive the latest
 
 </form>
 
+<img src="../assets/ext_images/post_separator.png" alt="text"> 
+<br>
+<a href="../page-contact#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
+
 <!-- <p> Message is: <span id = "display_message"></span> </p> -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src='../contact.js'></script>
 <script src='../subscribe.js'></script>
+<script type="text/JavaScript">
+function showMessage(){
+    //window.alert("Done"); 
+    //$("#contact-form")[0].reset();
+    // var message = document.getElementById("message").value; 
+    // display_message.innerHTML= message; 
+}
+</script>
