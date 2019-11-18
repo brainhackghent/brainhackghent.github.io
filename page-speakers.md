@@ -155,7 +155,8 @@ table tr:nth-of-type(3n) td {
 <td width="500px">
 <button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br><b>How can Open Science Contribute to (Clinical) Research in Radiology?</b><br><br>This talk will be geared towards the question on how open science can contribute to applied research in neuroscience and radiology.</p>
+  <p align="justify" style="font-family: arial;"><br><b>How can Open Science Contribute to (Clinical) Research in Radiology?</b><br><br>At the moment the use of open source tools and sharing data is not common in radiology practice. Is there a place for open source tools in a radiology department? What are drawbacks or advantages of using open source? How to deal with liabilities and regulations? What are risks and benefits of sharing data? Some examples of use of open source tools in our department will be shown.
+</p>
 </div>
 </td>
 <td width="500px">
