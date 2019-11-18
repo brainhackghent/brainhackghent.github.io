@@ -8,6 +8,11 @@ show_sidebar: false
 <html>
 <head>
 <style>
+img {
+  width: 30%;
+  height: auto;
+  display: inline-block;
+}
 .accordion:after {
   content: '\002B'; /* Unicode character for "plus" sign (+) */
   font-size: 13px;
@@ -48,7 +53,8 @@ show_sidebar: false
 </style>
 </head>
 <body>
-  
+
+<a name="top"></a>
 <h2 style="color:#004777"> Organizing committee </h2>
 
 <div style="overflow-x:auto;">
@@ -172,6 +178,8 @@ show_sidebar: false
 
 </div>
 
+<img src="../assets/ext_images/post_separator.png" alt="text"> 
+
 <h2 style="color:#004777"> Advisors </h2>
 
 <div style="overflow-x:auto;">
@@ -241,6 +249,10 @@ show_sidebar: false
 </table>
 
 </div>
+
+<img src="../assets/ext_images/post_separator.png" alt="text"> 
+<br>
+<a href="../page-team#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 
 <script>
 var acc = document.getElementsByClassName("accordion");
