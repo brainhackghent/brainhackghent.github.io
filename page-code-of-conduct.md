@@ -1,4 +1,4 @@
---- 
+---
 title: Code of Conduct
 subtitle: ""
 layout: page
@@ -17,10 +17,10 @@ img {
 
 <a name="top"></a>
 
-<p><div style="text-align: justify">OpenMR Benelux is dedicated to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, nationality, or the presence of or care for dependents. We do not tolerate harassment of conference participants in any form. Event participants violating these rules may be sanctioned or expelled from the event at the discretion of the event organisers.</div></p>
+<p><div style="text-align: justify">OpenMR Benelux is dedicated to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, social class and background, disability, physical appearance, body size, race, age, religion, nationality, or the presence of or care for dependents. We do not tolerate harassment of conference participants in any form. Event participants violating these rules may be sanctioned or expelled from the event at the discretion of the event organisers.</div></p>
 <p><div style="text-align: justify"><b><i>Harassment</i> includes, but is not limited to:</b></div></p>
 
-* <div style="text-align: justify">Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, nationality</div>
+* <div style="text-align: justify">Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation,  social class and background, disability, physical appearance, body size, race, age, religion, nationality</div>
 * <div style="text-align: justify">Sexual images in public spaces</div>
 * <div style="text-align: justify">Deliberate intimidation, stalking, or following</div>
 * <div style="text-align: justify">Harassing photography or recording</div>
@@ -43,7 +43,7 @@ img {
 <!-- <p><div style="text-align: justify"><b>Anonymous Report</b></div></p> -->
 <p><div style="text-align: justify">You can make an anonymous report using <a href="https://docs.google.com/forms/d/e/1FAIpQLSej3wnhumQqY4RPV0DdMsh69VQcMELMpEl9mdJ1LkL6Lj9zOg/viewform?usp=sf_link">our online form</a>. This form will be continuously monitored during the event by the inclusiveness committee. If you have a complaint that you are not comfortable with sending to the whole committee, you can use an online service to send an anonymous email to a committee member of your choosing. Look at the form linked above to see the kind of information we need to process the complaint.</div></p>
 
-<h3 style="color:#004777"><i class="far fa-share-square" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:#004777"></i>&nbsp;&nbsp;Personal Report </h3> 
+<h3 style="color:#004777"><i class="far fa-share-square" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:#004777"></i>&nbsp;&nbsp;Personal Report </h3>
 <!-- <p><div style="text-align: justify"><b>Personal Report</b></div></p> -->
 <p><div style="text-align: justify">Make a personal report by emailing the inclusiveness committee at <a href="mailto:openmrbconduct@gmail.com">openmrbconduct@gmail.com</a> or adding contact information to the Anonymous Report complaint form linked above. This address will be continuously monitored during the event by the inclusiveness committee. You may also report the incident to any one of the inclusiveness committee members that you feel most comfortable reporting to. The person you report to will share the information with the other inclusiveness committee members.</div></p>
 
@@ -56,6 +56,6 @@ img {
 
 <p><div style="text-align: justify"><i>* Adapted from the <a href="https://www.eiseverywhere.com/ehome/ces18/code-of-conduct/">Cultural Evolution Society Conference Code of Conduct</a> and from the <a href="https://sisu.ut.ee/emcl8tartu/code-conduct">Empirical Methods in Cognitive Linguistics 8 workshop Code of Conduct</a></i></div></p>
 
-<img src="../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../assets/ext_images/post_separator.png" alt="text">
 <br>
 <a href="../page-code-of-conduct#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
