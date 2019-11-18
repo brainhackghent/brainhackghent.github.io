@@ -306,7 +306,12 @@ table tr:nth-of-type(3n) td {
 <td width="500px">
 <button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br><b>Software Version Control with git and GitHub</b><br><br>TBA</p>
+  <p align="justify" style="font-family: arial;"><br><b>Software Version Control with git and GitHub</b><br><br>GIT is a tool to keep track of the successive versions of your code: from different pilot experiments to the final version or for different stages of your analysis pipeline. A side effect of using GIT is that it can also improve how you organize your code. When associated with GitHub, this also facilitates collaboration with others on the same codebase, automation of many tasks, and can help you streamline your workflow.
+GIT and GitHub are potentially very powerful tools but tend to have a steep learning curve associated with a confusing and obscure terminology. This 2 hours workshop will not turn you into GIT and GitHub wizards but it should 1) make the terminology less scary so that you won’t be as confused when you try it on your own, 2) guide you on how to version control some simple code, 3) guide you on how to use some of GitHub’s functions by quikly creating your own academic website (e.g. <a href="https://academicpages.github.io/">https://academicpages.github.io/</a>).</p>
+<p align="justify" style="font-family: arial;">Things to do before to prepare for this workshop:</p>
+1. Download the file editor <a href="https://atom.io/">Atom</a>. 
+2. Create a GitHub account: <a href="https://github.com"></a>. 
+3. Download gitkraken to interact with GIT/GitHub: <a href="https://www.gitkraken.com/">https://www.gitkraken.com/</a>.
 </div>
 </td>
 </tr>
