@@ -20,7 +20,6 @@ img {
 table tr:nth-of-type(3n) td {
     border-bottom: 2px solid #004777;
 }
-
 .accordion:after {
   content: '\002B'; /* Unicode character for "plus" sign (+) */
   font-size: 13px;
