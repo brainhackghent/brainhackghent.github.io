@@ -511,8 +511,11 @@ Brain & Behaviour"
 <td width="500px" align="left" valign="center">
 <a name="stephanklein"></a>
 {% include speaker-card.html
-  avatarurl="tba.png"
-  profilename="Stefan Klein" %}
+  avatarurl="stefan.png"
+  profilename="Stefan Klein" 
+  affiliation="Biomedical Imaging Group Rotterdam - Eramus Medical Center"
+  city="Rotterdam, The Netherlands"
+  homepage="http://bigr.nl/people/StefanKlein/" %}
 </td>
 <td width="500px" align="left" valign="center">
 <a name="marcel"></a>
@@ -527,7 +530,9 @@ Brain & Behaviour"
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>TBA</p>
+  <p align="justify" style="font-family: arial;"><br>In 2002, Stefan received his MSc degree at the University of Twente, Enschede, the Netherlands, at the faculty of mechanical engineering. His MSc-project was on the segmentation of fingerprint images, using Hidden Markov Models. From 2003-2008 he worked as a PhD student on the subject of medical image registration at the Image Sciences Institute, UMC Utrecht, the Netherlands, resulting in a thesis about “Optimisation methods for medical image registration”.
+  An important result was the development (with Marius Staring) of the open-source software package for image registration Elastix (http://elastix.isi.uu.nl). Currently in use by several (national and international) research institutions and companies.
+  Since 2008 he works at the Biomedical Imaging Group Rotterdam (BIGR, http://www.bigr.nl), Erasmus MC, Rotterdam, the Netherlands. There he is assistant-professor and leading a research line on medical image registration.</p>
 </div>
 </td>
 <td width="500px">
@@ -541,7 +546,7 @@ Brain & Behaviour"
 <td width="500px">
 <button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br><b>MR Image Registration with Elastix and Simple Elastix</b><br><br>TBA</p>
+  <p align="justify" style="font-family: arial;"><br><b>MR Image Registration with Elastix and Simple Elastix</b><br><br>From multi-modality superpositioning to atlas alignment, image registration plays a central role in medical image analysis. In this talk/workshop, Stefan will give us insights on how Elastix and Simple Elastix work, applicable modalities and how to profit the most from this amazing tool. During the workshop, a hands-on guided practical session will demonstrate how versatile Elastix is, even in novel fields, such as quantitative MRI. </p>
 </div>
 </td>
 <td width="500px">
