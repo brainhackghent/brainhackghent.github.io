@@ -12,6 +12,11 @@ img {
   height: auto;
   display: inline-block;
 }
+.img1 {
+  width: 26%;
+  height: auto;
+  display: inline-block;
+}
 </style>
 
 <a name="top"></a>
@@ -29,7 +34,7 @@ img {
 
 ## <span style="color:#004777"> Event format </span>
 
-<img style="float: right;" src="../assets/ext_images/interaction.jpg" width="560" height="560" vspace="10px" hspace="20px">
+<img class="img1" style="float: right;" src="../assets/ext_images/interaction.jpg" width="560" height="560" vspace="10px" hspace="20px">
 
 <p><div style="text-align: justify">OpenMR Benelux 2020 is not a typical academic conference. We take inspiration from the hacking culture and the unconventional styles of <a href="http://www.brainhack.org/about.html">BrainHack</a> and <a href="https://improvingpsych.org/">SIPS</a>. Instead of only listening to talks, we encourage you to participate in open discussion. In contrast to purely consuming information, we encourage participants to work together and generate new information. Instead of the standard "keynote, symposium, poster session" scenario, we offer a collaborative environment with a variety of activities.</div></p>
 <p><div style="text-align: justify">OpenMR Benelux will span 3 days, 21-23 January 2020, during which participants can take part in the following main activities:</div></p>
