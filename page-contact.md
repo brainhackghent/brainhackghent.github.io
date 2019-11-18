@@ -55,7 +55,7 @@ input[type=submit]:hover {
 
 <a name="top"></a>
 <p><div style="text-align: justify">Questions or feedback? Do not hesitate and use the <i>Contact Form</i> below to contact us. We will answer you as soon as possible to the best of our abilities! 
-You are also welcome to subscribe to our <i>Newsletter</i> to receive the latest updates.</div></p>
+You are also welcome to subscribe to our <i>Newsletter</i> to receive the latest updates. We won't spam you. We will only send out a letter a few times a year when we have important news to share,  e.g. information about new events or important resources.</div></p>
 <p><div style="text-align: justify"><b>IMPORTANT</b>: Please disable AdBlock or Privacy Badger when submitting the <i>Contact Form</i>! If you don't, we won't receive your request.</div></p>
 
 <h2 style="color:#004777"> Contact Form </h2>
@@ -65,13 +65,13 @@ You are also welcome to subscribe to our <i>Newsletter</i> to receive the latest
 <!-- <h2 style="font-family:Courier New; color:#004777; opacity:0.7">Contact Form</h2> -->
   
   <div class="form-group">
-    <label>Name:</label>
-    <input type="text" name="Name" placeholder="Name" class="form-control" required>
+    <label>First Name:</label>
+    <input type="text" name="First Name" placeholder="First Name" class="form-control" required>
   </div>
 
   <div class="form-group">
-    <label>Surname:</label>
-    <input type="text" name="Surname" placeholder="Surname" class="form-control" required>
+    <label>Last Name:</label>
+    <input type="text" name="Last Name" placeholder="Last Name" class="form-control" required>
   </div>
   
   <div class="form-group">
