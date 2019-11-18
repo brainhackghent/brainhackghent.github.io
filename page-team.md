@@ -94,7 +94,7 @@ img {
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>TBA</p>
+  <p align="justify" style="font-family: arial;"><br>Emanoel is a PhD researcher at the Erasmus Medical Center, in Rotterdam, The Netherlands. His research is focused on integrated methods for MR relaxometry and patient motion correction. Within the <a href="http://bigr.nl/">Biomedical Imaging Group Rotterdam</a>, he is involved in developing deep learning and analytical methods to reduce the influence motion corruption has in quantitative maps, increasing the reliability of estimation and patient comfort. He is one of the 15 early stage researchers of the B-Q Minded EU H2020 project which combines research, innovation, and education in the field of quantitative MRI.</p>
 </div>
 </td>
 </tr>
