@@ -58,8 +58,8 @@ table tr:nth-of-type(3n) td {
 <body>
 
 <a name="top"></a>  
-<h2 style="color:#004777"> Speakers </h2>
-<h3 style="color:#004777"> Tuesday, 21 January 2020 </h3>
+<!-- <h2 style="color:#004777"> Speakers </h2> -->
+<h2 style="color:#004777"> Tuesday, 21 January 2020 </h2>
 
 <div style="overflow-x:auto;">
   
@@ -249,7 +249,7 @@ table tr:nth-of-type(3n) td {
 <br>
 <a href="../page-speakers#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 
-<h3 style="color:#004777"> Wednesday, 22 January 2020 </h3>
+<h2 style="color:#004777"> Wednesday, 22 January 2020 </h2>
 
 <div style="overflow-x:auto;">
 
@@ -394,7 +394,7 @@ table tr:nth-of-type(3n) td {
 <br>
 <a href="../page-speakers#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 
-<h3 style="color:#004777"> Thursday, 23 January 2020 </h3>
+<h2 style="color:#004777"> Thursday, 23 January 2020 </h2>
 
 <div style="overflow-x:auto;">
 
