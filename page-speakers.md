@@ -12,6 +12,11 @@ show_sidebar: false
 <html>
 <head>
 <style>
+img {
+  width: 30%;
+  height: auto;
+  display: inline-block;
+}
 table tr:nth-of-type(3n) td {
     border-bottom: 2px solid #004777;
 }
@@ -246,6 +251,7 @@ table tr:nth-of-type(3n) td {
 </table>
 </div>
 
+<img src="../assets/ext_images/post_separator.png" alt="text"> 
 <br>
 <a href="../page-speakers#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 
@@ -391,6 +397,7 @@ table tr:nth-of-type(3n) td {
 
 </div>
 
+<img src="../assets/ext_images/post_separator.png" alt="text"> 
 <br>
 <a href="../page-speakers#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 
@@ -684,6 +691,7 @@ His research focus is MRI sequence development at 7 Tesla, probing for neurodege
 
 </div>
 
+<img src="../assets/ext_images/post_separator.png" alt="text"> 
 <br>
 <a href="../page-speakers#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 
