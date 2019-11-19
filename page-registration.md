@@ -61,7 +61,7 @@ img {
 }
 .reg-form {
   position: relative;
-  padding-bottom: 35%; // This is the aspect ratio
+  padding-bottom: 50%; // This is the aspect ratio
   overflow: hidden;
 }
 .reg-form iframe {
