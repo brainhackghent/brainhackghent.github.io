@@ -51,7 +51,7 @@ show_sidebar: false
 
 <p><div style="text-align: justify"><b>Registration closes on 20 December 2019 at 23h59 CET.</b></div></p>
 
-<p><div style="text-align: justify"><b><i>If the registration form does not display correctly on your device, you can also access the online registration form <a href="https://docs.google.com/forms/d/e/1FAIpQLSdH0RIwFbHj9xsJDDCReUCApOkocI8kU7O0CmEaYY_r2b-bJw/viewform?embedded=true">here</a> </i></b></div></p>
+<p><div style="text-align: justify"><b><i>If the registration form does not display correctly on your device, you can also access the online registration form <a href="https://docs.google.com/forms/d/e/1FAIpQLSdH0RIwFbHj9xsJDDCReUCApOkocI8kU7O0CmEaYY_r2b-bJw/viewform?embedded=true">here</a>. </i></b></div></p>
 
 <style>
 img {
