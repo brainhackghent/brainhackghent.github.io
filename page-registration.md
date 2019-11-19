@@ -36,7 +36,7 @@ show_sidebar: false
 
 <h2 style="color:#004777"><i class="fas fa-lightbulb" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp;  Who can register? </h2>
 
-<p><div style="text-align: justify">Anyone working in the field of magnetic resonance imaging: Students, PhD candidates, Post-docs, Professors, other university staff, professionals, clinicians, all are welcome. The event is hosted in the Benelux region, but is open to anyone worldwide.</div></p>
+<p><div style="text-align: justify">Anyone working in the field of magnetic resonance imaging: Students, PhD candidates, Post-docs, Professors, other university staff, professionals, clinicians, all are welcome. The event is hosted in the Benelux region, but is open to anyone worldwide. <b>Please note that we have limited spaces available for the event.</b></div></p>
 
 <img src="../assets/ext_images/post_separator.png" alt="text"> 
 
