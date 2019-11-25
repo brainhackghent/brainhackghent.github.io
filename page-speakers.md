@@ -312,7 +312,7 @@ GIT and GitHub are potentially very powerful tools but tend to have a steep lear
 <ol>
 <li><div align="justify" style="font-family: arial;">Download the file editor <a href="https://atom.io/">Atom</a>.</div></li>
 <li><div align="justify" style="font-family: arial;">Create a GitHub account: <a href="https://github.com">https://github.com</a>.</div></li>
-<li><div align="justify" style="font-family: arial;">Download gitkraken to interact with GIT/GitHub: <a href="https://www.gitkraken.com/">https://www.gitkraken.com/</a>.</div></li>
+<li><div align="justify" style="font-family: arial;">Download gitkraken to interact with git/GitHub: <a href="https://www.gitkraken.com/">https://www.gitkraken.com/</a>.</div></li>
 </ol>
 </div>
 </td>
@@ -365,7 +365,7 @@ GIT and GitHub are potentially very powerful tools but tend to have a steep lear
 <ol>
 <li><div align="justify" style="font-family: arial;">Download the file editor <a href="https://atom.io/">Atom</a>.</div></li>
 <li><div align="justify" style="font-family: arial;">Create a GitHub account: <a href="https://github.com">https://github.com</a>.</div></li>
-<li><div align="justify" style="font-family: arial;">Download gitkraken to interact with GIT/GitHub: <a href="https://www.gitkraken.com/">https://www.gitkraken.com/</a>.</div></li>
+<li><div align="justify" style="font-family: arial;">Download gitkraken to interact with git/GitHub: <a href="https://www.gitkraken.com/">https://www.gitkraken.com/</a>.</div></li>
 </ol> 
 </div>
 </td>
