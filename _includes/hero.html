@@ -1,9 +1,7 @@
 <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background: url('{{ page.hero_image }}') no-repeat center center; background-size: cover;" {% endif %}>
     <div class="hero-body">
         <div class="container">
-            <?java if (page.hero_image) { ?>
-            <p class="title is-2" style="color: #004777">{{ page.title }}</p>
-            <?java } ?>
+            <p class="title is-2" {% if page.hero_image %} style="color: #004777"{% endif %}>{{ page.title }}</p>
             <p class="subtitle is-3">{{ page.subtitle }}</p>
         </div>
     </div>
