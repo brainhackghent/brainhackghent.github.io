@@ -134,7 +134,7 @@ table tr:nth-of-type(3n) td {
 <a name="law"></a>
 {% include speaker-card.html
   avatarurl="tba.png"
-  profilename="TBA" %}
+  profilename="Dirk Smeets" %}
 </td>
 </tr>
 <tr>
