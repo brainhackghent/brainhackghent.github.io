@@ -128,7 +128,8 @@ table tr:nth-of-type(3n) td {
   profilename="Pim Pullens"
   affiliation="Department of Radiology (Ghent University - Ghent University Hospital) and Ghent Institute for Functional and Metabolic Imaging (GIfMI)"
   city="Ghent, Belgium" 
-  twitter="https://www.twitter.com/pim_pullens" %}
+  twitter="https://www.twitter.com/pim_pullens" 
+  researchgate="https://www.researchgate.net/profile/Pim_Pullens" %}
 </td>
 <td width="500px" align="left" valign="center">
 <a name="law"></a>
