@@ -194,7 +194,7 @@ table tr:nth-of-type(3n) td {
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>João is currently finishing his PhD at Berlin Ultrahigh Field Facility (B.U.F.F.), Berlin, Germany. His research is focused on development of new diagnosis techniques for renal MRI. Open source invaded his heart when he realized that he did not need to spend one year implementing an algorithm because someone kind went the extra mile and publish a well documented open-source tool that others can use to their purposes. João is also involved in the project: <a href="https://www.opensourceimaging.org/">Open Source Imaging Initiative</a> (OSI²), a creative community of volunteers with the aim of facilitate medical devices to more people all around the world.</p>
+  <p align="justify" style="font-family: arial;"><br>João is currently finishing his PhD at Berlin Ultrahigh Field Facility (B.U.F.F.), Berlin, Germany. His research is focused on development of new diagnosis techniques for renal MRI. Open source invaded his heart when he realized that he did not need to spend one year implementing an algorithm because someone kind went the extra mile and published a well-documented open-source tool that others can use to their purposes. João is also involved in the project: <a href="https://www.opensourceimaging.org/">Open Source Imaging Initiative</a> (OSI²), a creative community of volunteers with the aim of facilitate medical devices to more people all around the world.</p>
 </div>
 </td>
 <td width="500px">
