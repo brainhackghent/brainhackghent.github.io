@@ -109,7 +109,7 @@ table tr:nth-of-type(3n) td {
 <td width="500px">
 <button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br><b>Diving Into Metascience – Doing Research on Research</b><br><br>Marjan Bakker will build her talk around the replication crisis in science. She will show examples of p-hacking and will discuss the surprising fraction of confirmed hypotheses. This is not only a problem in psychology attest examples of failure to replicate studies in other fields. She pleads for preregistration of hypothesis, study-design and analysis plan to minimize the researcher’s degrees of freedom.</p>
+  <p align="justify" style="font-family: arial;"><br><b>Diving Into Metascience – Doing Research on Research</b><br><br>Marjan Bakker will build her talk around the replication crisis in science. She will show examples of p-hacking and will discuss the surprising fraction of confirmed hypotheses. This is not only a problem in psychology attested by examples of failure to replicate studies in other fields. She pleads for preregistration of hypothesis, study-design and analysis plan to minimize the researcher’s degrees of freedom.</p>
 </div>
 </td>
 <td width="500px">
