@@ -478,7 +478,7 @@ img {
 
 <tr valign="top">
 <td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
-<p><strong>10:45 &ndash; 11:05</strong></p>
+<p><strong>10:45 &ndash; 11:00</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
 <p><strong>Break</strong></p>
@@ -496,7 +496,7 @@ img {
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>11:05 &ndash; 12:50</strong></p>
+<p><strong>11:00 &ndash; 12:45</strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Hackathon</strong></p>
@@ -515,7 +515,7 @@ img {
 
 <tr valign="top">
 <td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
-<p><strong>12:50 &ndash; 13:40</strong></p>
+<p><strong>12:45 &ndash; 13:30</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
 <p><strong>Lunch</strong></p>
@@ -533,7 +533,7 @@ img {
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>13:40 &ndash; 15:25</strong></p>
+<p><strong>13:30 &ndash; 15:15</strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Hackathon</strong></p>
@@ -552,7 +552,7 @@ img {
 
 <tr valign="top">
 <td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
-<p><strong>15:25 &ndash; 15:45</strong></p>
+<p><strong>15:15 &ndash; 15:35</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecacac" width="33%">
 <p><strong>Break</strong></p>
@@ -570,7 +570,7 @@ img {
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>15:45 &ndash; 17:30</strong></p>
+<p><strong>15:35 &ndash; 17:20</strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Hackathon</strong></p>
