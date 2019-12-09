@@ -95,11 +95,27 @@ img {
 
 <tr valign="top">
 <td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
-<p><strong>9:00 &ndash; 9:45</strong></p>
+<p><strong>9:00 &ndash; 9:20</strong></p>
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
 <p><strong>Introduction and Welcome</strong></p>
 <a href="../page-team/"><p>Stephan Heunis & Organizing Committee</p></a> 
+</td>
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<p>&nbsp;</p>
+</td>
+<td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
+<p>&nbsp;</p>
+</td>
+</tr>
+
+<tr valign="top">
+<td style="background: #ffffff;" bgcolor="#ffffff" width="14%">
+<p><strong>9:20 &ndash; 9:45</strong></p>
+</td>
+<td style="background: #ffffff;" bgcolor="#ffffff" width="66%">
+<p><strong>Hackathon Project Pitches</strong></p>
+<a><p></p></a> 
 </td>
 <td style="background: #ffffff;" bgcolor="#ffffff" width="10%">
 <p>&nbsp;</p>
@@ -443,25 +459,7 @@ img {
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>9:00 &ndash; 9:30</strong></p>
-</td>
-<td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
-<p><strong>Project Pitches</strong></p>
-</td>
-<td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong></strong></p>
-</td>
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p><strong></strong></p>
-</td>
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
-<p>&nbsp;</p>
-</td>
-</tr>
-
-<tr valign="top">
-<td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>9:30 &ndash; 11:15</strong></p>
+<p><strong>9:00 &ndash; 10:45</strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Hackathon</strong></p>
@@ -480,7 +478,7 @@ img {
 
 <tr valign="top">
 <td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
-<p><strong>11:15 &ndash; 11:35</strong></p>
+<p><strong>10:45 &ndash; 11:05</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
 <p><strong>Break</strong></p>
@@ -498,7 +496,7 @@ img {
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>11:35 &ndash; 13:20</strong></p>
+<p><strong>11:05 &ndash; 12:50</strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Hackathon</strong></p>
@@ -517,7 +515,7 @@ img {
 
 <tr valign="top">
 <td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
-<p><strong>13:20 &ndash; 14:10</strong></p>
+<p><strong>12:50 &ndash; 13:40</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="33%">
 <p><strong>Lunch</strong></p>
@@ -535,7 +533,7 @@ img {
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>14:10 &ndash; 15:55</strong></p>
+<p><strong>13:40 &ndash; 15:25</strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Hackathon</strong></p>
@@ -554,7 +552,7 @@ img {
 
 <tr valign="top">
 <td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
-<p><strong>15:55 &ndash; 16:15</strong></p>
+<p><strong>15:25 &ndash; 15:45</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecacac" width="33%">
 <p><strong>Break</strong></p>
@@ -572,7 +570,7 @@ img {
 
 <tr valign="top">
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="14%">
-<p><strong>16:15 &ndash; 18:00</strong></p>
+<p><strong>15:45 &ndash; 17:30</strong></p>
 </td>
 <td style="background: #dbf4fc;" bgcolor="#dbf4fc" width="33%">
 <p><strong>Hackathon</strong></p>
