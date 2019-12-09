@@ -174,7 +174,7 @@ table tr:nth-of-type(3n) td {
 {% include speaker-card.html
   avatarurl="Joao.jpg"
   profilename="João Periquito" 
-  affiliation="Berlin Ultrahigh Field Facility (B.U.F.F.), Berlin, Germany"
+  affiliation="Berlin Ultrahigh Field Facility (B.U.F.F.)"
   city="Berlin, Germany" %}
 </td>
 <td width="500px" align="left" valign="center">
