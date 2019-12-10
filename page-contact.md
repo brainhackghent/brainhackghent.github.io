@@ -54,7 +54,7 @@ input[type=submit]:hover {
 </style>
 
 <a name="top"></a>
-<p><div style="text-align: justify">Questions or feedback? Do not hesitate and use the <i>Contact Form</i> below to contact us. We will answer you as soon as possible to the best of our abilities! 
+<p><div style="text-align: justify">Questions or feedback? Or interested in DS SBS funding to (partially) cover your travelling and accommodation costs to attend OpenMR Benelux 2020? Do not hesitate and use the <i>Contact Form</i> below to contact us. We will answer you as soon as possible to the best of our abilities! 
 You are also welcome to subscribe to our <i>Newsletter</i> to receive the latest updates. We won't spam you. We will only send out a letter a few times a year when we have important news to share,  e.g. information about new events or important resources.</div></p>
 <p><div style="text-align: justify"><b>IMPORTANT</b>: Please disable AdBlock or Privacy Badger when submitting the <i>Contact Form</i>! If you don't, we won't receive your request.</div></p>
 
@@ -80,9 +80,9 @@ You are also welcome to subscribe to our <i>Newsletter</i> to receive the latest
   </div>
   
   <div class="form-group">
-    <label>Questions or feedback?</label>
+    <label>Questions or feedback? DS SBS funding?</label>
     <!-- <input type="text" name="Message" placeholder="Message" required> -->
-    <textarea rows="5" name="Message" placeholder="Questions or feedback?" class="form-control" required></textarea>
+    <textarea rows="5" name="Message" placeholder="Questions or feedback? DS SBS funding?" class="form-control" required></textarea>
   </div>
 
   <div class="form-group">
