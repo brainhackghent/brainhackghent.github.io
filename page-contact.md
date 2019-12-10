@@ -80,9 +80,9 @@ You are also welcome to subscribe to our <i>Newsletter</i> to receive the latest
   </div>
   
   <div class="form-group">
-    <label>Questions or feedback? <br> DS SBS funding?</label>
+    <label>Questions or feedback? DS SBS funding?</label>
     <!-- <input type="text" name="Message" placeholder="Message" required> -->
-    <textarea rows="5" name="Message" placeholder="Questions or feedback? <br> DS SBS funding?" class="form-control" required></textarea>
+    <textarea rows="5" name="Message" placeholder="Questions or feedback? DS SBS funding?" class="form-control" required></textarea>
   </div>
 
   <div class="form-group">
