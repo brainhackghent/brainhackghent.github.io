@@ -88,7 +88,7 @@ img {
 <img src="../assets/ext_images/post_separator.png" alt="text"> 
 
 ## <span style="color:#004777"> Accommodation? </span>
-<p><i class="fas fa-lightbulb" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; <a href="../places-nijmegen.md">Here</a> you can find a list of accommodation options in Nijmegen!<br></p>
+<p><i class="fas fa-lightbulb" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; <a href="https://github.com/OpenMRBenelux/openmrbenelux.github.io/blob/master/places-nijmegen.md">Here</a> you can find a list of accommodation options in Nijmegen!<br></p>
 
 <i class="fas fa-lightbulb" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; <b>WANTED!</b> Please chat on <a href="https://app.slack.com/client/TFKL50SKV/CR60Z2D99">Slack</a> to find your awesome:
 <ul>
