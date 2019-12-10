@@ -14,7 +14,7 @@ show_sidebar: false
 <br>
 
 <p><div style="text-align: justify"><b>IMPORTANT</b>: If you are from <i>Ghent University</i>, funding is available through the <b>Social and Behavioral Sciences Doctoral School training program</b> to (partially) cover your travelling and accommodation costs to attend OpenMR Benelux 2020. This funding is possible with the <a href="../page-sponsors">support</a> of the Flemish Government. When interested, quickly get in touch using our <a href="../page-contact"><b>Contact Page</b></a> since the spots are limited! After contacting us and receiving confirmation, you can proceed with your registration (after reading the information below) by completing the form at the <a href="../page-registration#locreg">bottom of the page</a>.
-<br> 
+<br><br>
 <i class="far fa-arrow-alt-circle-right" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#000000"></i> <b>DO NOT HESITATE: only 10 spots available for DS SBS funding!</b></div></p>
 
 <img src="../assets/ext_images/post_separator.png" alt="text"> 
