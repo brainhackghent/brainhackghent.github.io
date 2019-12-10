@@ -88,11 +88,11 @@ img {
 <img src="../assets/ext_images/post_separator.png" alt="text"> 
 
 ## <span style="color:#004777"> Accommodation? </span>
+<i class="fas fa-home" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; <a href="./places-nijmegen.md">Here</a> you can find a list of accommodation options in Nijmegen!<br>
+<i class="fas fa-user-friends" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; <b>WANTED!</b> Please chat on <a href="https://app.slack.com/client/TFKL50SKV/CR60Z2D99">Slack</a> to find your awesome:
 <ul>
-<li><div class="padding" style="text-align: left;"><div style="text-align: justify"><a href="./places-nijmegen.md">Here</a> you can find a list of accommodation options in Nijmegen!</div></div></li>
-<li><div class="padding" style="text-align: left;"><div style="text-align: justify"><b>WANTED!</b> Please chat on <a href="https://app.slack.com/client/TFKL50SKV/CR60Z2D99">Slack</a> to find your awesome: <br>
-<i class="fas fa-route" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; <b>travel partner</b> for the ultimate roadtrip! <br>
-<i class="fas fa-home" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; <b>housemate</b> with whom you can split the rent!</div></div></li>
+<li><div class="padding" style="text-align: left;"><div style="text-align: justify"><b>travel partner</b> for the ultimate roadtrip!</div></div></li>
+<li><div class="padding" style="text-align: left;"><div style="text-align: justify"><b>housemate</b> with whom you can split the rent!</div></div></li>
 </ul>
 
 <img src="../assets/ext_images/post_separator.png" alt="text"> 
