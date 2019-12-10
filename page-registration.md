@@ -13,6 +13,8 @@ show_sidebar: false
 ## <span style="color:#004777"> Registration is now open for OpenMR Benelux 2020! </span>
 <br>
 
+<p><div style="text-align: justify">IMPORTANT: If you are from Ghent University, funding is available through the Social and Behavioral Sciences Doctoral School training program to (partially) cover your travelling and accommodation costs to attend OpenMR Benelux 2020. This funding is possible with the <a href="../page-sponsors"><b>support</b></a> of the Flemish Government. When interested, quickly get in touch using our <a href="../page-contact"><b>Contact</b></a> page since the spots are limited! <b>**Only 10 spots available for DS SBS funding**</b></div></p>
+
 <p><div style="text-align: justify"><b>Please read the information below and complete the form at the <a href="../page-registration#locreg">bottom of the page</a>.</b></div></p>
 
 <h2 style="color:#004777"><i class="fas fa-lightbulb" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; Event Format</h2>
