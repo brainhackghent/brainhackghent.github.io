@@ -89,9 +89,9 @@ img {
 
 ## <span style="color:#004777"> Accommodation? </span>
 * <a href="./places-nijmegen.md">Here</a> you can find a list of accommodation options in Nijmegen! 
-* <b>WANTED!</b> Please <a href="https://app.slack.com/client/TFKL50SKV/CR60Z2D99"><img style="top: -8px;" src="https://img.shields.io/badge/chat-on%20slack-red"></a> to find your awesome: <br>
-&nbsp; &nbsp; <i class="fas fa-route" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; <b>travel partner</b> for the ultimate roadtrip! <br>
-&nbsp; &nbsp; <i class="fas fa-home" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; <b>housemate</b> with whom you can split the rent!
+* <b>WANTED!</b> Please <a href="https://app.slack.com/client/TFKL50SKV/CR60Z2D99"><img style="float: right;" src="https://img.shields.io/badge/chat-on%20slack-red"></a> to find your awesome: <br>
+<i class="fas fa-route" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; <b>travel partner</b> for the ultimate roadtrip! <br>
+<i class="fas fa-home" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; <b>housemate</b> with whom you can split the rent!
 
 <img src="../assets/ext_images/post_separator.png" alt="text"> 
 <br>
