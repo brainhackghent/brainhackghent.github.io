@@ -29,7 +29,7 @@ img {
 Check out the <a href="../page-program"><b>Program</b></a> for more details!</div>
 
 ## <span style="color:#004777"> Hackathon = Hacking + Marathon </span>
-<img class="img1" style="float: right;" src="../assets/ext_images/interaction.jpg" width="560" height="560" vspace="10px" hspace="20px">
+<img class="img1" style="float: right;" src="../assets/ext_images/interaction_hackathon.jpg" width="560" height="560" vspace="10px" hspace="20px">
 <p><div style="text-align: justify">During the HackTrack, we will host a <i>hackathon</i>. Euuuuhm, a whaaaat? If you are wondering what a <i>hackathon</i> is, then look at the word itself. The word <i>hackathon</i> can be split into "hacking" and "marathon”.
 Hence a <i>hackathon</i> is an event in which you can intensively (> <b>marathon</b>; in this case, two consequent days) and collaboratively work on a project (> <b>hacking</b>; proposed by you or someone else). 
 To this end, you either recruit (project leader, i.e. person who has proposed a project) project members or join a project team (as a project member) to work together towards some specific defined goals/milestones. 
