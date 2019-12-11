@@ -15,9 +15,11 @@
       link: /page-sponsors/
     - name: OpenMR Benelux 2019
       link: https://openmrbenelux.github.io/openmrb2019/
+- name: Resources
+  link: ##
+  dropdown:
+  - name: What is a hackathon?
+    link: /page-resources-hackathon/
 - name: Code of Conduct
   link: /page-code-of-conduct/
 - name: Meet the team
-  link: /page-team/
-- name: Contact
-  link: /page-contact/
