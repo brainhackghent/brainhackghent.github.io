@@ -690,7 +690,7 @@ His research focus is MRI sequence development at 7 Tesla, probing for neurodege
   researchgate="https://www.researchgate.net/profile/Stephan_Heunis2" %}
 </td>
 <td width="500px" align="left" valign="center">
-<a name="dirk"></a>
+<a name="dirkpoot"></a>
 {% include speaker-card.html
   avatarurl="tba.png"
   profilename="Dirk Poot" %}
