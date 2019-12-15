@@ -689,6 +689,12 @@ His research focus is MRI sequence development at 7 Tesla, probing for neurodege
   twitter="https://www.twitter.com/fmrwhy"
   researchgate="https://www.researchgate.net/profile/Stephan_Heunis2" %}
 </td>
+<td width="500px" align="left" valign="center">
+<a name="dirk"></a>
+{% include speaker-card.html
+  avatarurl="tba.jpg"
+  profilename="Dirk Poot" %}
+</td>
 </tr>
 <tr>
 <td width="500px">
@@ -697,12 +703,24 @@ His research focus is MRI sequence development at 7 Tesla, probing for neurodege
   <p align="justify" style="font-family: arial;"><br>Stephan is a researcher and PhD candidate at the Electrical Engineering Department of the Eindhoven University of Technology in the Netherlands. His research focuses on developing new acquisition and signal processing methods for functional neuroimaging that allow the real-time tracking and visualisation of distributed MRI brain activity patterns. Stephan is passionate about making research and scientific practice more transparent, rigorous, and inclusive. He started the <a href="https://osceindhoven.github.io/">Open Science Community Eindhoven</a>, which is part of a wide Dutch network of researchers and university employees that focuses on improving scientific practice. He is also the founder of <a href="https://openmrbenelux.github.io/">OpenMR Benelux</a>, a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops, and hackathons.</p>
 </div>
 </td>
+<td width="500px">
+<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>TBA.</p>
+</div>
+</td>
 </tr>
 <tr>
 <td width="500px">
 <button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
 <div class="panel">
   <p align="justify" style="font-family: arial;"><br><b>Sharing GDPR Compliant Neuroimaging Research Data</b><br><br>Personal data privacy and research data sharing seem, on the surface, to be at odds. On the one hand the European General Data Protection Regulation provides important regulations for protecting personal information to a high standard, something that we should uphold in multiple facets of life. On the other hand, current principles of transparency and reproducibility in research (in short, open science) suggests that we should publicly share the data underlying our scientific findings. This leaves us with a conundrum: how do we protect the individual's privacy, while allowing others to access and process their data? In this talk I will provide an overview of what has been done at several EU institutions to enable neuroimaging data sharing under GDPR. We will also look at the progress made with a collaborative and open project that aims to provide open templates and resources for informed consent forms, data anonymization techniques, data usage agreements, and more.</p>
+</div>
+</td>
+<td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>MR Image Registration with Elastix and Simple Elastix</b><br><br>From multi-modality superpositioning to atlas alignment, image registration plays a central role in medical image analysis. In this talk/workshop, Stefan will give us insights on how Elastix and Simple Elastix work, applicable modalities and how to profit the most from this amazing tool. During the workshop, a hands-on guided practical session will demonstrate how versatile Elastix is, even in novel fields, such as quantitative MRI.</p>
 </div>
 </td>
 </tr>
