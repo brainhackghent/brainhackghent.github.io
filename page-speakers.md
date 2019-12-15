@@ -692,7 +692,7 @@ His research focus is MRI sequence development at 7 Tesla, probing for neurodege
 <td width="500px" align="left" valign="center">
 <a name="dirk"></a>
 {% include speaker-card.html
-  avatarurl="tba.jpg"
+  avatarurl="tba.png"
   profilename="Dirk Poot" %}
 </td>
 </tr>
