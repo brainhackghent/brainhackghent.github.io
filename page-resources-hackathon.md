@@ -42,7 +42,7 @@ After the <i>hackathon</i>, you can keep collaborating to finish the project and
 our <a href="https://github.com/OpenMRBenelux/openmrb2020-hackathon/">hackathon repository</a>. For each project, the name and description of the project will be listed, along with the required skills and
 ways you can be integrated in the project (an <a href="https://github.com/OpenMRBenelux/openmrb2020-hackathon/issues/1">example template</a> is provided). The same concept of proposing and listing projects was used during the <a href="https://github.com/ohbm/hackathon2019/issues/">OHBM 2019 hackathon</a> in which all hackathon projects are labeled with the red <i>hackathon</i> tag.</div></p>
 
-<p><div style="text-align: justify">You have a whole world of ideas to choose from and you can get more inspiration from the project of other <a href="http://www.brainhack.org/">brainhack events</a>:</div></p>
+<p><div style="text-align: justify">You have a whole world of ideas to choose from and you can get more inspiration from the projects of other <a href="http://www.brainhack.org/">hackathon/brainhack events</a>:</div></p>
 <ul>
 <li><a href="https://brainhackghent.github.io/">BrainHack Ghent 2018</a></li>
 <li><a href="https://brainhack.ch/#portfolio">Brainhack Open Geneva 2020</a></li>
