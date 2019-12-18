@@ -786,7 +786,7 @@ img {
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<title>Web Technologies in Neuroimaging</title>
+  <p><strong>Web Technologies in Neuroimaging</strong></p>
 <a href="../page-speakers/#tim"><p>Tim van Mourik</p></a> 
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
