@@ -61,6 +61,7 @@ show_sidebar: false
 <p><div style="text-align: justify"><b><i>If the registration form does not display correctly on your device, you can also access the online registration form <a href="https://docs.google.com/forms/d/e/1FAIpQLSdH0RIwFbHj9xsJDDCReUCApOkocI8kU7O0CmEaYY_r2b-bJw/viewform?embedded=true">here</a>. </i></b></div></p>
 -->
 
+<!--
 <style>
 img {
   width: 30%;
@@ -80,10 +81,13 @@ img {
   height: 100% !important;
 }
 </style>
+-->
 
+<!--
 <div class="reg-form"> 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdH0RIwFbHj9xsJDDCReUCApOkocI8kU7O0CmEaYY_r2b-bJw/viewform?embedded=true" width="640" height="1086" frameborder="0" marginheight="0" marginwidth="0" style="border:0" allowfullscreen>Laden…</iframe>
 </div>
+-->
 
 <img src="../assets/ext_images/post_separator.png" alt="text"> 
 <br>
