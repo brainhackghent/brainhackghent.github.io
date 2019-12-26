@@ -55,7 +55,7 @@ show_sidebar: false
 <h2 style="color:#004777"><i class="fas fa-lightbulb" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777"></i> &nbsp; Take note</h2>
 <p><div style="text-align: justify">Before you register, please read our <a href="../page-code-of-conduct"><b>Code of Conduct</b></a> carefully. You will be asked to adhere to this code when attending the OpenMR Benelux 2020 event. Please also read our <a href="../privacy-policy"><b>Privacy Policy</b></a> to understand how we process your personal data. Take note that the data you enter in this registration form will be hosted on Google servers outside of the EU. This is necessary for the time period required to organise and run the event, after which it will be deleted unless you want to receive communication from us in the future.</div></p>
 
-<p><div style="text-align: justify"><b>Registration has closed. Please see our <a href="../page-contact"><b>Contact Page</b></a> if you would still like to register (without guarantee)</b></div></p>
+<p><div style="text-align: justify"><b>Registration has closed. Please see our <a href="../page-contact"><b>Contact Page</b></a> if you would still like to register (without guarantee).</b></div></p>
 
 <!--
 <p><div style="text-align: justify"><b><i>If the registration form does not display correctly on your device, you can also access the online registration form <a href="https://docs.google.com/forms/d/e/1FAIpQLSdH0RIwFbHj9xsJDDCReUCApOkocI8kU7O0CmEaYY_r2b-bJw/viewform?embedded=true">here</a>. </i></b></div></p>
