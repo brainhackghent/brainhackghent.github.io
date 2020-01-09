@@ -392,7 +392,7 @@ img {
 <p><strong>17:00 &ndash; ...</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="66%">
-<p><strong>Drinks and Further Discussion</strong></p>
+<p><strong>Drinks + Snacks and Further Discussion</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="10%">
 <p>&nbsp;</p>
