@@ -577,7 +577,7 @@ img {
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Introduction to Docker and Binder</strong></p>  
-<a href="../page-speakers/#lukas"><p>Lukas Snoek</p></a> 
+<p><a href="../page-speakers/#lukas">Lukas Snoek</a> & <a href="../page-speakers/#agah">Agah Karakuzu</a></p>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Workshop</strong></p>
