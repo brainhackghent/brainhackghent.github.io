@@ -465,7 +465,7 @@ img {
 <p><strong>Hackathon</strong></p>
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
-<p><strong>Reproducibility in Decoded: Case Studies from Data-Intensive Sciences</strong></p> 
+<p><strong>Reproducibility Decoded: Case Studies from Data-Intensive Sciences</strong></p> 
 <a href="../page-speakers/#fatma"><p>Fatma Deniz</p></a>   
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
