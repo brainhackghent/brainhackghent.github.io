@@ -731,7 +731,7 @@ img {
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>MR Image Registration with Elastix and Simple Elastix</strong></p> 
-<p><a href="../page-speakers/#stephanklein">Stefan Klein</a> & <a href="../page-speakers/#dirkpoot">Dirk Poot</a></p>
+<a href="../page-speakers/#stephanklein"><p>Stefan Klein</p></a>
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>TBA</strong></p>
