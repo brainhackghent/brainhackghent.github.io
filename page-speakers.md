@@ -690,10 +690,15 @@ His research focus is MRI sequence development at 7 Tesla, probing for neurodege
   researchgate="https://www.researchgate.net/profile/Stephan_Heunis2" %}
 </td>
 <td width="500px" align="left" valign="center">
-<a name="dirkpoot"></a>
+<a name="agah"></a>
 {% include speaker-card.html
-  avatarurl="tba.png"
-  profilename="Dirk Poot" %}
+  avatarurl="karakuzu.jpeg"
+  profilename="Agah Karakuzu" 
+  affiliation="NeuroPoly Lab Ecole Polytechnique de Montréal"
+  city="Montréal, Canada"
+  git="https://github.com/agahkarakuzu/"
+  twitter="https://www.twitter.com/agahkarakuzu"
+  researchgate="https://www.researchgate.net/profile/Agah_Karakuzu"  %}
 </td>
 </tr>
 <tr>
@@ -706,7 +711,7 @@ His research focus is MRI sequence development at 7 Tesla, probing for neurodege
 <td width="500px">
 <button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br>TBA.</p>
+  <p align="justify" style="font-family: arial;"><br>Agah is a PhD student at NeuroPoly Lab (Biomedical Engineering, Polytechnique Montreal, Montreal, Canada), supervised by Dr. Nikola Stikov. His research focuses on [bringing quantitative MRI (qMRI) applications under one umbrella](https://qmrlab.org) [through data standardization](https://github.com/bids-standard/bep001), [vendor-neutral acquisitions](https://github.com/qMRLab/pulse_sequences), [fully transparent & reproducible workflows](https://github.com/qMRLab/qMRFlow) and [community building](https://qmrlab.org/blog.html). He plays an active role in organizing of Open Science events ([MRathon](https://mrathon.github.io/) , [Brain Hack School](https://brainhackmtl.github.io/school2019/index.html)) and as a science communication contributor on various platforms ([MRM Highlights](https://blog.ismrm.org/category/highlights/), [MR Pulse](https://blog.ismrm.org/) and [OHBM Blog](https://www.ohbmbrainmappingblog.com/)).</p>
 </div>
 </td>
 </tr>
@@ -720,7 +725,7 @@ His research focus is MRI sequence development at 7 Tesla, probing for neurodege
 <td width="500px">
 <button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
 <div class="panel">
-  <p align="justify" style="font-family: arial;"><br><b>MR Image Registration with Elastix and Simple Elastix</b><br><br>From multi-modality superpositioning to atlas alignment, image registration plays a central role in medical image analysis. In this talk/workshop, Stefan will give us insights on how Elastix and Simple Elastix work, applicable modalities and how to profit the most from this amazing tool. During the workshop, a hands-on guided practical session will demonstrate how versatile Elastix is, even in novel fields, such as quantitative MRI.</p>
+  <p align="justify" style="font-family: arial;"><br><b>Introduction to Docker and Binder</b><br><br>The arrival of Docker containers has revolutionized the way software is developed, tested and pushed to production. Billions of containers are spawn on a weekly basis to deliver some of the most frequently used web services. We unknowingly benefit from this technology doing a web search on [Google](https://github.com/google/gvisor) at work, on an [Uber](https://github.com/uber/makisu) ride back home and watching our favorite TV shows on [Netflix](https://github.com/Netflix/conductor) (ps. all hyperlinks direct to GitHub).  But, how do we foster the use of containers to boost reproducibility and efficiency in the scientific realm? Following a hands-on Introduction to Docker and Binder, we will briefly explore some example use cases of container technology in creating reproducible computational workflows and mapping them onto supercomputers!</p>
 </div>
 </td>
 </tr>
