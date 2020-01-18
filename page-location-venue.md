@@ -39,12 +39,12 @@ img {
 }             
 </style>   
 
-<div style="text-align: justify">OpenMR Benelux 2020 will take place at the <a href="https://www.ru.nl/donders/"><b>Donders Institute for Cognition, Brain and Behaviour</b></a> in <b>Nijmegen, The Netherlands</b>.</div>
+<div style="text-align: justify">OpenMR Benelux 2020 will take place at the <a href="https://www.ru.nl/donders/"><b>Donders Centre for Cognitive Neuroimaging</b></a> in <b>Nijmegen, The Netherlands</b>.</div>
 
 <img class="img1" style="float: right;" src="../assets/ext_images/nijmegen_doodle_big.jpg" width="240" height="80" vspace="20px">
 
 <div class="google-maps">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7284.6116696731115!2d5.854683034990987!3d51.818830478283964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c708eeef1a7ddf%3A0x3383a57205a4a83e!2sDonders!5e0!3m2!1snl!2sbe!4v1565820333583!5m2!1snl!2sbe" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2465.92181613219!2d5.863482698981149!3d51.82585868217839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c708f0ef1fb461%3A0x7b612535b3a8c312!2sDonders%20Centre%20for%20Cognitive%20Neuroimaging!5e0!3m2!1sen!2sbe!4v1579348736776!5m2!1sen!2sbe" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen></iframe>
 </div>
 
 <img src="../assets/ext_images/post_separator.png" alt="text"> 
