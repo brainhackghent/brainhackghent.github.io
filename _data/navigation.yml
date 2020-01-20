@@ -1,5 +1,5 @@
 - name: Events
-  link: ##
+  link: /page-openmrb-2020/
   dropdown:
     - name: OpenMR Benelux 2020
       link: /page-openmrb-2020/
@@ -16,7 +16,7 @@
     - name: OpenMR Benelux 2019
       link: https://openmrbenelux.github.io/openmrb2019/
 - name: Resources
-  link: ##
+  link: /page-resources-hackathon/
   dropdown:
   - name: What is a hackathon?
     link: /page-resources-hackathon/
