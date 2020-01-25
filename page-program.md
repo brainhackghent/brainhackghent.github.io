@@ -254,7 +254,7 @@ img {
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="66%">
 <p><strong>Open Science in the Context of Companies, Intellectual Property, and Collaborative Research</strong></p> 
-<a href="../page-speakers/#law"><p>Dirk Smeets</p></a> 
+<a href="../page-speakers/#dirk"><p>Dirk Smeets</p></a> 
 </td>
 <td style="background: #F5F5F5;" bgcolor="#F5F5F5" width="10%">
 <p><strong>Talk</strong></p>
