@@ -132,7 +132,7 @@ table tr:nth-of-type(3n) td {
   researchgate="https://www.researchgate.net/profile/Pim_Pullens" %}
 </td>
 <td width="500px" align="left" valign="center">
-<a name="law"></a>
+<a name="dirk"></a>
 {% include speaker-card.html
   avatarurl="DirkSmeets.jpg"
   profilename="Dirk Smeets"
@@ -392,6 +392,17 @@ GIT and GitHub are potentially very powerful tools but tend to have a steep lear
   twitter="https://www.twitter.com/LukasSnoek"
   homepage="https://lukas-snoek.com" %}
 </td>
+<td width="500px" align="left" valign="center">
+<a name="agah"></a>
+{% include speaker-card.html
+  avatarurl="karakuzu.jpeg"
+  profilename="Agah Karakuzu" 
+  affiliation="NeuroPoly Lab Ecole Polytechnique de Montréal"
+  city="Montréal, Canada"
+  git="https://github.com/agahkarakuzu/"
+  twitter="https://www.twitter.com/agahkarakuzu"
+  researchgate="https://www.researchgate.net/profile/Agah_Karakuzu"  %}
+</td>
 </tr>
 <tr>
 <td width="500px">
@@ -400,12 +411,24 @@ GIT and GitHub are potentially very powerful tools but tend to have a steep lear
   <p align="justify" style="font-family: arial;"><br>I am a PhD student at the Psychology Department of the University of Amsterdam, supervised by Dr. Steven Scholte and Dr. Suzanne Oosterwijk. I’m interested in the neural representation of affective processes such as emotion experience and (facial) emotion perception. Additionally, I’m a methods nerd, interested in novel analyses and statistical methods (for fMRI). Next to my research, I work at the Spinoza Centre for Neuroimaging (UvA), where I provide technical assistance and develop software for automated data management and preprocessing (using Docker!). Throughout the years, I developed a passion for open and transparent (neuro)science, to which I aim to contribute with various open-source projects aimed at improving transparency and reproducibility. </p>
 </div>
 </td>
+<td width="500px">
+<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br>Agah is a PhD student at NeuroPoly Lab (Biomedical Engineering, Polytechnique Montreal, Montreal, Canada), supervised by Dr. Nikola Stikov. His research focuses on <a href="https://qmrlab.org">bringing quantitative MRI (qMRI) applications under one umbrella</a> <a href="https://github.com/bids-standard/bep001">through data standardization</a>, <a href="https://github.com/qMRLab/pulse_sequences">vendor-neutral acquisitions</a>, <a href="https://github.com/qMRLab/qMRFlow">fully transparent & reproducible workflows</a> and <a href="https://qmrlab.org/blog.html">community building</a>. He plays an active role in organizing of Open Science events (<a href="https://mrathon.github.io/">MRathon</a>, <a href="https://brainhackmtl.github.io/school2019/index.html">Brain Hack School</a>) and as a science communication contributor on various platforms (<a href="https://blog.ismrm.org/category/highlights/">MRM Highlights</a>, <a href="https://blog.ismrm.org/">MR Pulse</a> and <a href="https://www.ohbmbrainmappingblog.com/">OHBM Blog</a>).</p>
+</div>
+</td>
 </tr>                                                                                                                                  
 <tr> 
 <td width="500px">
 <button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
 <div class="panel">
   <p align="justify" style="font-family: arial;"><br><b>Introduction to Docker and Binder</b><br><br>With the 'reproducibility crisis' in psychology and neuroscience, there is a trend towards publishing one’s data and code along with the associated article — which is great! Often, however, providing your code is not enough to reproduce your analyses, as it may depend on specific software versions, system requirements, or even operating systems. Docker and Binder are two tools that offer a solution for this! Docker allows you to specify an environment (a Docker container) using a 'recipe' (a Dockerfile), containing the particular (Linux-based) operating system (e.g., Ubuntu 18.04), software packages (FSL 6.0.1 and Python 3.6.1 with scikit-learn 0.21.3), and runtime executables (entrypoint, e.g., my_analysis.py) of your choice. Binder is a less 'complete' solution than Docker, but definitely not less useful! With Binder, you can turn your Git(hub) repository into a collection of interactive Jupyter notebooks, making them instantly reproducibly for anyone. In this workshop, you will get some hands-on experience with writing Dockerfiles and creating Docker containers in a scientific context, as well as getting started with Binder. Some experience with the (Linux) command line interface is useful, but not strictly required.</p>
+</div>
+</td>
+  <td width="500px">
+<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
+<div class="panel">
+  <p align="justify" style="font-family: arial;"><br><b>Introduction to Docker and Binder</b><br><br>The arrival of Docker containers has revolutionized the way software is developed, tested and pushed to production. Billions of containers are spawn on a weekly basis to deliver some of the most frequently used web services. We unknowingly benefit from this technology doing a web search on <a href="https://github.com/google/gvisor">Google</a> at work, on an <a href="https://github.com/uber/makisu">Uber</a> ride back home and watching our favorite TV shows on <a href="https://github.com/Netflix/conductor">Netflix</a> (ps. all hyperlinks direct to GitHub).  But, how do we foster the use of containers to boost reproducibility and efficiency in the scientific realm? Following a hands-on Introduction to Docker and Binder, we will briefly explore some example use cases of container technology in creating reproducible computational workflows and mapping them onto supercomputers!</p>
 </div>
 </td>
 </tr>
@@ -689,17 +712,6 @@ His research focus is MRI sequence development at 7 Tesla, probing for neurodege
   twitter="https://www.twitter.com/fmrwhy"
   researchgate="https://www.researchgate.net/profile/Stephan_Heunis2" %}
 </td>
-<td width="500px" align="left" valign="center">
-<a name="agah"></a>
-{% include speaker-card.html
-  avatarurl="karakuzu.jpeg"
-  profilename="Agah Karakuzu" 
-  affiliation="NeuroPoly Lab Ecole Polytechnique de Montréal"
-  city="Montréal, Canada"
-  git="https://github.com/agahkarakuzu/"
-  twitter="https://www.twitter.com/agahkarakuzu"
-  researchgate="https://www.researchgate.net/profile/Agah_Karakuzu"  %}
-</td>
 </tr>
 <tr>
 <td width="500px">
@@ -708,24 +720,12 @@ His research focus is MRI sequence development at 7 Tesla, probing for neurodege
   <p align="justify" style="font-family: arial;"><br>Stephan is a researcher and PhD candidate at the Electrical Engineering Department of the Eindhoven University of Technology in the Netherlands. His research focuses on developing new acquisition and signal processing methods for functional neuroimaging that allow the real-time tracking and visualisation of distributed MRI brain activity patterns. Stephan is passionate about making research and scientific practice more transparent, rigorous, and inclusive. He started the <a href="https://osceindhoven.github.io/">Open Science Community Eindhoven</a>, which is part of a wide Dutch network of researchers and university employees that focuses on improving scientific practice. He is also the founder of <a href="https://openmrbenelux.github.io/">OpenMR Benelux</a>, a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops, and hackathons.</p>
 </div>
 </td>
-<td width="500px">
-<button class="accordion"><i class="fas fa-id-card" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Bio</button>
-<div class="panel">
-  <p align="justify" style="font-family: arial;"><br>Agah is a PhD student at NeuroPoly Lab (Biomedical Engineering, Polytechnique Montreal, Montreal, Canada), supervised by Dr. Nikola Stikov. His research focuses on <a href="https://qmrlab.org">bringing quantitative MRI (qMRI) applications under one umbrella</a> <a href="https://github.com/bids-standard/bep001">through data standardization</a>, <a href="https://github.com/qMRLab/pulse_sequences">vendor-neutral acquisitions</a>, <a href="https://github.com/qMRLab/qMRFlow">fully transparent & reproducible workflows</a> and <a href="https://qmrlab.org/blog.html">community building</a>. He plays an active role in organizing of Open Science events (<a href="https://mrathon.github.io/">MRathon</a>, <a href="https://brainhackmtl.github.io/school2019/index.html">Brain Hack School</a>) and as a science communication contributor on various platforms (<a href="https://blog.ismrm.org/category/highlights/">MRM Highlights</a>, <a href="https://blog.ismrm.org/">MR Pulse</a> and <a href="https://www.ohbmbrainmappingblog.com/">OHBM Blog</a>).</p>
-</div>
-</td>
 </tr>
 <tr>
 <td width="500px">
 <button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
 <div class="panel">
   <p align="justify" style="font-family: arial;"><br><b>Sharing GDPR Compliant Neuroimaging Research Data</b><br><br>Personal data privacy and research data sharing seem, on the surface, to be at odds. On the one hand the European General Data Protection Regulation provides important regulations for protecting personal information to a high standard, something that we should uphold in multiple facets of life. On the other hand, current principles of transparency and reproducibility in research (in short, open science) suggests that we should publicly share the data underlying our scientific findings. This leaves us with a conundrum: how do we protect the individual's privacy, while allowing others to access and process their data? In this talk I will provide an overview of what has been done at several EU institutions to enable neuroimaging data sharing under GDPR. We will also look at the progress made with a collaborative and open project that aims to provide open templates and resources for informed consent forms, data anonymization techniques, data usage agreements, and more.</p>
-</div>
-</td>
-<td width="500px">
-<button class="accordion"><i class="fas fa-comment" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:white"></i>&nbsp;&nbsp;Abstract</button>
-<div class="panel">
-  <p align="justify" style="font-family: arial;"><br><b>Introduction to Docker and Binder</b><br><br>The arrival of Docker containers has revolutionized the way software is developed, tested and pushed to production. Billions of containers are spawn on a weekly basis to deliver some of the most frequently used web services. We unknowingly benefit from this technology doing a web search on <a href="https://github.com/google/gvisor">Google</a> at work, on an <a href="https://github.com/uber/makisu">Uber</a> ride back home and watching our favorite TV shows on <a href="https://github.com/Netflix/conductor">Netflix</a> (ps. all hyperlinks direct to GitHub).  But, how do we foster the use of containers to boost reproducibility and efficiency in the scientific realm? Following a hands-on Introduction to Docker and Binder, we will briefly explore some example use cases of container technology in creating reproducible computational workflows and mapping them onto supercomputers!</p>
 </div>
 </td>
 </tr>
