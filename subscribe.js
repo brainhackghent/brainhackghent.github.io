@@ -21,7 +21,7 @@ $("#subscribe-form").submit(function(event){
 
   // Fire off the request to /form.php
     request = $.ajax({
-        url: "https://script.google.com/macros/s/AKfycbyRZDJzwwFKfK1MoTuihRGChC-M4FefeTZjj1eaKgC5pptAmdU/exec", //
+        url: "https://script.google.com/macros/s/AKfycbzQ7jZl1Er7ULdftMEHBR6TzgDgIis8p7KaflvNpcjoolC8rKk/exec", //
         type: "get",
         data: serializedData
     });
