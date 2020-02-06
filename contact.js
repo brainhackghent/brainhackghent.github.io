@@ -24,7 +24,7 @@ $("#contact-form").submit(function(event){
 
     // Fire off the request to /form.php
     request = $.ajax({
-        url: "https://script.google.com/macros/s/AKfycbz28jNOTh_1aIz8oroOBiJKDljH5vN4cbV4zDPQTtAALe1zaknG/exec", //
+        url: "https://script.google.com/macros/s/AKfycbz4Eyi4vYR2yj7AripbnOBEvFeRAjj9eaDHiNr4zaJXeRAuOuQz/exec", //
         type: "get",
         data: serializedData
     });
