@@ -1,0 +1,9 @@
+---
+title: Natalia Bielczyk
+subtitle: Where to Go Next? The Landscape of Post-PhD Career Tracks
+slides: https://osf.io/che2m/
+picture: /img/speakers/natalia_2.png
+video: https://www.youtube.com/embed/7rgDGjdxBe8
+layout: product
+---
+There is a growing disparity between the number of new PhD graduates and the available faculty positions. Effectively, most of the PhD graduates needs to find jobs outside academia. Yet, there is little amount of services dedicated to assisting early career researchers in discovering their core competencies, in searching for employers and landing their dream jobs in industry. Ideally, one should anticipate the potential future market sectors after completing the PhD, and focus on developing transferable skills during the PhD on that basis. This however, remains a rare practice in the graduate schools. Therefore, in this workshop, we will assume that you have no prior experience with the job market in industry. We will discuss the following: the demand for PhDs in different branches of industry; paycheck or entrepreneurship? Is a traineeship at a company a good start after a PhD?; defining your key competences, including both hard- and soft skills; searching for employers who are likely to search for these competences; searching for employers who share your personal values; the role of networking in searching for jobs; restructuring your CV and writing a competitive motivational letter; preparing for job interviews.<br><br>The workshop will be interactive: we will debunk certain myths related to the job market with the use of polls and quizzes. Sharing personal experience by participants will be highly encouraged. The goal of the workshop is to give the participants the information and confidence so they can further search for relevant information on their own, and take their first steps towards finding their dream job in industry.

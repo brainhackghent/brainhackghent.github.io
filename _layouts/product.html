@@ -2,18 +2,16 @@
 layout: default
 ---
 
+{% if page.video %}
+<iframe width="1020" height="700" src="{{ page.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% endif %}
+
 <div class="columns is-multiline">
 
     <div class="column is-6">
-        <figure class="image is-4by3">
-            <img src="{{ page.video }}" />
-        </figure>
-    </div>
-
-    <div class="column is-6">
-        <p class="title is-3">{{ page.title }}</p>
-        <p class="subtitle is-3">{{ page.subtitle }}</p>
+      {% if page.slides %}
         <p class="title is-4 has-text-left"> <a href="{{ page.slides }}"> Slides </a>   </p>
+      {% endif %}
     </div>
 
     <div class="column is-12">

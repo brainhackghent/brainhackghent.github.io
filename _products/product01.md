@@ -2,7 +2,8 @@
 title: Stephan Heunis
 subtitle: Introduction
 slides: https://osf.io/rq8fw/
-video: https://via.placeholder.com/640x480
+picture: /img/speakers/stephan.png
+video: https://www.youtube.com/embed/7rgDGjdxBe8
 layout: product
 ---
 

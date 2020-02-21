@@ -2,7 +2,7 @@
 title: Cassandra Gould van Praag
 subtitle: Analytical Flexibility and Questionable Research Practices in MRI
 slides: https://osf.io/vap59/
-video: https://via.placeholder.com/640x480
+picture: /img/speakers/cass.png
 layout: product
 ---
 
