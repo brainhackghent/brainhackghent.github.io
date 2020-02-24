@@ -1,9 +1,10 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-gemspec
+#gemspec
 
 group :jekyll_plugins do
+    gem "bulma-clean-theme"
     gem "jekyll-feed", "~> 0.6"
     gem "jekyll-sitemap"
     gem "jekyll-paginate"
