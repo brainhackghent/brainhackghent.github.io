@@ -2,6 +2,33 @@
 layout: default
 show_sidebar: false
 ---
+<!-- https://github.com/jgthms/bulma/issues/218 -->
+<!-- card: https://bulma.io/documentation/components/card/ -->
+<!-- img: https://bulma.io/documentation/elements/image/ -->
+
+<style>
+.card {
+  background-color: #dbe9f4;
+}
+.bm--card-equal-height {
+   display: flex;
+   flex-direction: column;
+   height: 100%;
+}
+.bm--card-equal-height .card-footer {
+   margin-top: auto;
+}
+.card-footer {
+  background-color: white;
+}
+.responsive {
+      display: block;
+      max-width: 60px;
+      max-height: 60px;
+      width: 100%;
+      height: auto;
+   }
+</style>
 
 <div class="columns is-multiline">
 
@@ -14,26 +41,34 @@ show_sidebar: false
   {% for product in sorted_products %}
   <div class="column is-4-desktop is-6-tablet">
 
-    <a href="{{ product.url | prepend: site.baseurl }}">
-
-      <div class="card">
-
-        {% if product.video %}
-        <div class="card-image">
-          <figure class="image is-4by3">
-            <img src="{{ product.video }}" alt="{{ product.title }}" />
-          </figure>
-        </div>
-        {% endif %}
+      <div class="card bm--card-equal-height">
         <div class="card-content">
-
-          <p class="title is-4">{{ product.title }}</h2>
-          <p class="subtitle is-4">{{ product.subtitle }}</p>
-
-        </div>
+          <div class="media">
+            {% if product.picture %}
+            <div class="media-left">
+              <figure>
+                <img src="../img/speakers/{{ product.picture }}" alt="{{ product.title }}" style="border: 2px solid #004777; width: 60px; height: 60px; border-radius: 50%; object-fit: cover;" class="responsive">
+              </figure>
+            </div>
+            {% endif %}
+            <div class="media-content">
+              <p class="title is-4" style="color: #004777">{{ product.title }}</p>
+            </div>
+          </div>
+          <div class="content">
+            <a href="{{ product.url | prepend: site.baseurl }}"><p class="subtitle is-4">{{ product.subtitle }}</p></a>
+          </div>
+        </div> 
+        <footer class="card-footer">
+          <a href="{{ product.url | prepend: site.baseurl }}" class="card-footer-item">Description</a>
+          {% if product.slides %}
+          <a href="{{ product.slides }}" class="card-footer-item">Slides</a>
+          {% endif %}
+          {% if product.video %}
+          <a href="{{ product.video }}" class="card-footer-item">Video</a>
+          {% endif %}
+        </footer>
       </div>
-
-    </a>
 
   </div>
 {% endfor %}

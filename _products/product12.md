@@ -1,6 +1,7 @@
 ---
 title: Lukas Snoek & Agah Karakuzu
 subtitle: Introduction to Docker and Binder
+slides: https://zenodo.org/record/3625531#.Xild8lNKho4
 layout: product
 ---
 [Introduction to Docker](https://zenodo.org/record/3625531#.Xild8lNKho4)

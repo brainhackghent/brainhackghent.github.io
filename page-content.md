@@ -1,8 +1,8 @@
 ---
-title: OpenMR 2020 content
-subtitle: These are all the things that happened
+title: OpenMR Benelux 2020 
+subtitle: Content
 layout: content
 show_sidebar: false
 ---
 
-Here are all the talks and workshop that happened in this great event.
+Here you can find the materials (description, slides, video) for all the talks and workshops that occured during this great event:

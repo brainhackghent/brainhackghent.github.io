@@ -7,6 +7,8 @@
       link: /page-program/
     - name: Speakers
       link: /page-speakers/
+    - name: Content
+      link: /page-content/
     - name: Location and Venue
       link: /page-location-venue/
     - name: Registration
@@ -26,5 +28,3 @@
   link: /page-team/
 - name: Contact
   link: /page-contact/
-- name: Content
-  link: /page-content/

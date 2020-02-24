@@ -2,8 +2,8 @@
 title: Tim van Mourik
 subtitle: Web Technologies in Neuroimaging
 slides: https://osf.io/ruzn3/
-picture: /img/speakers/tim.png
-video: https://www.youtube.com/embed/7rgDGjdxBe8
+picture: tim.png
+video: https://youtu.be/jLaGsPFfjXA
 layout: product
 ---
 
