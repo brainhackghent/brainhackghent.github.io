@@ -60,7 +60,11 @@ show_sidebar: false
           </div>
         </div> 
         <footer class="card-footer">
-          <a href="{{ product.url | prepend: site.baseurl }}" class="card-footer-item">Description</a>
+          {% if product.repo %}
+          <a href="{{ product.repo | prepend: site.baseurl }}" class="card-footer-item">Projects</a
+          {% else %}
+          <a href="{{ product.url | prepend: site.baseurl }}" class="card-footer-item">Description</a
+          {% endif %}
           {% if product.slides %}
           <a href="{{ product.slides }}" class="card-footer-item">Slides</a>
           {% endif %}
