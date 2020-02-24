@@ -706,7 +706,7 @@ img {
 </td>
 <td style="background: #e8f7fc;" bgcolor="#e8f7fc" width="33%">
 <p><strong>Probing Brain Organization and Function with Neuroimaging Markers of Connectivity (HBP)</strong></p>
-<a href="../page-speakers/#sarah"><p>Sarah Genon</p></a>   
+<a href="../page-speakers/#sarah"><p>Sarah Genon</p></a> – last-minute replacement by Anna Plachti   
 <br>
 <p><strong>The HBP Human Brain Atlas</strong></p>
 <a href="../page-speakers/#lyuba"><p>Lyuba Zehl</p></a>  
