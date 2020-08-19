@@ -6,4 +6,4 @@ show_sidebar: false
 menubar: past_events
 ---
 
-This page really needs some content.
+Click on the menu on the left for the information from previous OpenMR Benelux editions!
