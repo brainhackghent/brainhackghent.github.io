@@ -8,6 +8,8 @@ $primary-light: #dbe9f4;
 $tabs-link-active-color: $primary;
 $tabs-link-active-border-bottom-color: $primary;
 
+$box-radius: 20px;
+
 @import "../node_modules/bulma/bulma.sass";
 @import "layout";
 @import "syntax";

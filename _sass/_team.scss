@@ -1,11 +1,13 @@
 .team {
+
+  h6, p{
+    padding: 0px;
+  }
+
   img {
     width: 30%;
     height: auto;
     display: inline-block;
-  }
-  p{
-    align: justify;
   }
   .title{
     color: #004777

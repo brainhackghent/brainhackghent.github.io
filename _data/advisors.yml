@@ -10,9 +10,8 @@
 
 - name: Daniele Marinazzo
   image: daniele.png
-  affiliation: Department of Data
-    Analysis <br />Faculty of Psychology and Educational Sciences
-    <br />Ghent University
+  affiliation: 
+    - Department of Data Analysis, Faculty of Psychology and Educational Sciences, Ghent University
   city: Ghent, Belgium
   homepage: http://users.ugent.be/~dmarinaz/
   git: https://github.com/danielemarinazzo
@@ -25,7 +24,7 @@
   affiliation: 
     - Founder, Director
       and Chairperson Stichting Solaris Onderzoek en Ontwikkeling
-    - eLife Associate <br>
+    - eLife Associate
     - Career Development and Mentoring Manager Organization for Human
       Brain Mapping
   city:
@@ -59,8 +58,8 @@
 
 - name: Tim van Mourik
   image: tim.png
-  affiliation: Donders Institute for
-    Brain, Cognition and Behaviour
+  affiliation: 
+    - Donders Institute for Brain, Cognition and Behaviour
   city: Nijmegen, The Netherlands
   homepage: https://timvanmourik.com/
   git: https://github.com/TimVanMourik

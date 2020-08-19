@@ -17,8 +17,8 @@
             src="/img/speakers/{{ include.data.image }}"
             style="
               border: 2px solid #004777;
-              height: 200px;
-              width: 200px;
+              height: 250px;
+              width: 250px;
               border-radius: 50%;
               object-fit: cover;
             "
@@ -29,8 +29,8 @@
           src="/img/speakers/{{ include.data.image }}"
           style="
             border: 2px solid #004777;
-            height: 200px;
-            width: 200px;
+            height: 250px;
+            width: 250px;
             border-radius: 50%;
             object-fit: cover;
           "
@@ -62,13 +62,13 @@
         </h4>
 
         {% for item in include.data.affiliation %}
-        <h6>
+        <p>
           <i
             class="fas fa-circle"
-            style="padding-left: 5px; width: 10px; color: black;"
+            style="padding: 0 5 0 10; width: 8px; color: black;"
           ></i>
           {{ item }}
-        </h6>
+        </p>
         {% endfor %} {% if include.data.city %}
         <h6>
           <i class="fas fa-map-marker-alt" style="color: red;"></i>

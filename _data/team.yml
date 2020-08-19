@@ -72,7 +72,7 @@
   linkName: hannes
   image: hannes.png
   affiliation: 
-    - Department of Data Analysis <br> Faculty of Psychology and Educational Sciences <br> Ghent University
+    - Department of Data Analysis, Faculty of Psychology and Educational Sciences, Ghent University
   city: Ghent, Belgium
   homepage:
   git: https://github.com/halmgren
@@ -91,7 +91,7 @@
 - name: Sofie Van Den Bossche
   image: sofie.png
   affiliation:
-    - Department of Data Analysis <br> Faculty of Psychology and Educational Sciences <br> Ghent University
+    - Department of Data Analysis, Faculty of Psychology and Educational Sciences, Ghent University
   city: Ghent, Belgium
   homepage:
   git: https://github.com/sofievdbos
