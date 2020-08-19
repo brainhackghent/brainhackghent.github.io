@@ -1,5 +1,5 @@
 ---
-title: OpenMR Benelux 2020
+title: OpenMR Benelux 2021
 subtitle: Registration
 layout: page
 show_sidebar: false

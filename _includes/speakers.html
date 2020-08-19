@@ -48,17 +48,19 @@
 
             <!-- Switch column -->
             <!-- TODO: The 3 here is hard coded and should improved -->
-            {% if forloop.index == 4 %}
+            {% if forloop.index == forloop.length | divided_by 2 %}
           </div>
           <div class="tile is-vertical is-6 is-parent">
             {% endif %} {% endfor %}
           </div>
         </div>
 
+        <img src="{{ site.baseurl }}/assets/ext_images/post_separator.png" alt="text" />
+
         {% endfor %}
 
-        <img src="../assets/ext_images/post_separator.png" alt="text" />
-        <br />
+        
+
         <a href="../page-speakers#top"
           ><i
             class="fas fa-arrow-alt-circle-up"
