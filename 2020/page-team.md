@@ -1,7 +1,9 @@
 ---
-title: The team
+title: OpenMR Benelux 2020
+subtitle: Meet the team
 layout: page
 show_sidebar: false
+menubar: past_events
 #hero_image: assets/ext_images/Home_logo.png
 ---
 
