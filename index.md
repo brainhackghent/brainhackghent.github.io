@@ -21,7 +21,7 @@ img {
 
 <p><div style="text-align: justify">Excited about an open world, where ideas and tools are shared, and collaboration-based development is standard in the magnetic resonance imaging (MRI) community?</div></p> 
 <p><div style="text-align: justify">Us too! And that is what the OpenMR Benelux is all about. Let’s open up this discussion!</div></p>
-<p><div style="text-align: justify">For the third time, OpenMR Benelux organizes a meeting concerning open MRI science. This year’s event, <b>OpenMR Benelux 2021</b>, will be ...! We invite you to join us and a team of amazing MRI researchers and developers to learn, speak up, develop, and discuss open (MRI) science practices!</div></p> 
+<p><div style="text-align: justify">For the third time, OpenMR Benelux organizes a meeting concerning open MRI science. This year’s event, <b>OpenMR Benelux 2021</b>, will be awesome! We invite you to join us and a team of amazing MRI researchers and developers to learn, speak up, develop, and discuss open (MRI) science practices!</div></p> 
 <!-- an exciting 3-day program lined up with talks, discussions, workshops, training sessions, and <a href="./page-resources-hackathon">hackathons</a> -->
 
 <img src="assets/ext_images/post_separator.png" alt="text" align="left">
