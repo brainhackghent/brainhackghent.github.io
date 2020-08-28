@@ -1,13 +1,13 @@
 <html>
   <body>
-    <section id="team" class="team">
-      <div class="container">
+    <section class="team">
+      <div class="container is-fluid">
         <a name="top"></a>
 
         <h1 class="title">Organizing committee</h1>
 
         <div class="tile is-ancestor">
-          <div class="tile is-vertical is-6 is-parent">
+          <div class="tile is-vertical is-10 is-parent">
             {% for teamMember in include.this_year_team %}
 
             <div class="tile is-child box">
@@ -32,10 +32,12 @@
 
             <!-- Switch column -->
             <!-- TODO: The 3 here is hard coded and should improved -->
-            {% if forloop.index == 3 %}
-          </div>
-          <div class="tile is-vertical is-6 is-parent">
-            {% endif %} {% endfor %}
+            <!-- {% if forloop.index == 3 %}
+              </div>
+             <div class="tile is-vertical is-6 is-parent">
+            {% endif %}  -->
+            
+            {% endfor %}
           </div>
         </div>
 
@@ -44,8 +46,8 @@
       </div>
     </section>
 
-    <section id="team" class="team">
-      <div class="container">
+    <section class="team">
+      <div class="container is-fluid">
         <h1 class="title">Advisors</h1>
 
         <div class="tile is-ancestor">
