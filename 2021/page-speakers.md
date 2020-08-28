@@ -7,5 +7,5 @@ show_sidebar: false
 #hero_image: assets/ext_images/Home_logo.png
 ---
 
- {% include speakers.html %}
+We are currently working hard on a new program for OpenMR Benelux 2021. <br>Coming soon!
 
