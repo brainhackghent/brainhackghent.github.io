@@ -32,3 +32,6 @@
   display: none;
   overflow: hidden;
 }
+.person .panel p {
+  padding-top: 10px;
+}

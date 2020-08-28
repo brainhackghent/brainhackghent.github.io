@@ -3,12 +3,16 @@
 >
   <div class="level"></div>
   <table
-    border="0"
-    cellpadding="5px 5px 5px 5px;"
+    cellpadding="20px"
     style="background-color: #dbe9f4;"
   >
     <tr>
-      <td height="260px" style="padding: 20px;">
+      <td 
+      height="300px" 
+      style=
+      "width:40%; 
+      text-align:center;
+      vertical-align:middle">
         <!-- <h3>{{ include.data.name }}</h3> -->
 
         {% if include.data.homepage %}
@@ -17,7 +21,7 @@
             src="/img/speakers/{{ include.data.image }}"
             style="
               border: 2px solid #004777;
-              height: 250px;
+              height: auto;
               width: 250px;
               border-radius: 50%;
             "
@@ -28,7 +32,7 @@
           src="/img/speakers/{{ include.data.image }}"
           style="
             border: 2px solid #004777;
-            height: 250px;
+            height: auto;
             width: 250px;
             border-radius: 50%;
           "
@@ -36,7 +40,12 @@
         {% endif %}
       </td>
 
-      <td height="260px" style="padding: 20px;">
+      <td 
+      height="300px" 
+      style=
+      "width:60%; 
+      text-align:left;
+      vertical-align:middle">
 
         <h4 style="font-family: monospace;">
           {{ include.data.name }} 
