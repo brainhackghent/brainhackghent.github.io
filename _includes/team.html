@@ -1,12 +1,12 @@
 <html>
   <body>
-    <section class="team">
+    <section>
       <div class="container is-fluid">
         <a name="top"></a>
 
         <h1 class="title">Organizing committee</h1>
 
-        <div class="tile is-ancestor">
+        <div class="tile is-ancestor person">
           <div class="tile is-vertical is-10 is-parent">
             {% for teamMember in include.this_year_team %}
 
@@ -18,7 +18,7 @@
 
               <div class="tile is-child">
                 <button class="accordion">
-                  <i class="fas fa-id-card bio-button"></i>
+                  <i class="fas fa-id-card"></i>
                   &nbsp;&nbsp;Bio
                 </button>
 
@@ -46,11 +46,11 @@
       </div>
     </section>
 
-    <section class="team">
+    <section>
       <div class="container is-fluid">
         <h1 class="title">Advisors</h1>
 
-        <div class="tile is-ancestor">
+        <div class="tile is-ancestor person">
           <div class="tile is-vertical is-10 is-parent">
             {% for advisor in include.this_year_advisors %}
 
@@ -62,7 +62,7 @@
 
               <div class="tile is-child">
                 <button class="accordion">
-                  <i class="fas fa-id-card bio-button"></i>
+                  <i class="fas fa-id-card"></i>
                   &nbsp;&nbsp;Bio
                 </button>
 

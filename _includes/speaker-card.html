@@ -1,5 +1,5 @@
 <section
-  class="container speaker-card {% if include.column %} {{ include.column }}{% endif %}"
+  class="container {% if include.column %} {{ include.column }}{% endif %}"
 >
   <div class="level"></div>
   <table
@@ -8,7 +8,7 @@
     style="background-color: #dbe9f4;"
   >
     <tr>
-      <td align="left" height="260px" style="padding: 20px;">
+      <td height="260px" style="padding: 20px;">
         <!-- <h3>{{ include.data.name }}</h3> -->
 
         {% if include.data.homepage %}
@@ -20,7 +20,6 @@
               height: 250px;
               width: 250px;
               border-radius: 50%;
-              object-fit: cover;
             "
         /></a>
 
@@ -32,20 +31,17 @@
             height: 250px;
             width: 250px;
             border-radius: 50%;
-            object-fit: cover;
           "
         />
         {% endif %}
       </td>
 
-      <td
-        align="left"
-        height="260px"
-        style="padding: 20px;"
-      >
+      <td height="260px" style="padding: 20px;">
+
         <h4 style="font-family: monospace;">
           {{ include.data.name }} 
         </h4>
+
         <h4>
         {% if include.data.twitter %}
           <a href="{{ include.data.twitter }}">
@@ -64,17 +60,18 @@
         {% for item in include.data.affiliation %}
         <p>
           <i
-            class="fas fa-circle"
-            style="padding: 0 5 0 10; width: 8px; color: black;"
-          ></i>
+            class="fas fa-circle" style="color: black;"></i>
           {{ item }}
         </p>
-        {% endfor %} {% if include.data.city %}
+        {% endfor %} 
+        
+        {% if include.data.city %}
         <h6>
           <i class="fas fa-map-marker-alt" style="color: red;"></i>
           {{ include.data.city }}
         </h6>
         {% endif %}
+
       </td>
     </tr>
   </table>
