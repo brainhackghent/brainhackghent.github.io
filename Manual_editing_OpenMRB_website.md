@@ -252,7 +252,7 @@ Drafts: put in `_drafts` folder, run `jekyll serve --draft` to include in websit
 
 ​This is the first post
 
-{% elseif page.title == "My Second Post"%}
+{% elsif page.title == "My Second Post"%}
 ​This is the second post
 
 {% else %}
