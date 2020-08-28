@@ -8,7 +8,7 @@
 
         <div class="tile is-ancestor">
           <div class="tile is-vertical is-6 is-parent">
-            {% for teamMember in site.data.team %}
+            {% for teamMember in include.this_year_team %}
 
             <div class="tile is-child box">
               <div class="tile is-child">
@@ -50,7 +50,7 @@
 
         <div class="tile is-ancestor">
           <div class="tile is-vertical is-10 is-parent">
-            {% for advisor in site.data.advisors %}
+            {% for advisor in include.this_year_advisors %}
 
             <div class="tile is-child box">
               <div class="tile is-child">
