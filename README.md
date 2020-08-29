@@ -1,3 +1,13 @@
+# OpenMR Benelux
+
+This is the github page that creates our website: https://openmrbenelux.github.io/
+
+Please find a manual to edit the website here: [manual](Manual_editing_OpenMRB_website.md).
+
+Below, you can find information on the theme that our website uses: the bulma-clean-theme.
+
+
+
 # bulma-clean-theme
 
 [![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
@@ -6,29 +16,41 @@ This is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/
 
 ## Contents
 
-* [Installation](#installation)
-* [Usage](#usage)
-    * [Pages](#pages)
-    * [Posts](#posts)
-    * [Navigation](#navigation)
-    * [Colours and Styles](#colours-and-styles)
-    * [Sidebar Visibility](#sidebar-visibility)
-    * [Menubar](#menubar)
-    * [Tabs](#tabs)
-    * [Google Analytics](#google-analytics)
-    * [Footer](#footer)
-    * [Products](#products)
-    * [Scripts](#scripts)
-* [Contributing](#contributing)
-* [Development](#development)
-* [Licence](#licence)
+- [bulma-clean-theme](#bulma-clean-theme)
+  - [Contents](#contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+    - [Pages](#pages)
+    - [Posts](#posts)
+    - [Navigation](#navigation)
+    - [Colours and Styles](#colours-and-styles)
+    - [Sidebar Visibility](#sidebar-visibility)
+    - [Menubar](#menubar)
+      - [Creating a menubar data file](#creating-a-menubar-data-file)
+      - [Multiple menus](#multiple-menus)
+    - [Tabs](#tabs)
+      - [Creating a tabs data file](#creating-a-tabs-data-file)
+      - [Settings](#settings)
+      - [Active Tab Highlighting](#active-tab-highlighting)
+      - [Icons](#icons)
+    - [Google Analytics](#google-analytics)
+    - [Footer](#footer)
+      - [Hiding the footer](#hiding-the-footer)
+    - [Products](#products)
+      - [Product pages](#product-pages)
+      - [Product Reviews](#product-reviews)
+      - [Product Category Page](#product-category-page)
+    - [Scripts](#scripts)
+  - [Contributing](#contributing)
+  - [Development](#development)
+  - [License](#license)
 
 
 ## Installation
 
 Add this line to your Jekyll site's `Gemfile`:
 
-NOT SURE THIS IS NEEDED!!!
+**NOT SURE THIS IS NEEDED!!!**
 
 ```ruby
 gem "bulma-clean-theme"
