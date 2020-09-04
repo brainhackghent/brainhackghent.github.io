@@ -1,16 +1,4 @@
-  - 
-    affiliation: "Uniklinik Aachen"
-    bio: "MRI researcher in radiology and open-science enthusiast. Always eager to engage with the community and learn new technology."
-    city: "Aachen, Germany"
-    git: "https://github.com/MRIjumbo"
-    homepage: ~
-    image: dhaval.jpg
-    linkName: Dhaval
-    name: "Dhaval Shah"
-    researchgate: ~
-    twitter: ~
-  - 
-    affiliation: "Eindhoven University of Technology"
+  - affiliation: "Eindhoven University of Technology"
     bio: "Stephan is a biomedical engineer from Stellenbosch, South Africa, where he worked in industry before moving to Europe with the goal of studying in the field of neuroscience. He is currently finishing up his PhD in real-time fMRI methods development and validation. He is passionate about making research and scientific practice more transparent, rigorous and inclusive. He started the Open Science Community Eindhoven, which is part of a wide Dutch network of researchers and university employees that works on improving the way we do science, and he is the founder of OpenMR Benelux, a community working on wider adoption of open science principles in MRI research through talks, discussions, workshops and hackathons."
     city: "Eindhoven, The Netherlands"
     git: "https://github.com/jsheunis/"
@@ -31,19 +19,7 @@
     name: "Stijn Denissen"
     researchgate: ~
     twitter: "https://www.twitter.com/DenissenStijn"
-  - 
-    affiliation: "Department of Data Analysis, Faculty of Psychology and Educational Sciences, Ghent University"
-    bio: "Hannes is a PhD candidate at the Department of Data Analysis (Ghent University, Belgium). His main research interests concern functional and effective connectivity during task execution and resting state, in both a methodological and applied context. He is a passionate proponent of open science in general, with a specific interest in open analyses (e.g., computer code) and open data. He has been previously co-organizer of Brainhack Ghent 2017 and 2018, and has given multiple talks on open science."
-    city: "Ghent, Belgium"
-    git: "https://github.com/halmgren"
-    homepage: ~
-    image: hannes.png
-    linkName: hannes
-    name: "Hannes Almgren"
-    researchgate: ~
-    twitter: "https://www.twitter.com/Hannes_Almgren"
-  - 
-    affiliation: "Department of Data Analysis, Faculty of Psychology and Educational Sciences, Ghent University"
+  - affiliation: "Department of Data Analysis, Faculty of Psychology and Educational Sciences, Ghent University"
     bio: "Sofie is currently doing a PhD at the Department of Data Analysis (Ghent University, Ghent, Belgium), supervised by Prof. Dr. Daniele Marinazzo. Her research focuses on the intertwined domains of (resting-state) neuroscience and lateralization/handedness. During her PhD, she has also been involved in Open Science events, either as part of the organizing committee (BrainHack Ghent  <a href=\"https://brainhackghent.wixsite.com/brainhackghent/submitted-projects\">2017</a>, <a href=\"https://brainhackghent.github.io/\">2018</a> and <a href=\"http://www.brainhack.org/global2019/\">Brainhack Global 2019</a>) or as a volunteer (e.g. Pint of Science, Ghent). Creating an Open Science community and communicating Open Science to a broader public is something she wants to be progressively involved in."
     city: "Ghent, Belgium"
     git: "https://github.com/sofievdbos"
@@ -76,7 +52,7 @@
     researchgate: ~
     twitter: "https://www.twitter.com/Soetkin_Beun"
   - affiliation: "Erasmus University Rotterdam & Leiden University"
-    bio: "Dorien is lab and data manager at the Society, Youth and Neuroscience Connected (SYNC) lab at Erasmus University Rotterdam, the Netherlands. As lab manager, she works closely with lab members and coordinates lab-wide projects, among which citizen science projects. As data manager, she takes care of data management (e.g., data structure, privacy issues, long-term access) and fosters open science initiatives in the lab, university-wide and sometimes even outside of the university walls. In Leiden, Dorien is involved as a data manager in a large longitudinal <a href=https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/leiden-consortium-on-individual-development-l-cid>twin study</a>."
+    bio: Dorien is lab and data manager at the <a href="http://erasmus-synclab.nl/">Society, Youth and Neuroscience Connected (SYNC) lab</a> at Erasmus University Rotterdam, the Netherlands. As lab manager, she works closely with lab members and coordinates lab-wide projects, among which citizen science projects. As data manager, she takes care of data management (e.g., data structure, privacy issues, long-term access) and fosters open science initiatives in the lab, university-wide and sometimes even outside of the university walls. At Leiden University, Dorien is involved as a data manager in a large longitudinal <a href="https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/leiden-consortium-on-individual-development-l-cid">twin study</a>.
     city: "Rotterdam & Leiden, the Netherlands"
     git: "https://github.com/DorienHuijser"
     homepage: "https://erasmus-synclab.nl/"
@@ -85,3 +61,23 @@
     name: "Dorien Huijser (She/her)"
     researchgate: ~
     twitter: "https://www.twitter.com/DorienHuijser"
+  - affiliation: "Uniklinik Aachen"
+    bio: "MRI researcher in radiology and open-science enthusiast. Always eager to engage with the community and learn new technology."
+    city: "Aachen, Germany"
+    git: "https://github.com/MRIjumbo"
+    homepage: ~
+    image: dhaval.jpg
+    linkName: Dhaval
+    name: "Dhaval Shah"
+    researchgate: ~
+    twitter: ~
+  - affiliation: "Department of Data Analysis, Faculty of Psychology and Educational Sciences, Ghent University"
+    bio: "Hannes is a PhD candidate at the Department of Data Analysis (Ghent University, Belgium). His main research interests concern functional and effective connectivity during task execution and resting state, in both a methodological and applied context. He is a passionate proponent of open science in general, with a specific interest in open analyses (e.g., computer code) and open data. He has been previously co-organizer of Brainhack Ghent 2017 and 2018, and has given multiple talks on open science."
+    city: "Ghent, Belgium"
+    git: "https://github.com/halmgren"
+    homepage: ~
+    image: hannes.png
+    linkName: hannes
+    name: "Hannes Almgren"
+    researchgate: ~
+    twitter: "https://www.twitter.com/Hannes_Almgren"
