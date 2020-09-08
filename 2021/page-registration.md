@@ -11,7 +11,7 @@ show_sidebar: false
 
 <a name="top"></a>
 
-<p><div style="text-align: justify">OpenMR Benelux 2021 is an unconference and hackathon style event focusing on inclusive, transparent, and reproducible science in the field of Magnetic Resonance Imaging. <b>We are currently working hard on a new program for the next event!</b> Be sure to keep an eye on the <a href="../2021/page-program"><b>Program page</b></a>.</div></p>  
+<p><div style="text-align: justify">OpenMR Benelux 2021 is an unconference and hackathon style event focusing on inclusive, transparent, and reproducible science in the field of Magnetic Resonance Imaging. <b>We are currently working hard on a new program for the next event!</b> Be sure to keep an eye on the <a href="../page-program"><b>Program page</b></a>.</div></p>  
 
 
 
