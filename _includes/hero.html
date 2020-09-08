@@ -2,7 +2,7 @@
     <div class="hero-body">
         <div class="container">
             <p class="title is-2" {% if page.hero_image %} style="color: rgba(0,71,119,0)"{% endif %}>{{ page.title }}</p>
-            <p class="subtitle is-3">{{ page.subtitle }}</p>
+            <p class="subtitle is-3" {% if page.hero_image %} style="color: rgba(0,71,119,0)"{% endif %}>{{ page.subtitle }}</p>
         </div>
     </div>
 </section>

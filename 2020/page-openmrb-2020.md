@@ -5,7 +5,7 @@ layout: page
 show_sidebar: false
 menubar: past_events
 show_sidebar: false
-#hero_image: assets/ext_images/Home_logo.png
+hero_image: ../../assets/ext_images/logo/openmr_benelux_2020_logo.jpg
 ---
 
 <style>
