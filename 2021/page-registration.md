@@ -15,6 +15,6 @@ show_sidebar: false
 
 
 
-<img src="../../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
 <br>
 <a href="../page-registration#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
