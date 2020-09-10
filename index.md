@@ -5,19 +5,39 @@ layout: page
 show_sidebar: false
 hero_image: assets/ext_images/logo/openmr_benelux_2021_logo.svg
 ---
-
 <style>
 img {
   width: 30%;
   height: auto;
   display: inline-block;
 }
+div_twitter {
+  max-height: 100vh;
+  overflow-y: scroll;
+  padding-top: 0%;
+  padding-right: 0%;
+  padding-bottom: 5%;
+  padding-left: 5%;
+}
+@media only screen and (max-width: 800px) {
+    #twitter_moment {
+        display: none;
+    }
+}
 </style>
 
-<a name="top"></a>
-## <span style="color:#004777"> OpenMR Benelux 2021 </span> 
+<!-- https://stackoverflow.com/questions/13476267/hide-div-element-when-screen-size-is-smaller-than-a-specific-size/13476297 -->
 
-<img style="float: right;" src="assets/ext_images/2020/side-column-openmr2020.jpg" width="400" height="80" vspace="10px">
+<a name="top"></a>
+## <span style="color:#004777"> OpenMR Benelux 2021 </span> 
+<a href="https://twitter.com/openmrbenelux?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @openmrbenelux</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!-- <img style="float: right;" src="assets/ext_images/2020/side-column-openmr2020.jpg" width="400" height="80" vspace="10px"> -->
+
+<div_twitter id="twitter_moment" style="float: right;">
+  <!-- https://publish.twitter.com/ -->
+  <a class="twitter-moment" href="https://twitter.com/i/moments/1303701445934448641?ref_src=twsrc%5Etfw">OpenMR Benelux 2020</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div_twitter>
 
 <p><div style="text-align: justify">Excited about an open world, where ideas and tools are shared, and collaboration-based development is standard in the magnetic resonance imaging (MRI) community?</div></p> 
 <p><div style="text-align: justify">Us too! And that is what the OpenMR Benelux is all about. Let’s open up this discussion!</div></p>
