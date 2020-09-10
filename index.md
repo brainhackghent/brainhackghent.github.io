@@ -5,6 +5,7 @@ layout: page
 show_sidebar: false
 hero_image: assets/ext_images/logo/openmr_benelux_2021_logo.svg
 ---
+
 <style>
 img {
   width: 30%;
