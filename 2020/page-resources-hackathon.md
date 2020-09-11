@@ -21,7 +21,6 @@ img {
 }
 </style>
 
-<a name="top"></a>
 <div style="text-align: justify">This year, we are embracing a new concept by combining:
 <ul>
 <li>a first day (<b>Tuesday <a href="../page-program#day1">21</a> January</b>) of talks and discussions;</li>
@@ -65,4 +64,4 @@ If you would like to propose your own idea, but you're not sure whether or how t
 
 <img src="../../assets/ext_images/2020/post_separator.png" alt="text">
 <br>
-<a href="../page-resources-hackathon#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
+<a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>

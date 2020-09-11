@@ -21,7 +21,6 @@ img {
 }
 </style>
 
-<a name="top"></a>
 ## <span style="color:#004777"> This year's event will be awesome! </span> 
 
 <!-- <img style="float: right;" src="../../assets/ext_images/nijmegen_doodle_big.jpg" width="20%" height="42%" vspace="0%"> -->
@@ -73,4 +72,4 @@ img {
 
 <img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
 
-<i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i>
+<a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
