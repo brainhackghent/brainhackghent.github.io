@@ -3,7 +3,7 @@ title: Home
 subtitle: ""
 layout: page
 show_sidebar: false
-hero_image: assets/ext_images/logo/openmr_benelux_2021_logo.svg
+hero_image: ../assets/ext_images/logo/openmr_benelux_2021_logo.svg
 ---
 
 <style>
@@ -29,7 +29,6 @@ div_twitter {
 
 <!-- https://stackoverflow.com/questions/13476267/hide-div-element-when-screen-size-is-smaller-than-a-specific-size/13476297 -->
 
-<a name="top"></a>
 ## <span style="color:#004777"> OpenMR Benelux 2021 </span> 
 <a href="https://twitter.com/openmrbenelux?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @openmrbenelux</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -45,7 +44,7 @@ div_twitter {
 <p><div style="text-align: justify">For the third time, OpenMR Benelux organizes a meeting concerning open MRI science. This year’s event, <b>OpenMR Benelux 2021</b>, will be awesome! We invite you to join us and a team of amazing MRI researchers and developers to learn, speak up, develop, and discuss open (MRI) science practices!</div></p> 
 <!-- an exciting 3-day program lined up with talks, discussions, workshops, training sessions, and <a href="./page-resources-hackathon">hackathons</a> -->
 
-<img src="assets/ext_images/2020/post_separator.png" alt="text" align="left">
+<img src="../assets/ext_images/2020/post_separator.png" alt="text" align="left">
 
 <br><br>
 
@@ -59,6 +58,6 @@ div_twitter {
 <p><div style="text-align: justify">We focus on working together on implementable solutions in all forms: software toolboxes, process descriptions, community projects, knowledge-sharing initiatives, and more. Open discussion is central to our event and we foster open-minded attitudes and a readiness to participate. Interested in joining? See our next event! Want to see the people working hard in the background to make this a success? Meet the <a href="/2021/page-team">Team</a>!</div></p> 
 <p><div style="text-align: justify">Last year's edition of OpenMR Benelux was a blast! You can check out last year’s program, speakers, and more at the <a href="page-past-events">Past events Page</a>.</div></p>
 
-<img src="assets/ext_images/2020/post_separator.png" alt="text">
+<img src="../assets/ext_images/2020/post_separator.png" alt="text">
 <br>
-<a href="../index#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
+<a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
