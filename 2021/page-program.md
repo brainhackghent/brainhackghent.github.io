@@ -35,6 +35,9 @@ img {
   display:block;
   width:1350px
 }
+.break_clr{
+ background: #cecaca;
+}
 </style>
 </head>
 
@@ -85,7 +88,7 @@ img {
 
 <tbody>
 <tr valign="top">
-<td style="background: #cecaca;" bgcolor="#cecaca" width="14%">
+<td class= "break_clr" bgcolor="#cecaca" width="14%">
 <p><strong>8:15 &ndash; 9:00</strong></p>
 </td>
 <td style="background: #cecaca;" bgcolor="#cecaca" width="66%">
