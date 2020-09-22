@@ -66,7 +66,7 @@ img {
 
 <p align=" justify">The event will span three days during which participants can take part in the following main activities:
 <UL>
-<LI><b>Tuesday <a href="../page-program#day1">21</a> January</b> - <b>Talks</b>: the opening day of OpenMR Benelux will be filled with talks and discussions on a variety of topics applicable to open science in MRI, similar to OpenMR Benelux 2019.</LI>
+<LI><b>Tuesday <a href="../page-program#day1">21</a> January</b> - <b>Talks</b>: the opening day of OpenMR Benelux will be filled with talks and discussions on a variety of topics applicable to open science in MRI, similar to the past events.</LI>
 <LI><b>Wednesday and Thursday <a href="../page-program#day2">22</a>+<a href="../page-program#day3">23</a> January</b> - <b>HackTrack</b>: this year, we will also host a hackathon! Participants are welcome to suggest their own projects or join an existing project. Head over to our <a href="https://github.com/OpenMRBenelux/openmrb2020-hackathon">hackathon repository</a> to browse projects or to suggest your own.</LI>
 <LI><b>Wednesday and Thursday <a href="../page-program#day2">22</a>+<a href="../page-program#day3">23</a> January</b> - <b>TrainTrack</b>: in parallel to the HackTrack, we have worked out a full program for those who want to get more hands-on experience with tools for conducting open research in MRI, including version control with git, Python, Jupyter Notebooks, Docker, and a treasure-trove of toolbox demos.</LI>
 </UL>
@@ -91,7 +91,7 @@ img {
 <p><strong><font color="white">Time</font></strong></p>
 </th>
 <th class= "tbl_head_clr"  width="66%">
-<p><strong><font color="white">Program: Tuesday, 21 January 2020</font></strong></p>
+<p><strong><font color="white">Program: Tuesday, 21 January 2021</font></strong></p>
 </th>
 <th class= "tbl_head_clr"  width="10%">
 <p><strong><font color="white">Talk Workshop Demo</font></strong></p>
@@ -457,10 +457,10 @@ img {
 <p><strong><font color="white">Time</font></strong></p>
 </th>
 <th class= "tbl_head_clr"  width="33%">
-<p><strong><font color="white">Program: Wednesday, 22 January 2020</font></strong></p>
+<p><strong><font color="white">Program: Wednesday, 22 January 2021</font></strong></p>
 </th>
 <th class= "tbl_head_clr"  width="33%">
-<p><strong><font color="#004777">Program: Wednesday, 22 January 2020</font></strong></p> 
+<p><strong><font color="#004777">Program: Wednesday, 22 January 2021</font></strong></p> 
 </th>
 <th class= "tbl_head_clr"  width="10%">
 <p><strong><font color="white">Talk Workshop Demo</font></strong></p>
@@ -644,10 +644,10 @@ img {
 <p><strong><font color="white">Time</font></strong></p>
 </th>
 <th class= "tbl_head_clr"  width="33%">
-<p><strong><font color="white">Program: Thursday, 23 January 2020</font></strong></p>                                                                                                     
+<p><strong><font color="white">Program: Thursday, 23 January 2021</font></strong></p>                                                                                                     
 </th> 
 <th class= "tbl_head_clr"  width="33%">
-<p><strong><font color="004777">Program: Thursday, 23 January 2020</font></strong></p>
+<p><strong><font color="004777">Program: Thursday, 23 January 2021</font></strong></p>
 </th>
 <th class= "tbl_head_clr"  width="10%">
 <p><strong><font color="white">Talk Workshop Demo</font></strong></p>
