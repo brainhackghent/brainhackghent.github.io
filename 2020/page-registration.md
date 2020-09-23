@@ -10,7 +10,6 @@ menubar: past_events
 
 <!-- ## Register here! -->
 
-<a name="top"></a>
 ## <span style="color:#004777"> Registration is now open for OpenMR Benelux 2020! </span>
 <br>
 
@@ -93,4 +92,4 @@ img {
 
 <img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
 <br>
-<a href="../page-registration#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
+<a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>

@@ -15,8 +15,6 @@ img {
 }
 </style>
 
-<a name="top"></a>
-
 <p><div style="text-align: justify">OpenMR Benelux is dedicated to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, social class and background, disability, physical appearance, body size, race, age, religion, nationality, or the presence of or care for dependents. We do not tolerate harassment of conference participants in any form. Event participants violating these rules may be sanctioned or expelled from the event at the discretion of the event organisers.</div></p>
 <p><div style="text-align: justify"><b><i>Harassment</i> includes, but is not limited to:</b></div></p>
 
@@ -58,4 +56,4 @@ img {
 
 <img src="../assets/ext_images/2020/post_separator.png" alt="text">
 <br>
-<a href="../page-code-of-conduct#top"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
+<a href="../#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
