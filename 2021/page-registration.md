@@ -11,9 +11,9 @@ show_sidebar: false
 
 <a name="top"></a>
 
-<p><div style="text-align: justify">OpenMR Benelux 2021 is an unconference and hackathon style event focusing on inclusive, transparent, and reproducible science in the field of Magnetic Resonance Imaging. It spans three days of talks, discussions, workshops, demos, and hackathons. <b>Please refer to the detailed <a href="../page-program"><b>program</b></a> for more information about these activities.</div></p>
+<p><div style="text-align: justify">OpenMR Benelux 2021 is an unconference and hackathon style event focusing on inclusive, transparent, and reproducible science in the field of Magnetic Resonance Imaging. It spans three days of talks, discussions, workshops, demos, and hackathons. <b>Please refer to the detailed <a href="../page-program"><b>program</b></a> for more information about these activities.</b></div></p>
 
-<img src="../../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text">  
 
 <div><p>
     <ul>
@@ -26,8 +26,7 @@ show_sidebar: false
     </ul>
     </p>
 </div>
-
-<img src="../../assets/ext_images/post_separator.png" alt="text"> 
+<img src="../../assets/ext_images/2020/post_separator.png" alt="text">  
 
 <h2>Take note</h2>
 
@@ -58,11 +57,6 @@ img {
 <div class="reg-form"> 
 <iframe src="https://forms.gle/nC9keHfWe7mQcsLp7" width="640" height="1086" frameborder="0" marginheight="0" marginwidth="0" style="border:0" allowfullscreen>Laden…</iframe>
 </div>
-
-<img src="../../assets/ext_images/post_separator.png" alt="text"> 
-=======
-<p><div style="text-align: justify">OpenMR Benelux 2021 is an unconference and hackathon style event focusing on inclusive, transparent, and reproducible science in the field of Magnetic Resonance Imaging. <b>We are currently working hard on a new program for the next event!</b> Be sure to keep an eye on the <a href="../page-program"><b>Program page</b></a>.</div></p>  
-
 <img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
 <br>
 <a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
