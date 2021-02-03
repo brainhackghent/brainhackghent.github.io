@@ -20,9 +20,9 @@ img {
 }
 </style>
 
-## <span style="color:#004777"> We are currently looking for new funders! </span>
+## <span style="color:#004777"> We are looking for sponsors! </span>
 
-Are you interested in funding our event? Great! Head over to our <a href="../../page-contact">Contact page</a> and contact us!
+Are you interested in sponsoring our event? Great! Head over to our <a href="../../page-contact">Contact page</a> and contact us!
 
 You can view last year's sponsors on <a href="../../2020/page-sponsors">this page</a> .
 
