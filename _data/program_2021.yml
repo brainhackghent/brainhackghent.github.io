@@ -1,0 +1,40 @@
+-
+  date: "2021-01-01"
+  dateReadable: "Day 1: 1rst January 2021"
+  tracks:
+    - {title: "TrainTrack", color: "#90be4e"}
+    - {title: "HackTrack", color: "#03a9f4"}
+  timeSlots:
+    - {
+      startTime: "08:00",
+      endTime: "09:00",
+      sessionTitle: "coffee break",
+      speaker: ,
+      sessionType: ,
+      slides: 
+    }
+    - {
+      startTime: "09:00",
+      endTime: "10:00",
+      sessionTitle: "Best session event",
+      speaker: "Marie Curie",
+      sessionType: ,
+      slides: "google.com"  
+    }
+-
+  date: "2021-01-02"
+  dateReadable: "02 January 2021, Day 2"
+  tracks:
+    - {title: "TrainTrack", color: "#90be4e"}
+    - {title: "HackTrack", color: "#03a9f4"}
+  timeSlots:
+    - {
+      startTime: "08:00",
+      endTime: "09:00",
+      sessionTitle: "coffee break"
+    }
+    - {
+      startTime: "09:00",
+      endTime: "10:00",
+      sessionTitle: "Best session event"
+    }

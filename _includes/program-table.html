@@ -1,0 +1,92 @@
+<section class="container">
+  <!-- looping through the days of the program and then through each session -->
+  {% for day in include.program %}
+
+  <!-- TODO: get loop index to generate this link rather than hard coding -->
+  <a name="day1"></a>
+
+  <!-- see the documentation -->
+  <!-- https://bulma.io/documentation/elements/table/ -->
+  <div class="table-container">
+    <table class="table is-bordered is-striped is-fullwidth is-hoverable">
+      <col width="14%" />
+      <col width="66%" />
+      <col width="10%" />
+      <col width="10%" />
+
+      <thead>
+        <tr>
+          <th>
+            <p>Time</p>
+          </th>
+
+          <th>
+            <p>Program: {{ day.dateReadable }}</p>
+          </th>
+
+          <th>
+            <p>
+              Talk <br />
+              Workshop <br />
+              Demo
+            </p>
+          </th>
+
+          <th>
+            <p>Slides</p>
+          </th>
+        </tr>
+      </thead>
+
+      <tbody>
+        {% for timeSlot in day.timeSlots %}
+
+        <tr>
+          <td>
+            <p>{{ timeSlot.startTime}} - {{ timeSlot.endTime }}</p>
+          </td>
+
+          <td>
+            <p>
+              {{ timeSlot.sessionTitle}}
+              <br />
+              {{ timeSlot.speaker}}
+            </p>
+          </td>
+
+          <td>
+            <p></p>
+          </td>
+
+          <td>
+            {% if timeSlot.slides %}
+            <a href="{{ timeSlot.slides }}"> link </a>
+            {% endif %}
+          </td>
+        </tr>
+
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  <img src="../../assets/ext_images/2020/post_separator.png" alt="text" />
+
+  <br />
+
+  {% endfor %}
+
+  <a href="../page-program#top">
+    <i
+      class="fas fa-arrow-alt-circle-up"
+      style="
+        position: relative;
+        top: -3px;
+        text-indent: 0px;
+        vertical-align: middle;
+        color: #004777;
+      "
+    >
+    </i>
+  </a>
+</section>
