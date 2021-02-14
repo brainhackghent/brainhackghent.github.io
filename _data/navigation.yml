@@ -3,12 +3,8 @@
   dropdown:
     - name: Registration
       link: /2021/page-registration/
-    - name: Program old
-      link: /2021/page-program-old/
-    - name: Program new
-      link: /2021/page-program-new/
-    - name: Program auto
-      link: /2021/page-program-auto/
+    - name: Program
+      link: /2021/page-program/
     - name: Speakers
       link: /2021/page-speakers/
     - name: Content

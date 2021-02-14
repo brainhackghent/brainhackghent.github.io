@@ -15,44 +15,13 @@ show_sidebar: false
 <style>
 table.fixed { table-layout: fixed; }
 
-img {
-  width: 30%;
-  height: auto;
-  display: inline-block;
-}
-.img1 {
-  width: 18%;
-  height: auto;
-  display: inline-block;
-}
-.fixed_header tbody{
-  display:block;
-  overflow-x:auto;
-  height:400px;
-  width:1350px;
-}
-.fixed_header thead tr{
-  display:block;
-  width:1350px
-}
-.break_clr{
- background: #cecaca;
-}
-.cell_white_clr{
-  background: #ffffff;
-}
-.tbl_head_clr{
-  background: #004777;
-}
-.Whte_Smoke_clr{
-  background: #F5F5F5;
-}
-.Patns_blue_clr{
-  background: #dbf4fc;
-}
-.Alice_Blue_clr{
-  background: #e8f7fc;
-}
+img { width: 30%; height: auto; display: inline-block; } .img1 { width: 18%;
+height: auto; display: inline-block; } .fixed_header tbody{ display:block;
+overflow-x:auto; height:400px; width:1350px; } .fixed_header thead tr{
+display:block; width:1350px } .break_clr{ background: #cecaca; }
+.cell_white_clr{ background: #ffffff; } .tbl_head_clr{ background: #004777; }
+.Whte_Smoke_clr{ background: #F5F5F5; } .Patns_blue_clr{ background: #dbf4fc; }
+.Alice_Blue_clr{ background: #e8f7fc; }
 
 </style>
 </head>
@@ -60,6 +29,7 @@ img {
 <body>
 
 <a name="top"></a>
+
 <p align=" justify">The program for OpenMR Benelux 2021 is shown below.</p>
 
 <img class="img1" style="float: right;" src="../../assets/ext_images/2020/interaction.jpg" width="560" height="560" vspace="10px" hspace="20px">
@@ -71,8 +41,6 @@ img {
 <LI><b>Wednesday and Thursday <a href="../page-program#day2">22</a>+<a href="../page-program#day3">23</a> January</b> - <b>TrainTrack</b>: in parallel to the HackTrack, we have worked out a full program for those who want to get more hands-on experience with tools for conducting open research in MRI, including version control with git, Python, Jupyter Notebooks, Docker, and a treasure-trove of toolbox demos.</LI>
 </UL>
 </p>
-
-
 
 <p>&nbsp;</p>
 
@@ -444,6 +412,7 @@ img {
 <!--<p><br><br><strong>Wednesday and Thursday, 22-23 January 2020 </strong>: Parallel sessions for <strong>hackathons</strong> and <strong>training workshops</strong> will take place.</p>-->
 
 <a name="day2"></a>
+
 <div style="overflow-x:auto;">
 <table width="100%" cellspacing="0" cellpadding="2" class="fixed" class="fixed_header">
     <col width="150px" />
@@ -631,6 +600,7 @@ img {
 <img src="../../assets/ext_images/2020/post_separator.png" alt="text">
 
 <a name="day3"></a>
+
 <div style="overflow-x:auto;">
 <table width="100%" cellspacing="0" cellpadding="2" class="fixed" class="fixed_header">
     <col width="150px" />
