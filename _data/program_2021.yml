@@ -5,20 +5,7 @@
     - { title: "HackTrack", color: "#03a9f4" }
   timeSlots:
     - {
-        startTime: "08:00",
-        endTime: "09:00",
-        sessionTitle: "coffee break",
-        speaker,
-        sessionType,
-        slides,
-      }
-    - {
-        startTime: "09:00",
-        endTime: "10:00",
-        sessionTitle: "Best session event",
-        speaker: "Marie Curie",
-        sessionType,
-        slides: "google.com",
+  - { startTime: "09:30", endTime: "16:30", sessionTitle: "TBD", speaker: "TBD", sessionType: "TBD", slides, }
       }
 
 - date: "2021-03-25"
@@ -27,12 +14,7 @@
     - { title: "TrainTrack", color: "#90be4e" }
     - { title: "HackTrack", color: "#03a9f4" }
   timeSlots:
-    - { startTime: "08:00", endTime: "09:00", sessionTitle: "coffee break" }
-    - {
-        startTime: "09:00",
-        endTime: "10:00",
-        sessionTitle: "Best session event",
-      }
+    - { startTime: "10:00", endTime: "16:00", sessionTitle: "TBD", speaker: "TBD", sessionType: "TBD", slides, }
 
 - date: "2021-03-26"
   dateReadable: "Day 2: 26th March 2021"
@@ -40,7 +22,7 @@
     - { title: "TrainTrack", color: "#90be4e" }
     - { title: "HackTrack", color: "#03a9f4" }
   timeSlots:
-    - { startTime: "08:00", endTime: "09:00", sessionTitle: "coffee break" }
+    - { startTime: "10:00", endTime: "16:00", speaker: "TBD", sessionTitle: "TBD",  sessionType: "TBD", slides, }
     - {
         startTime: "09:00",
         endTime: "10:00",
