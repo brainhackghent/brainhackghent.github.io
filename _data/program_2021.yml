@@ -9,6 +9,8 @@
         endTime: "16:30",
         sessionTitle: "TBD",
         speaker: "TBD",
+        speakerLink: "../page-speakers",
+        breakStatus,
         sessionType: "TBD",
         slides: "",
       }
@@ -24,6 +26,8 @@
         endTime: "16:00",
         sessionTitle: "TBD",
         speaker: "TBD",
+        speakerLink: "../page-speakers",
+        breakStatus,
         sessionType: "TBD",
         slides: "",
       }
@@ -38,6 +42,8 @@
         startTime: "10:00",
         endTime: "16:00",
         speaker: "TBD",
+        speakerLink: "../page-speakers",
+        breakStatus,
         sessionTitle: "TBD",
         sessionType: "TBD",
         slides: "",

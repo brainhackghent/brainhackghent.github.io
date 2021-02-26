@@ -1,5 +1,11 @@
 <html>
-  <style></style>
+  <style>
+    img {
+      width: 30%;
+      height: auto;
+      display: inline-block;
+    }
+  </style>
 
   <body class="program">
     <section class="container">
@@ -29,11 +35,7 @@
               </th>
 
               <th>
-                <p>
-                  Talk <br />
-                  Workshop <br />
-                  Demo
-                </p>
+                <p>Type</p>
               </th>
 
               <th>
@@ -46,22 +48,24 @@
             {% for timeSlot in day.timeSlots %}
 
             <tr valign="top">
-              <td>
+              <td class="{{timeSlot.breakStatus}}">
                 <p class="strong_font">
                   {{ timeSlot.startTime}} - {{ timeSlot.endTime }}
                 </p>
               </td>
 
-              <td>
-                <p class="strong_font">{{ timeSlot.sessionTitle}}</p>
-                <p>{{ timeSlot.speaker}}</p>
+              <td class="{{timeSlot.breakStatus}}">
+                <p class="strong_font">{{ timeSlot.sessionTitle }}</p>
+                {% if timeSlot.speaker %}
+                  <p><a href="{{ timeSlot.speakerLink }}">{{ timeSlot.speaker }}</a></p>
+                {% endif %}
               </td>
 
-              <td class="strong_font">
-                <p></p>
+              <td class="{{timeSlot.breakStatus}}">
+                <p class="strong_font">{{ timeSlot.sessionType }}</p>
               </td>
 
-              <td class="strong_font">
+              <td class="strong_font; {{timeSlot.breakStatus}}">
                 {% if timeSlot.slides %}
                 <a href="{{ timeSlot.slides }}"> link </a>
                 {% endif %}
