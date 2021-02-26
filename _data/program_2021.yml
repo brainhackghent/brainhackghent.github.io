@@ -29,7 +29,7 @@
       }
 
 - date: "2021-03-26"
-  dateReadable: "Day 2: 26th March 2021"
+  dateReadable: "Day 3: 26th March 2021"
   tracks:
     - { title: "TrainTrack", color: "#90be4e" }
     - { title: "HackTrack", color: "#03a9f4" }
