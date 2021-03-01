@@ -15,6 +15,6 @@ show_sidebar: false
         </ol>
     <li>A <b>HackTrack</b>, in which you can work together on self-initiated projects. Launch or join a hackathon project <a href="https://github.com/OpenMRBenelux/openmrb2021-hackathon" target="_blank">here</a><li>
  </ul>
- Find the schedule of our TrainTrack below!</p>
+ Find the schedule of our TrainTrack below! Please note that all times are in Central European Time (CET). </p>
 
  {% include program-table.html program=site.data.program_2021 %}
