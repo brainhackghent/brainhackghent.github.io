@@ -20,11 +20,13 @@ img {
 }
 </style>
 
-## <span style="color:#004777"> We are looking for sponsors! </span>
+## <span style="color:#004777"> A special thanks to our sponsors without whom this event wouldn’t be possible! </span>
 
-Are you interested in sponsoring our event? Great! Head over to our <a href="../../page-contact">Contact page</a> and contact us!
+<p><a href="https://www.merckgroup.com/en" target="_blank"><img src="../../img/sponsors-21/MERCK.jpg" /></a></p>
 
-You can view last year's sponsors on <a href="../../2020/page-sponsors">this page</a> .
+<p>Are you interested in sponsoring our event? Head over to our <a href="../../page-contact">Contact page</a> and contact us!
+
+You can view last year's sponsors on <a href="../../2020/page-sponsors">this page</a></p>
 
 <img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
 <br>
