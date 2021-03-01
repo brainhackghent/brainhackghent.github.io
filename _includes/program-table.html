@@ -31,7 +31,7 @@
               </th>
 
               <th>
-                <p>Program: {{ day.dateReadable }}</p>
+                <p>{{ day.dateReadable }}</p>
               </th>
 
               <th>
@@ -81,8 +81,6 @@
 
       <br />
 
-      {% endfor %}
-
       <a href="../page-program#top">
         <i
           class="fas fa-arrow-alt-circle-up"
@@ -96,6 +94,11 @@
         >
         </i>
       </a>
+    <br>
+    
+      {% endfor %}
+
+
     </section>
   </body>
 </html>
