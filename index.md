@@ -36,7 +36,7 @@ div_twitter {
 
 <div_twitter id="twitter_moment" style="float: right;">
   <!-- https://publish.twitter.com/ -->
-  <a class="twitter-moment" href="https://twitter.com/i/moments/1303701445934448641?ref_src=twsrc%5Etfw">OpenMR Benelux 2020</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a class="twitter-timeline" data-lang="en" data-width="270" data-height="500" data-theme="light" href="https://twitter.com/openmrbenelux?ref_src=twsrc%5Etfw">Tweets by openmrbenelux</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div_twitter>
 
 <p><div style="text-align: justify">Excited about an open world, where ideas and tools are shared, and collaboration-based development is standard in the magnetic resonance imaging (MRI) community?</div></p> 
