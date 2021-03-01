@@ -5,5 +5,16 @@ layout: page
 show_sidebar: false
 ---
 
- <p align=" justify">We are currently working hard on a new program for OpenMR Benelux 2021. Coming soon!</p>
+ <p align=" justify">OpenMR Virtual 2021 runs over 3 days and consists of two parallel tracks:
+ <ul>
+    <li>A <b>TrainTrack</b>, consisting of talks and workshops that will help you learn new skills in:
+        <ol>
+            <li>clean coding practices</li>
+            <li>reproducible data visualization</li>
+            <li>science communication</li>
+        </ol>
+    <li>A <b>HackTrack</b>, in which you can work together on self-initiated projects. Launch or join a hackathon project <a href="https://github.com/OpenMRBenelux/openmrb2021-hackathon" target="_blank">here</a><li>
+ </ul>
+ Find the schedule of our TrainTrack below!</p>
+
  {% include program-table.html program=site.data.program_2021 %}
