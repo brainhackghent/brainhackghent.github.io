@@ -18,11 +18,8 @@ show_sidebar: false
 <div><p>
     <ul>
         <li><b>When</b>: Wednesday 24, Thursday 25 and Friday 26 March 2021</li>
-        <li><b>Where</b>: online (links will be sent after registration)</li>
-        <ul>
-            <li>We will make use of <a href="https://zoom.us/">Zoom</a> and <a href="https://discord.com/">Discord</a>. We recommend downloading both to your PC prior to the event. They are free to download and use.</li>
-        </ul>
-        <li><b>Who</b>: anyone in the field of Magnetic Resonance Imaging or a related field can register, anywhere on earth. Please note that we have limited spaces available.</li>
+        <li><b>Where</b>: online (links will be sent after registration). We will make use of <a href="https://zoom.us/">Zoom</a> and <a href="https://discord.com/">Discord</a>. We recommend downloading both to your PC prior to the event. They are free to download and use.</li>
+        <li><b>Who</b>: anyone in the field of Magnetic Resonance Imaging or a related field can register, anywhere on earth.</li>
     </ul>
     </p>
 </div>
