@@ -7,7 +7,7 @@
         <div class="tile is-ancestor person">
           {% for loop in (0..1) %}
           <div class="tile is-vertical is-parent">
-            <!-- nr = '4' and limit: 4 are hardcoded => to improve -->
+            <!-- switch column: nr = '4' and limit: 4 are hardcoded => to improve -->
             {% if loop == 0 %}{% assign nr = '0' %}{% else %}{% assign nr = '4'
             %}{% endif %} {% for teamMember in include.this_year_team limit: 4
             offset: nr %}
@@ -70,7 +70,7 @@
         <div class="tile is-ancestor person">
           {% for loop in (0..1) %}
           <div class="tile is-vertical is-parent">
-            <!-- nr = '2' and limit: 2 are hardcoded => to improve -->
+            <!-- switch column: nr = '2' and limit: 2 are hardcoded => to improve -->
             {% if loop == 0 %}{% assign nr = '0' %}{% else %}{% assign nr = '2'
             %}{% endif %} {% for advisor in include.this_year_advisors limit: 2
             offset: nr %}
