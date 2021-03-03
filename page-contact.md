@@ -72,7 +72,7 @@ input[type=submit]:hover {
   <div class="tile is-parent" style="background-color:#004777">
     <article class="tile is-child box has-text-centered">
       <p class="title" style="color:#004777">Newsletter</p>
-      <p class="subtitle"></p>
+      <p class="subtitle" style="font-size:75%">*We won't spam you. We will only send out a letter a few times a year when we have important news to share,  e.g., information about new events or important resources.</p>
       <div class="content">
       <!-- Begin Mailchimp Signup Form -->
       <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
@@ -84,7 +84,7 @@ input[type=submit]:hover {
       <div id="mc_embed_signup">
       <form action="https://gmail.us7.list-manage.com/subscribe/post?u=a54d6ca5119ffc7047d212fc8&amp;id=851dea9fc5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
           <div id="mc_embed_signup_scroll">
-        <label for="mce-EMAIL">Sign up to our newsletter!</label><br>
+        <label for="mce-EMAIL">Subscribe to our newsletter!</label><br>
         <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
           <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
           <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a54d6ca5119ffc7047d212fc8_851dea9fc5" tabindex="-1" value=""></div><br><br>
