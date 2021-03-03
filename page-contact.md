@@ -55,15 +55,13 @@ input[type=submit]:hover {
 <p><div style="text-align: justify">Do not hesitate and contact us. We will answer you as soon as possible to the best of our abilities!</div></p><br>
 
 <div class="tile is-ancestor">
-  <div class="tile is-parent" style="background-color:#ffd96650">
+  <div class="tile is-parent is-vertical" style="background-color:#ffd96650">
     <article class="tile is-child box has-text-centered">
       <p class="title" style="color:#004777">Slack</p>
       <p class="subtitle"><span style="color:#ffd996;font-size:75%"> <i class="fab fa-slack-hash"></i> </span>&nbsp;&nbsp;Join the Slack channel!&nbsp;&nbsp;<span style="color:#ffd996;font-size:75%"> <i class="fab fa-slack-hash"></i> </span></p>
       <div class="content"><a href="https://app.slack.com/client/TFKL50SKV/CFKP8AB3L/thread/G010PLR3XNX-1614502987.003700" target="_blank">#openmr2021</a></div>
     </article>
-  </div>
-  <div class="tile is-parent"  style="background-color:#ffd96650">
-    <article class="tile is-child box has-text-centered">
+        <article class="tile is-child box has-text-centered">
       <p class="title" style="color:#004777">Email</p>
       <p class="subtitle"><span style="color:#ffd996;font-size:75%"> <i class="far fa-envelope"></i> </span>&nbsp;&nbsp;Send us an email!&nbsp;&nbsp;<span style="color:#ffd996;font-size:75%"> <i class="far fa-envelope"></i> </span></p>
       <div class="content"><a href="mailto:openmrbenelux@gmail.com">openmrbenelux(at)gmail(dot)com</a></div>
@@ -77,34 +75,34 @@ input[type=submit]:hover {
       <!-- Begin Mailchimp Signup Form -->
       <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
       <style type="text/css">
-	      #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	      /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	         We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+        #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+          We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
       </style>
       <div id="mc_embed_signup">
       <form action="https://gmail.us7.list-manage.com/subscribe/post?u=a54d6ca5119ffc7047d212fc8&amp;id=851dea9fc5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
           <div id="mc_embed_signup_scroll">
-	      <h2>Subscribe to our newsletter!</h2>
+        <h2>Subscribe to our newsletter!</h2>
       <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
       <div class="mc-field-group">
-	      <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+        <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
       </label>
-	      <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
       </div>
       <div class="mc-field-group">
-	      <label for="mce-FNAME">First Name  <span class="asterisk">*</span>
+        <label for="mce-FNAME">First Name  <span class="asterisk">*</span>
       </label>
-	      <input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+        <input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
       </div>
       <div class="mc-field-group">
-	      <label for="mce-LNAME">Last Name  <span class="asterisk">*</span>
+        <label for="mce-LNAME">Last Name  <span class="asterisk">*</span>
       </label>
-	      <input type="text" value="" name="LNAME" class="required" id="mce-LNAME">
+        <input type="text" value="" name="LNAME" class="required" id="mce-LNAME">
       </div>
-	      <div id="mce-responses" class="clear">
-		      <div class="response" id="mce-error-response" style="display:none"></div>
-		      <div class="response" id="mce-success-response" style="display:none"></div>
-	      </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div id="mce-responses" class="clear">
+          <div class="response" id="mce-error-response" style="display:none"></div>
+          <div class="response" id="mce-success-response" style="display:none"></div>
+        </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
           <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a54d6ca5119ffc7047d212fc8_851dea9fc5" tabindex="-1" value=""></div>
           <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
           </div>
