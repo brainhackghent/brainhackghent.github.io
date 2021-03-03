@@ -13,11 +13,32 @@ show_sidebar: false
   height: auto;
   display: inline-block;
 }
+
+/* Two image containers */
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 </style>
 
 ## <span style="color:#004777"> A special thanks to our sponsors without whom this event wouldn’t be possible! </span>
-
-<p><a href="https://www.merckgroup.com/en" target="_blank"><img src="../../img/sponsors-21/MERCK.jpg" /></a></p>
+<br>
+<div class="row">
+  <div class="column">
+    <a href="https://www.merckgroup.com/en" target="_blank"><img src="../../img/sponsors-21/MERCK.jpg" style="zoom:35%"/></a>
+  </div>
+  <div class="column">
+    <a href="https://www.ieee.org/" target="_blank"><img src="../../img/sponsors-21/ieee.png" /></a>
+  </div>
+</div>
 
 <p>Are you interested in sponsoring our event? Head over to our <a href="../../page-contact">Contact Page</a> and contact us!
 
