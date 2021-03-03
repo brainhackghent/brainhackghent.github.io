@@ -30,14 +30,14 @@
         sessionTitle: "Morning break",
         speaker: "",
         speakerLink: "",
-        breakStatus,
-        sessionType: "Break",
+        breakStatus: "break",
+        sessionType: "",
         slides: "",
       }
     - {
         startTime: "11:00",
         endTime: "12:00",
-        sessionTitle: "To be announced",
+        sessionTitle: "TBA",
         speaker: "",
         speakerLink: "",
         breakStatus,
@@ -50,8 +50,8 @@
         sessionTitle: "Lunch break",
         speaker: "",
         speakerLink: "",
-        breakStatus,
-        sessionType: "Break",
+        breakStatus: "break",
+        sessionType: "",
         slides: "",
       }
     - {
@@ -70,22 +70,29 @@
         sessionTitle: "Afternoon break",
         speaker: "",
         speakerLink: "",
-        breakStatus,
-        sessionType: "Break",
+        breakStatus: "break",
+        sessionType: "",
         slides: "",
       }
     - {
         startTime: "15:30",
         endTime: "16:30",
         sessionTitle: "Panel discussion: what constitutes clean code?",
-        speaker: "Felienne Hermans, Jade Abbott, Adora Nwodo, Yo Yehudi, Remi Gau",
+        speaker:
+          {
+            "Felienne Hermans",
+            "Jade Abbott",
+            "Adora Nwodo",
+            "Yo Yehudi",
+            "Remi Gau",
+          },
         speakerLink: "../page-speakers",
         breakStatus,
         sessionType: "Panel",
         slides: "",
       }
 - date: "2021-03-25"
-  dateReadable: "Day 2: 25th March 2021"
+  dateReadable: "Day 2: Thursday, 25<sup>th</sup> March 2021"
   tracks:
     - { title: "TrainTrack", color: "#90be4e" }
     - { title: "HackTrack", color: "#03a9f4" }
@@ -116,8 +123,8 @@
         sessionTitle: "Lunch break",
         speaker: "",
         speakerLink: "",
-        breakStatus,
-        sessionType: "Break",
+        breakStatus: "break",
+        sessionType: "",
         slides: "",
       }
     - {
@@ -156,8 +163,8 @@
         sessionTitle: "Afternoon break",
         speaker: "",
         speakerLink: "",
-        breakStatus,
-        sessionType: "Break",
+        breakStatus: "break",
+        sessionType: "",
         slides: "",
       }
     - {
@@ -172,7 +179,7 @@
       }
 
 - date: "2021-03-26"
-  dateReadable: "Day 3: 26th March 2021"
+  dateReadable: "Day 3: Friday, 26<sup>th</sup> March 2021"
   tracks:
     - { title: "TrainTrack", color: "#90be4e" }
     - { title: "HackTrack", color: "#03a9f4" }
@@ -212,9 +219,9 @@
         endTime: "11:15",
         speaker: "",
         speakerLink: "",
-        breakStatus,
+        breakStatus: "break",
         sessionTitle: "Morning break",
-        sessionType: "Break",
+        sessionType: "",
         slides: "",
       }
     - {
@@ -262,15 +269,15 @@
         endTime: "13:30",
         speaker: "",
         speakerLink: "",
-        breakStatus,
+        breakStatus: "break",
         sessionTitle: "Lunch break",
-        sessionType: "Break",
+        sessionType: "",
         slides: "",
       }
     - {
         startTime: "13:30",
         endTime: "14:05",
-        speaker: "Guillaume Corradino & Elodie Chabrol",
+        speaker: { "Guillaume Corradino", "Elodie Chabrol" },
         speakerLink: "../page-speakers",
         breakStatus,
         sessionTitle: "Pint of Science, Beyond Research",
@@ -302,9 +309,9 @@
         endTime: "15:00",
         speaker: "",
         speakerLink: "",
-        breakStatus,
+        breakStatus: "break",
         sessionTitle: "Afternoon break",
-        sessionType: "Break",
+        sessionType: "",
         slides: "",
       }
     - {
@@ -320,7 +327,7 @@
     - {
         startTime: "15:45",
         endTime: "16:00",
-        speaker: "OpenMR board & Hackathon leaders",
+        speaker: { "OpenMR board", "Hackathon leaders" },
         speakerLink: "../page-team",
         breakStatus,
         sessionTitle: "Hackathon results & closing",

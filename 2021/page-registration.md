@@ -13,11 +13,13 @@ show_sidebar: false
 
 <img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
 
+<span style="color:#ffd966"> <i class="fas fa-long-arrow-alt-right"></i>&nbsp;&nbsp;FREE OF CHARGE&nbsp;&nbsp;<i class="fas fa-long-arrow-alt-left"></i> </span>
+
 <div><p>
     <ul>
-        <li><span style="color:#ffd966"> <i class="far fa-calendar-alt"></i>&nbsp;&nbsp; </span><b>When?</b> Wednesday 24, Thursday 25, and Friday 26 March 2021!</li>
-        <li><span style="color:#ffd966"> <i class="fas fa-rocket"></i>&nbsp;&nbsp; </span><b>Where?</b> Online! Links will be sent after registration. We will make use of <a href="https://zoom.us/">Zoom</a> and <a href="https://discord.com/">Discord</a>. We recommend downloading both to your PC prior to the event. They are free to download and use.</li>
-        <li><span style="color:#ffd966"> <i class="fas fa-user-astronaut"></i>&nbsp;&nbsp; </span><b>Who?</b> Anyone in the field of Magnetic Resonance Imaging or a related field can register, anywhere on earth.</li>
+        <li><b>When?</b> Wednesday 24, Thursday 25, and Friday 26 March 2021!</li>
+        <li><b>Where?</b> Online! Links will be sent after registration. We will make use of <a href="https://zoom.us/">Zoom</a> and <a href="https://discord.com/">Discord</a>. We recommend downloading both to your PC prior to the event. They are free to download and use.</li>
+        <li><b>Who?</b> Anyone in the field of Magnetic Resonance Imaging or a related field can register, anywhere on earth.</li>
     </ul>
     </p>
 </div>

@@ -50,9 +50,12 @@
                 <p class="strong_font">{{ timeSlot.sessionTitle }}</p>
                 {% if timeSlot.speaker %}
                 <p>
-                  <a href="{{ timeSlot.speakerLink }}"
-                    >{{ timeSlot.speaker }}</a
-                  >
+                  {% for speaker in timeSlot.speaker %}
+                  <span style="color: #ffd966">
+                    <i class="fas fa-user-astronaut"></i>&nbsp;&nbsp;
+                  </span>
+                  <a href="{{ timeSlot.speakerLink }}">{{ speaker }}</a
+                  >&nbsp;&nbsp; {% endfor %}
                 </p>
                 {% endif %}
               </td>
@@ -62,7 +65,7 @@
               </td>
 
               <td class="strong_font; {{timeSlot.breakStatus}}">
-                {% if timeSlot.slides %}
+                {% if timeSlot.slides and timeSlot.breakStatus == null %}
                 <a href="{{ timeSlot.slides }}"> link </a>
                 {% endif %}
               </td>
@@ -81,8 +84,8 @@
 
       <br />
 
-      <a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
-        <i
+      <a href="#"
+        ><i
           class="fas fa-arrow-alt-circle-up"
           style="
             position: relative;
@@ -91,10 +94,10 @@
             vertical-align: middle;
             color: #004777;
           "
-        >
-        </i>
-      </a>
-      <br />
+        ></i
+      ></a>
+
+      <br /><br />
 
       {% endfor %}
     </section>
