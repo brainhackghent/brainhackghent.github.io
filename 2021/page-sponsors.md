@@ -1,5 +1,5 @@
 ---
-title: OpenMR Benelux 2021
+title: OpenMR Virtual 2021
 subtitle: Sponsors
 layout: page
 show_sidebar: false
@@ -8,11 +8,6 @@ show_sidebar: false
 ---
 
 <style>
-img {
-  width: 30%;
-  height: auto;
-  display: inline-block;
-}
 .img1 {
   width: 80%;
   height: auto;
@@ -24,10 +19,10 @@ img {
 
 <p><a href="https://www.merckgroup.com/en" target="_blank"><img src="../../img/sponsors-21/MERCK.jpg" /></a></p>
 
-<p>Are you interested in sponsoring our event? Head over to our <a href="../../page-contact">Contact page</a> and contact us!
+<p>Are you interested in sponsoring our event? Head over to our <a href="../../page-contact">Contact Page</a> and contact us!
 
-You can view last year's sponsors on <a href="../../2020/page-sponsors">this page</a></p>
+You can view last year's sponsors on <a href="../../2020/page-sponsors">this page</a>.</p>
 
-<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
+<img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" /> 
 <br>
 <a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
