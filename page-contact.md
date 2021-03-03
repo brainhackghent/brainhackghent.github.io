@@ -10,11 +10,6 @@ show_sidebar: false
 <!-- ### <span style="color:#004777"> Contact Form </span> -->
 
 <style>
-img {
-  width: 30%;
-  height: auto;
-  display: inline-block;
-}
 form {
     display: block;
     width: 100%;
@@ -82,7 +77,6 @@ input[type=submit]:hover {
     <textarea rows="5" name="Message" placeholder="Questions or feedback?" class="form-control" required></textarea>
   </div>
 
-
   <br>
 
   <div>
@@ -94,7 +88,7 @@ input[type=submit]:hover {
 
 </form>
 
-<img src="../assets/ext_images/2020/post_separator.png" alt="text"> 
+<img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
 <br>
 <a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
 

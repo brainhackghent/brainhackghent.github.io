@@ -13,7 +13,7 @@ show_sidebar: false
 
 <p><div style="text-align: justify">OpenMR Benelux 2021 is an unconference and hackathon style event focusing on inclusive, transparent, and reproducible science in the field of Magnetic Resonance Imaging. It spans three days of talks, discussions, workshops, demos, and hackathons. <b>Please refer to the detailed <a href="../page-program"><b>program</b></a> for more information about these activities.</b></div></p>
 
-<img src="../../assets/ext_images/2020/post_separator.png" alt="text">  
+<img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
 
 <div><p>
     <ul>
@@ -23,7 +23,7 @@ show_sidebar: false
     </ul>
     </p>
 </div>
-<img src="../../assets/ext_images/2020/post_separator.png" alt="text">  
+<img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
 
 <h2>Take note</h2>
 
@@ -32,11 +32,6 @@ show_sidebar: false
 <p><div style="text-align: justify"><i>If the registration form does not display correctly on your device, you can also access the online registration form <a href="https://forms.gle/nC9keHfWe7mQcsLp7">here</a>. </i></div></p>
 
 <style>
-img {
-  width: 30%;
-  height: auto;
-  display: inline-block;
-}
 .reg-form {
   position: relative;
   padding-bottom: 50%; // This is the aspect ratio
@@ -54,6 +49,6 @@ img {
 <div class="reg-form"> 
 <iframe src="https://forms.gle/nC9keHfWe7mQcsLp7" width="640" height="1086" frameborder="0" marginheight="0" marginwidth="0" style="border:0" allowfullscreen>Laden…</iframe>
 </div>
-<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
+<img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" /> 
 <br>
 <a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>

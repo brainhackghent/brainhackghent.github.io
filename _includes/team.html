@@ -2,7 +2,6 @@
   <body>
     <section>
       <div class="container is-fluid">
-
         <h1 class="title">Organizing committee</h1>
 
         <div class="tile is-ancestor person">
@@ -22,9 +21,7 @@
                 </button>
 
                 <div class="panel">
-                  <p>
-                    {{ teamMember.bio }}
-                  </p>
+                  <p>{{ teamMember.bio }}</p>
                 </div>
               </div>
             </div>
@@ -35,13 +32,16 @@
               </div>
              <div class="tile is-vertical is-6 is-parent">
             {% endif %}  -->
-            
+
             {% endfor %}
           </div>
         </div>
 
-        <img src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
-        
+        <img
+          class="img-separator"
+          src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png"
+          alt="horizontal separator"
+        />
       </div>
     </section>
 
@@ -66,9 +66,7 @@
                 </button>
 
                 <div class="panel">
-                  <p>
-                    {{ advisor.bio }}
-                  </p>
+                  <p>{{ advisor.bio }}</p>
                 </div>
               </div>
             </div>
@@ -77,7 +75,11 @@
           </div>
         </div>
 
-        <img src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" /><br>
+        <img
+          class="img-separator"
+          src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png"
+          alt="horizontal separator"
+        /><br />
 
         <a href="#"
           ><i

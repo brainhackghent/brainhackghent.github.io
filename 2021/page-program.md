@@ -4,6 +4,7 @@ subtitle: Program
 layout: page
 show_sidebar: false
 ---
+
 <img class="img1" style="float: right;" src="../../assets/ext_images/2020/interaction.jpg" width="560" height="560" vspace="10px" hspace="20px">
 
  <p align=" justify">OpenMR Virtual 2021 runs over 3 days and consists of two parallel tracks:</p>
@@ -18,7 +19,6 @@ show_sidebar: false
  
 <p align=" justify">Find the schedule of our TrainTrack below. Please note that all times are in Central European Time (CET).</p>
 
+<img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" />
 
-<img src="../../assets/ext_images/2020/post_separator.png" alt="text">
-
- {% include program-table.html program=site.data.program_2021 %}
+{% include program-table.html program=site.data.program_2021 %}
