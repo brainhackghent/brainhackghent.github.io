@@ -35,7 +35,6 @@ show_sidebar: false
   </div>
 </div>
 
-<br>
 <p>Are you interested in sponsoring our event? Head over to our <a href="../../page-contact">Contact Page</a> and contact us! You can view last year's sponsors on <a href="../../2020/page-sponsors">this page</a>.</p>
 
 <img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" /> 
