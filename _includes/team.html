@@ -2,12 +2,15 @@
   <body>
     <section>
       <div class="container is-fluid">
-        <h1 class="title">Organizing committee</h1>
+        <h1 class="title" style="color: #004777">Organizing committee</h1>
 
         <div class="tile is-ancestor person">
-          <div class="tile is-vertical is-10 is-parent">
-            {% for teamMember in include.this_year_team %}
-
+          {% for loop in (0..1) %}
+          <div class="tile is-vertical is-parent">
+            <!-- nr = '4' and limit: 4 are hardcoded => to improve -->
+            {% if loop == 0 %}{% assign nr = '0' %}{% else %}{% assign nr = '4'
+            %}{% endif %} {% for teamMember in include.this_year_team limit: 4
+            offset: nr %}
             <div class="tile is-child box">
               <div class="tile is-child">
                 <!-- <a name=teamMember.linkName></a> -->
@@ -35,23 +38,42 @@
 
             {% endfor %}
           </div>
+          {% endfor %}
         </div>
 
         <img
           class="img-separator"
           src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png"
           alt="horizontal separator"
-        />
+        /><br />
+
+        <a href="#"
+          ><i
+            class="fas fa-arrow-alt-circle-up"
+            style="
+              position: relative;
+              top: -3px;
+              text-indent: 0px;
+              vertical-align: middle;
+              color: #004777;
+            "
+          ></i>
+        </a>
+        <br /><br />
       </div>
     </section>
 
     <section>
       <div class="container is-fluid">
-        <h1 class="title">Advisors</h1>
+        <h1 class="title" style="color: #004777">Advisors</h1>
 
         <div class="tile is-ancestor person">
-          <div class="tile is-vertical is-10 is-parent">
-            {% for advisor in include.this_year_advisors %}
+          {% for loop in (0..1) %}
+          <div class="tile is-vertical is-parent">
+            <!-- nr = '2' and limit: 2 are hardcoded => to improve -->
+            {% if loop == 0 %}{% assign nr = '0' %}{% else %}{% assign nr = '2'
+            %}{% endif %} {% for advisor in include.this_year_advisors limit: 2
+            offset: nr %}
 
             <div class="tile is-child box">
               <div class="tile is-child">
@@ -73,6 +95,7 @@
 
             {% endfor %}
           </div>
+          {% endfor %}
         </div>
 
         <img
