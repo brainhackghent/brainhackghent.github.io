@@ -59,7 +59,7 @@ input[type=submit]:hover {
     <article class="tile is-child box has-text-centered">
       <p class="title" style="color:#004777">Slack</p>
       <p class="subtitle"><span style="color:#ffd996;font-size:75%"> <i class="fab fa-slack-hash"></i> </span>&nbsp;&nbsp;Join the Slack channel!&nbsp;&nbsp;<span style="color:#ffd996;font-size:75%"> <i class="fab fa-slack-hash"></i> </span></p>
-      <div class="content"><a href="https://app.slack.com/client/TFKL50SKV/CFM63P64E/thread/G010PLR3XNX-1614502987.003700" target="_blank">#openmr2021</a></div>
+      <div class="content"><a href="https://app.slack.com/client/TFKL50SKV/CFKP8AB3L/thread/G010PLR3XNX-1614502987.003700" target="_blank">#openmr2021</a></div>
     </article>
   </div>
   <div class="tile is-parent"  style="background-color:#ffd96650">
