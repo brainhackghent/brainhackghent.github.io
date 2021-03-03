@@ -29,7 +29,7 @@ show_sidebar: false
 
 <p><div style="text-align: justify">Before you register, please read our <a href="../../page-code-of-conduct"><b>Code of Conduct</b></a> carefully. You will be asked to adhere to this code when attending OpenMR Virtual 2021. Please also read our <a href="../../privacy-policy"><b>Privacy Policy</b></a> to understand how we process your personal data. Take note that the data you enter in this registration form will be hosted on Google servers outside of the EU. This is necessary for the time period required to organize and run the event, after which it will be deleted unless you want to receive communication from us in the future.</div></p>
 
-<p><div style="text-align: justify"><i>If the registration form does not display correctly on your device, you can also access the online registration form <a href="https://forms.gle/nC9keHfWe7mQcsLp7">here</a>. </i></div></p>
+<p><div style="text-align: justify"><i>If the registration form does not display correctly on your device, you can also access the online registration form <a href="https://forms.gle/nC9keHfWe7mQcsLp7" target="_blank">here</a>. </i></div></p>
 
 <style>
 .reg-form {
