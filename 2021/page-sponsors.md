@@ -1,5 +1,5 @@
 ---
-title: OpenMR Benelux 2021
+title: OpenMR Virtual 2021
 subtitle: Sponsors
 layout: page
 show_sidebar: false
@@ -8,24 +8,42 @@ show_sidebar: false
 ---
 
 <style>
-img {
-  width: 30%;
-  height: auto;
-  display: inline-block;
-}
 .img1 {
   width: 80%;
   height: auto;
   display: inline-block;
 }
+
+/* Two image containers */
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 </style>
 
-## <span style="color:#004777"> We are looking for sponsors! </span>
+## <span style="color:#004777"> A special thanks to our sponsors without whom this event wouldn’t be possible! </span>
+<br>
+<div class="row">
+  <div class="column">
+    <a href="https://www.merckgroup.com/en" target="_blank"><img src="../../img/sponsors-21/MERCK.jpg" style="zoom:35%"/></a>
+  </div>
+  <div class="column">
+    <a href="https://www.ieee.org/" target="_blank"><img src="../../img/sponsors-21/ieee.png" /></a>
+  </div>
+</div>
 
-Are you interested in sponsoring our event? Great! Head over to our <a href="../../page-contact">Contact page</a> and contact us!
+<p>Are you interested in sponsoring our event? Head over to our <a href="../../page-contact">Contact Page</a> and contact us!
 
-You can view last year's sponsors on <a href="../../2020/page-sponsors">this page</a> .
+You can view last year's sponsors on <a href="../../2020/page-sponsors">this page</a>.</p>
 
-<img src="../../assets/ext_images/2020/post_separator.png" alt="text"> 
+<img class="img-separator" src="{{ site.baseurl }}/assets/ext_images/2020/post_separator.png" alt="horizontal separator" /> 
 <br>
 <a href="#"><i class="fas fa-arrow-alt-circle-up" style="position: relative; top: -3px; text-indent: 0px; vertical-align: middle; color:#004777;"></i></a>
