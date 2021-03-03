@@ -1,5 +1,5 @@
 ---
-title: OpenMR Benelux 2021
+title: OpenMR Virtual 2021
 subtitle: Program
 layout: page
 show_sidebar: false

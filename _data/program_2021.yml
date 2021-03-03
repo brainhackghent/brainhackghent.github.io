@@ -140,17 +140,17 @@
     - {
         startTime: "13:45",
         endTime: "14:00",
-        sessionTitle: "Afternoon Break",
+        sessionTitle: "Afternoon break",
         speaker: "",
         speakerLink: "",
-        breakStatus,
+        breakStatus: "break",
         sessionType: "",
         slides: "",
       }
     - {
         startTime: "14:00",
         endTime: "14:45",
-        sessionTitle: "Visualizing data interactively with plotly and dash",
+        sessionTitle: "Visualizing data interactively with Plotly and Dash",
         speaker: "TBD",
         speakerLink: "../page-speakers",
         breakStatus,
@@ -290,7 +290,7 @@
         speaker: "Veronika Cheplygina",
         speakerLink: "../page-speakers",
         breakStatus,
-        sessionTitle: "Twitter for Scientists",
+        sessionTitle: "Twitter for scientists",
         sessionType: "Demo",
         slides: "",
       }
