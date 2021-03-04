@@ -8,7 +8,7 @@
         startTime: "09:30",
         endTime: "10:00",
         sessionTitle: "Opening",
-        speaker: "OpenMR Board",
+        speaker: "OpenMR team",
         speakerLink: "../page-team",
         breakStatus,
         sessionType: "Talk",
@@ -37,7 +37,7 @@
     - {
         startTime: "11:00",
         endTime: "12:00",
-        sessionTitle: "TBA",
+        sessionTitle: "To be announced",
         speaker: "",
         speakerLink: "",
         breakStatus,
@@ -58,7 +58,11 @@
         startTime: "13:00",
         endTime: "15:00",
         sessionTitle: "Git(Hub) workshop",
-        speaker: "Stefano Moia",
+        speaker:
+          {
+            "Stefano Moia",
+            "Melvin Selim Atay",
+          },
         speakerLink: "../page-speakers",
         breakStatus,
         sessionType: "Workshop",
@@ -85,6 +89,7 @@
             "Adora Nwodo",
             "Yo Yehudi",
             "Remi Gau",
+            "Patrick Mineault",
           },
         speakerLink: "../page-speakers",
         breakStatus,
@@ -101,7 +106,7 @@
         startTime: "10:00",
         endTime: "10:15",
         sessionTitle: "Opening",
-        speaker: "OpenMR board",
+        speaker: "OpenMR team",
         speakerLink: "../page-team",
         breakStatus,
         sessionType: "Talk",
@@ -111,7 +116,11 @@
         startTime: "10:15",
         endTime: "12:00",
         sessionTitle: "Data exploration with Jupyter notebook for beginners",
-        speaker: "Stijn Denissen",
+        speaker:
+          {
+            "Stijn Denissen",
+            "To be announced",
+          },
         speakerLink: "../page-speakers",
         breakStatus,
         sessionType: "Workshop",
@@ -130,11 +139,11 @@
     - {
         startTime: "13:00",
         endTime: "13:45",
-        sessionTitle: "TBD",
-        speaker: "TBD",
+        sessionTitle: "Data visualization demo",
+        speaker: "To be announced",
         speakerLink: "../page-speakers",
         breakStatus,
-        sessionType: "TBD",
+        sessionType: "Workshop",
         slides: "",
       }
     - {
@@ -151,7 +160,7 @@
         startTime: "14:00",
         endTime: "14:45",
         sessionTitle: "Visualizing data interactively with Plotly and Dash",
-        speaker: "TBD",
+        speaker: "Stephan Heunis",
         speakerLink: "../page-speakers",
         breakStatus,
         sessionType: "Workshop",
@@ -187,7 +196,7 @@
     - {
         startTime: "10:00",
         endTime: "10:10",
-        speaker: "OpenMR Board",
+        speaker: "OpenMR team",
         speakerLink: "../page-team",
         breakStatus,
         sessionTitle: "Opening",
@@ -257,10 +266,10 @@
     - {
         startTime: "12:15",
         endTime: "12:30",
-        speaker: "TBD",
+        speaker: "To be announced",
         speakerLink: "../page-speakers",
         breakStatus,
-        sessionTitle: "TBD",
+        sessionTitle: "To be announced",
         sessionType: "Demo",
         slides: "",
       }
@@ -317,7 +326,7 @@
     - {
         startTime: "15:00",
         endTime: "15:45",
-        speaker: "TBD",
+        speaker: "To be announced",
         speakerLink: "../page-speakers",
         breakStatus,
         sessionTitle: "Panel science communication",
@@ -327,11 +336,11 @@
     - {
         startTime: "15:45",
         endTime: "16:00",
-        speaker: { "OpenMR board", "Hackathon leaders" },
+        speaker: { "OpenMR team", "Hackathon leaders" },
         speakerLink: "../page-team",
         breakStatus,
         sessionTitle: "Hackathon results & closing",
-        sessionType: "TBD",
+        sessionType: "To be announced",
         slides: "",
       }
     - {
