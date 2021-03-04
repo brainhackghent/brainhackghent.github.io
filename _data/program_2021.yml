@@ -81,7 +81,7 @@
     - {
         startTime: "15:30",
         endTime: "16:30",
-        sessionTitle: "Panel discussion: what constitutes clean code?",
+        sessionTitle: "Panel discussion: what constitutes clean, scienctific code?",
         speaker:
           {
             "Felienne Hermans",
@@ -115,7 +115,7 @@
     - {
         startTime: "10:15",
         endTime: "12:00",
-        sessionTitle: "Data exploration with Jupyter notebook for beginners",
+        sessionTitle: "Introduction to data exploration with Python, Matlab/Octave and Jupyter notebooks",
         speaker:
           {
             "Stijn Denissen",
@@ -329,7 +329,7 @@
         speaker: "To be announced",
         speakerLink: "../page-speakers",
         breakStatus,
-        sessionTitle: "Panel science communication",
+        sessionTitle: "Panel discussion: science communication and open science",
         sessionType: "Panel",
         slides: "",
       }
