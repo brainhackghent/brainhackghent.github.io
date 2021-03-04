@@ -30,7 +30,7 @@ show_sidebar: false
     <article class="tile is-child box has-text-centered">
       <p class="title" style="color:#004777"></p>
       <p class="subtitle"></p>
-      <div class="content"><a href="https://www.ieee.org/" target="_blank"><img src="../../img/sponsors-21/ieee.png" /></a></div>
+      <div class="content"><a href="http://www.embs-chapter.be/" target="_blank"><img src="../../img/sponsors-21/ieee_embs.png" /></a></div>
     </article>
   </div>
 </div>
