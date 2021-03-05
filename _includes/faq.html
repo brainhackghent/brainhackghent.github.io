@@ -2,20 +2,20 @@
   <body>
     <section>
       <div class="container is-fluid">
-        <h1 class="title" style="color: #004777">Frequently Asked Questions</h1>
+        <h2 class="title" style="color: #004777">Frequently Asked Questions</h2>
 
         <div class="tile is-ancestor person">
           <div class="tile is-vertical is-parent">
             {% for category in include.this_year_faq %}
             <div class="tile is-child box">
-              <h2 class="title" style="color: #004777">
+              <h3 class="title" style="color: #004777">
                 <span style="color: #ffd966">
                   <i
                     class="far fa-hand-point-down"
                     style="font-size: 75%"
                   ></i></span
                 >&nbsp;&nbsp;{{ category.section }}
-              </h2>
+              </h3>
               {% for item in category.questions %}
               <div class="tile is-child">
                 <button class="accordion" style="font-size: 95%">
