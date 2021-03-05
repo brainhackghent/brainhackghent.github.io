@@ -26,8 +26,8 @@ show_sidebar: false
 <p><div style="text-align: justify">The information we collect about you:</div></p>
 1. <div style="text-align: justify">name, contact information, affiliation, academic title, years of experience in research and/or industry;</div>
 2. <div style="text-align: justify"> survey data;</div>
-3. <div style="text-align: justify">personal details relevant for events, such as dietary requirements;
-3. <div style="text-align: justify">audio or video material of yourself, but only if you disclose those during a recorded virtual meeting.</div>
+3. <div style="text-align: justify">personal details relevant for events, such as dietary requirements;</div>
+4. <div style="text-align: justify">audio or video material of yourself, but only if you disclose those during a recorded virtual meeting.</div>
 
 <h3 style="color:#004777"><i class="fas fa-info-circle" style="position: relative; top: -5px; text-indent: 0px; vertical-align: middle; color:#004777"></i>&nbsp;&nbsp; Sensitive personal data </h3>
 <p><div style="text-align: justify">“Special categories” of particularly sensitive personal information (“Sensitive Personal Data”) require higher levels of protection. Such Sensitive Personal Data includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. In addition, details about criminal convictions and offenses are also subject to higher levels of protection. <br> At the moment, we do not collect any Sensitive Personal Data.</div></p>
