@@ -18,15 +18,15 @@
     - {
         question: "Is OpenMR Virtual 2021 completely free of charge?",
         answer:
-          "Yes, it sure is! You can also apply for a mini-grant (part of the <a href='../page-registration/#registration'>registration form</a>)
+          "Yes, it sure is! You can also apply for a mini-grant (part of the <a href='../page-registration/#registration' target='_blank'>registration form</a>)
           in case you need it to attend.",
       }
     - {
         question: "What do I need to do to join the event?",
         answer:
           "A computer with stable internet connection that can handle video conferencing and text chat.
-          In addition, all attendees have to <a href='../page-registration/'>register</a> and agree to adhere to
-          our <a href='../../page-code-of-conduct/'>Code of Conduct</a>.",
+          In addition, all attendees have to <a href='../page-registration/' target='_blank'>register</a> and agree to adhere to
+          our <a href='../../page-code-of-conduct/' target='_blank'>Code of Conduct</a> and <a href='../../privacy-policy/' target='_blank'>Privacy Policy</a>.",
       }
     - {
         question: "I cannot make it on March 24th - 26th. Will the materials be made available after the event?",
@@ -71,7 +71,7 @@
           If you want to join a project, you can:
           <ul><li>leave a comment below the project Issue. This way, the hackathon project leader will know how many people are</li>
           interested to join. In order to be able to leave a comment, you first need to <a href='https://github.com/join' target='_blank'>create a GitHub account</a>.
-          <li>let the hackathon project leader know via text message (Discord, Slack)</li></ul>
+          <li>let the hackathon project leader know via text message (e.g., Discord)</li></ul>
 
           If you have other things in mind you want to work on, you can also propose a hackathon project yourself!",
       }
@@ -97,8 +97,7 @@
       }
     - {
         question: "What can I do to ensure a good hackathon project?",
-        answer: "What can I do to ensure a good hackathon project?
-          You are free to lead your project in any way you feel comfortable.<br>
+        answer: "You are free to lead your project in any way you feel comfortable.<br>
           Here are some additional tips:
           <ul><li>Preparation:</li>
           <ul><li>Have a clear (concrete) goal in mind: what would you like to achieve during the event?
@@ -137,6 +136,6 @@
         question: "What do I do?",
         answer:
           "Feel free to ask us anything, we are happy to help. You can contact us in the following ways:
-          <ul><li>Via the ways listed on our <a href='../../page-contact/'>Contact page</a></li>
+          <ul><li>Via the ways listed on our <a href='../../page-contact/' target='_blank'>Contact page</a></li>
           <li>Via a message on <a href='https://twitter.com/openmrbenelux' target='_blank'>Twitter</a></li></ul>",
       }
