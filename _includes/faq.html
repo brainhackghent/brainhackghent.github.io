@@ -2,12 +2,15 @@
   <body>
     <section>
       <div class="container is-fluid">
-        <h2 class="title" style="color: #004777">Frequently Asked Questions</h2>
+        <h2 class="title" style="color: #004777">
+          Feel free to ask us anything, we are happy to help!
+        </h2>
+        <br />
 
         <div class="tile is-ancestor person">
           <div class="tile is-vertical is-parent">
             {% for category in include.this_year_faq %}
-            <div class="tile is-child box">
+            <div id="{{ category.nameLink }}" class="tile is-child box">
               <h3 class="title" style="color: #004777">
                 <span style="color: #ffd966">
                   <i

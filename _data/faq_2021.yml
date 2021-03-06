@@ -1,4 +1,5 @@
 - section: "General"
+  nameLink: "general"
   questions:
     - {
         question: "What is OpenMR?",
@@ -36,6 +37,7 @@
           If speakers agree, we will also include the links to their materials on <a href='../page-content/'>our website</a>.",
       }
 - section: "TrainTrack & HackTrack"
+  nameLink: "train+hacktrack"
   questions:
     - {
         question: "Can I switch between the TrainTrack and the HackTrack?",
@@ -97,7 +99,8 @@
       }
     - {
         question: "What can I do to ensure a good hackathon project?",
-        answer: "You are free to lead your project in any way you feel comfortable.<br>
+        answer:
+          "You are free to lead your project in any way you feel comfortable.<br>
           Here are some additional tips:
           <ul><li>Preparation:</li>
           <ul><li>Have a clear (concrete) goal in mind: what would you like to achieve during the event?
@@ -131,6 +134,7 @@
           <a href='https://github.com/OpenMRBenelux/openmrb2021-hackathon/issues/new/choose' target='_blank'>Propose an unconference session</a> in our GitHub repository using the Unconference Session Template!",
       }
 - section: "I have another question"
+  nameLink: "other"
   questions:
     - {
         question: "What should I do?",
