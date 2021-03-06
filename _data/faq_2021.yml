@@ -32,7 +32,7 @@
         question: "I cannot make it on March 24th - 26th. Will the materials be made available after the event?",
         answer:
           "Yes! We aim to record all TrainTrack talks and workshops and will post them on our
-          <a href='https://www.youtube.com/channel/UCHF85C2YjCEJ7LsS0vz-RXQ' target='_blank'>YouTube channel</a> after the event.
+          <a href='https://www.youtube.com/channel/UCHF85C2YjCEJ7LsS0vz-RXQ' target='_blank'>YouTube channel</a> after the event (see our <a href='../../privacy-policy/' target='_blank'>Privacy Policy</a>).
           If speakers agree, we will also include the links to their materials on <a href='../page-content/'>our website</a>.",
       }
 - section: "TrainTrack & HackTrack"
@@ -69,9 +69,9 @@
           the first day of the event to make it easier for you to choose.
           <br><br>
           If you want to join a project, you can:
-          <ul><li>leave a comment below the project Issue. This way, the hackathon project leader will know how many people are</li>
-          interested to join. In order to be able to leave a comment, you first need to <a href='https://github.com/join' target='_blank'>create a GitHub account</a>.
-          <li>let the hackathon project leader know via text message (e.g., Discord)</li></ul>
+          <ul><li>leave a comment below the project Issue. This way, the hackathon project leader will know how many people are
+          interested to join. In order to be able to leave a comment, you first need to <a href='https://github.com/join' target='_blank'>create a GitHub account</a>.</li>
+          <li>let the hackathon project leader know via text message (we are currently setting up Discord and will share the link here as soon as possible).</li></ul>
 
           If you have other things in mind you want to work on, you can also propose a hackathon project yourself!",
       }
@@ -133,9 +133,9 @@
 - section: "I have another question"
   questions:
     - {
-        question: "What do I do?",
+        question: "What should I do?",
         answer:
-          "Feel free to ask us anything, we are happy to help. You can contact us in the following ways:
-          <ul><li>Via the ways listed on our <a href='../../page-contact/' target='_blank'>Contact page</a></li>
-          <li>Via a message on <a href='https://twitter.com/openmrbenelux' target='_blank'>Twitter</a></li></ul>",
+          "Feel free to ask us anything, we are happy to help. You can contact us:
+          <ul><li>via the ways listed on our <a href='../../page-contact/' target='_blank'>Contact page</a>.</li>
+          <li>via a message on <a href='https://twitter.com/openmrbenelux' target='_blank'>Twitter</a>.</li></ul>",
       }
