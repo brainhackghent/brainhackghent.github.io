@@ -135,7 +135,7 @@
     - {
         question: "What should I do?",
         answer:
-          "Feel free to ask us anything, we are happy to help. You can contact us:
-          <ul><li>via the ways listed on our <a href='../../page-contact/' target='_blank'>Contact page</a>.</li>
-          <li>via a message on <a href='https://twitter.com/openmrbenelux' target='_blank'>Twitter</a>.</li></ul>",
+          "Feel free to ask us anything, we are happy to help. You can contact us via:
+          <ul><li>the ways listed on our <a href='../../page-contact/' target='_blank'>Contact page</a>.</li>
+          <li>a message on <a href='https://twitter.com/openmrbenelux' target='_blank'>Twitter</a>.</li></ul>",
       }
